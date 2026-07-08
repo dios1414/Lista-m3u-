@@ -1,0 +1,267 @@
+#EXTM3U
+
+# ==========================================
+# CATEGORÍA: CANALES DE AIRE Y NOTICIAS
+# ==========================================
+#EXTINF:-1 tvg-id="" tvg-name="America TV HD" group-title="Canales de Aire y Noticias",America TV HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0cc/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="TV Publica HD" group-title="Canales de Aire y Noticias",TV Publica HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0cd/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="TV Publica" group-title="Canales de Aire y Noticias",TV Publica
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0gm/index.m3u8?device ki_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="El Nueve HD" group-title="Canales de Aire y Noticias",El Nueve HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0ce/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="El Trece HD" group-title="Canales de Aire y Noticias",El Trece HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0dt/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Telefe HD" group-title="Canales de Aire y Noticias",Telefe HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0dv/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="TN HD" group-title="Canales de Aire y Noticias",TN HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0cf/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="A24" group-title="Canales de Aire y Noticias",A24
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0g3/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="C5N" group-title="Canales de Aire y Noticias",C5N
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0g4/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Cronica" group-title="Canales de Aire y Noticias",Cronica
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0g5/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="26TV" group-title="Canales de Aire y Noticias",26TV
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0g6/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="La Nacion TV" group-title="Canales de Aire y Noticias",La Nacion TV
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0ea/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Canal de la Ciudad" group-title="Canales de Aire y Noticias",Canal de la Ciudad
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0cw/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="CNN en Espanol" group-title="Canales de Aire y Noticias",CNN en Espanol
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0cb/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="RT en Espanol" group-title="Canales de Aire y Noticias",RT en Espanol
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0cx/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="La Tele (uy)" group-title="Canales de Aire y Noticias",La Tele (uy)
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0fu/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Canal 4 (uy)" group-title="Canales de Aire y Noticias",Canal 4 (uy)
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0fv/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Saeta Canal 10 (uy)" group-title="Canales de Aire y Noticias",Saeta Canal 10 (uy)
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0fw/index.m3u8?device_id=de42beac5341
+
+# ==========================================
+# CATEGORÍA: DEPORTES
+# ==========================================
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 HD" group-title="Deportes",ESPN 1 HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0ch/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1" group-title="Deportes",ESPN 1
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0gq/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" group-title="Deportes",ESPN 2 HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0cg/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" group-title="Deportes",ESPN 2
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0gp/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD" group-title="Deportes",ESPN 3 HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0ci/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" group-title="Deportes",ESPN 3
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0gr/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 HD" group-title="Deportes",ESPN 4 HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0dp/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Premium HD" group-title="Deportes",ESPN Premium HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0dr/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 HD" group-title="Deportes",Fox Sports 1 HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0dq/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1" group-title="Deportes",Fox Sports 1
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0gw/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 HD" group-title="Deportes",Fox Sports 2 HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0cj/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2" group-title="Deportes",Fox Sports 2
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0gs/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3 HD" group-title="Deportes",Fox Sports 3 HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0fa/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="TyC Sports HD" group-title="Deportes",TyC Sports HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0ft/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports HD" group-title="Deportes",TNT Sports HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0g0/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="DeporTV" group-title="Deportes",DeporTV
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0cz/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="AM Sports" group-title="Deportes",AM Sports
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0g7/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="DSports 1 HD (ar)" group-title="Deportes",DSports 1 HD (ar)
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0h6/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="DSports 2 HD (ar)" group-title="Deportes",DSports 2 HD (ar)
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0h4/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Eventos 1 HD (ar)" group-title="Deportes",Eventos 1 HD (ar)
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0dl/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Eventos 2 HD (ar)" group-title="Deportes",Eventos 2 HD (ar)
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0dm/index.m3u8?device_id=de42beac5341
+
+# ==========================================
+# CATEGORÍA: CINE Y SERIES
+# ==========================================
+#EXTINF:-1 tvg-id="" tvg-name="HBO 1" group-title="Cine y Series",HBO 1
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0d6/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" group-title="Cine y Series",HBO 2
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0d8/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus" group-title="Cine y Series",HBO Plus
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0d7/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" group-title="Cine y Series",HBO Family
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0d9/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP" group-title="Cine y Series",HBO POP
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0eq/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="HBO Mundi" group-title="Cine y Series",HBO Mundi
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0er/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="HBO Xtreme" group-title="Cine y Series",HBO Xtreme
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0es/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" group-title="Cine y Series",HBO Signature
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0et/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" group-title="Cine y Series",Cinemax
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0by/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Star Channel HD" group-title="Cine y Series",Star Channel HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0ds/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal HD" group-title="Cine y Series",Cinecanal HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0du/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" group-title="Cine y Series",TNT HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0dw/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series HD" group-title="Cine y Series",TNT Series HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0dx/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="TNT Novelas HD" group-title="Cine y Series",TNT Novelas HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0dz/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Sony HD" group-title="Cine y Series",Sony HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0ck/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Sony Movies HD" group-title="Cine y Series",Sony Movies HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0cr/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel HD" group-title="Cine y Series",Warner Channel HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0cl/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" group-title="Cine y Series",AXN HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0cm/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Universal HD" group-title="Cine y Series",Universal HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0cq/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal" group-title="Cine y Series",Studio Universal
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0fy/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="USA Network" group-title="Cine y Series",USA Network
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0fz/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="FX HD" group-title="Cine y Series",FX HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0fc/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Space HD" group-title="Cine y Series",Space HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0fd/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="AMC" group-title="Cine y Series",AMC
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0g8/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="AMC Series HD" group-title="Cine y Series",AMC Series HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0ff/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD" group-title="Cine y Series",Comedy Central HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0fe/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Europa Europa" group-title="Cine y Series",Europa Europa
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0dd/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="TCM" group-title="Cine y Series",TCM
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0fx/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Volver" group-title="Cine y Series",Volver
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0fs/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Cine.AR" group-title="Cine y Series",Cine.AR
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0g9/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="TLNovelas" group-title="Cine y Series",TLNovelas
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0di/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="El Canal de las Estrellas" group-title="Cine y Series",El Canal de las Estrellas
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0dh/index.m3u8?device_id=de42beac5341
+
+# ==========================================
+# CATEGORÍA: INFANTILES
+# ==========================================
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" group-title="Infantiles",Disney Junior
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0c4/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel HD" group-title="Infantiles",Disney Channel HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0f8/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" group-title="Infantiles",Nickelodeon
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0c5/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" group-title="Infantiles",Nick Jr
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0dc/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" group-title="Infantiles",Discovery Kids
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0db/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD" group-title="Infantiles",Cartoon Network HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0dn/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV" group-title="Infantiles",Baby TV
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0gb/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Pakapaka" group-title="Infantiles",Pakapaka
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0g2/index.m3u8?device_id=de42beac5341
+
+# ==========================================
+# CATEGORÍA: DOCUMENTALES Y VARIEDADES
+# ==========================================
+#EXTINF:-1 tvg-id="" tvg-name="History Channel" group-title="Documentales y Variedades",History Channel
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0c8/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="The History Channel HD" group-title="Documentales y Variedades",The History Channel HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0co/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="History 2" group-title="Documentales y Variedades",History 2
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0ez/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo HD" group-title="Documentales y Variedades",Nat Geo HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0cn/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" group-title="Documentales y Variedades",Discovery Channel HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0e1/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" group-title="Documentales y Variedades",Discovery Science
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0f1/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater HD" group-title="Documentales y Variedades",Discovery Theater HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0fg/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World HD" group-title="Documentales y Variedades",Discovery World HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0fi/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" group-title="Documentales y Variedades",Discovery Turbo
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0ee/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H HD" group-title="Documentales y Variedades",Discovery H&H HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0e0/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="A&E HD" group-title="Documentales y Variedades",A&E HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0cp/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Encuentro" group-title="Documentales y Variedades",Encuentro
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0e4/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="El Gourmet" group-title="Documentales y Variedades",El Gourmet
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0de/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" group-title="Documentales y Variedades",HGTV
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0f0/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Film & Arts HD" group-title="Documentales y Variedades",Film & Arts HD
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0fh/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Canal A" group-title="Documentales y Variedades",Canal A
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0ga/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Rural" group-title="Documentales y Variedades",Rural
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0ew/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="E!" group-title="Documentales y Variedades",E!
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0c7/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime" group-title="Documentales y Variedades",Lifetime
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0d5/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Metro" group-title="Documentales y Variedades",Metro
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0ex/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Ciudad Magazine" group-title="Documentales y Variedades",Ciudad Magazine
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0ey/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="RAI Italia" group-title="Documentales y Variedades",RAI Italia
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0f6/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Galicia TV" group-title="Documentales y Variedades",Galicia TV
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0f7/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="TVE" group-title="Documentales y Variedades",TVE
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0dk/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Allegro TV" group-title="Documentales y Variedades",Allegro TV
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0ca/index.m3u8?device_id=de42beac5341
+
+# ==========================================
+# CATEGORÍA: REALITY
+# ==========================================
+#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO 24/7" group-title="Reality",GRAN HERMANO 24/7
+http://oscam281w.ooguy.com:5000/lucho/1234/Reality/454926/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO CAM1" group-title="Reality",GRAN HERMANO CAM1
+http://oscam281w.ooguy.com:5000/lucho/1234/Reality/454927/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO CAM2" group-title="Reality",GRAN HERMANO CAM2
+http://oscam281w.ooguy.com:5000/lucho/1234/Reality/454928/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO CAM3" group-title="Reality",GRAN HERMANO CAM3
+http://oscam281w.ooguy.com:5000/lucho/1234/Reality/454929/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO" group-title="Reality",GRAN HERMANO
+http://oscam281w.ooguy.com:5000/lucho/1234/Reality/454930/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO" group-title="Reality",GRAN HERMANO
+http://oscam281w.ooguy.com:5000/lucho/1234/Reality/453157/index.m3u8?device_id=de42beac5341
+
+# ==========================================
+# CATEGORÍA: MÚSICA
+# ==========================================
+#EXTINF:-1 tvg-id="" tvg-name="MTV" group-title="Música",MTV
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0gc/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="HTV" group-title="Música",HTV
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0gd/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Quiero Musica" group-title="Música",Quiero Musica
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0f4/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="IN" group-title="Música",IN
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0g1/index.m3u8?device_id=de42beac5341
+
+# ==========================================
+# CATEGORÍA: ADULTOS
+# ==========================================
+#EXTINF:-1 tvg-id="" tvg-name="Playboy" group-title="Adultos",Playboy
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0fp/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Venus" group-title="Adultos",Venus
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0fq/index.m3u8?device_id=de42beac5341
+#EXTINF:-1 tvg-id="" tvg-name="Sextreme" group-title="Adultos",Sextreme
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0fr/index.m3u8?device_id=de42beac5341
