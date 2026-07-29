@@ -1,229 +1,242 @@
+
 #EXTM3U
+# ==========================================
+# CATEGORÍA: CANALES DE AIRE
+# ==========================================
+#EXTM3U
+#EXTINF:-1 tvg-name="AR | 5TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtRyeZrxmiwI5q8nw8zzAZ51OzFt_GbvPYPK2ZWHQ1Hdl75vNU-rl26tQ&s=10" group-title="ARGENTINA",AR | 5TV
+http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4uOHFoURd6ZHj_fHr-N5moc
+#EXTINF:-1 tvg-name="AR | A24²" tvg-logo="https://yt3.googleusercontent.com/77_qrFDUHw1VsCLcxQARuavMIcDxWLC82ng2BLPVC_ZT7cwRI0u1oueNPeqxbBKXpJ6GRkGo=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",AR | A24²
+http://liketv.pro:80/play/-_MfkT3BccvF-mfNF8WPLwUXefTU3gnaP5QXcU8UuUY
+#EXTINF:-1 tvg-name="AR | A24³" tvg-logo="https://yt3.googleusercontent.com/77_qrFDUHw1VsCLcxQARuavMIcDxWLC82ng2BLPVC_ZT7cwRI0u1oueNPeqxbBKXpJ6GRkGo=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",AR | A24³
+http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4lZWDW50uI9QXSHgzzX44xY
+#EXTINF:-1 tvg-name="AR | A24¹" tvg-logo="https://yt3.googleusercontent.com/77_qrFDUHw1VsCLcxQARuavMIcDxWLC82ng2BLPVC_ZT7cwRI0u1oueNPeqxbBKXpJ6GRkGo=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",AR | A24¹
+http://liketv.pro:80/play/-_MfkT3BccvF-mfNF8WPLz-yerj3Cqy57oVoM1lGuEg
+#EXTINF:-1 tvg-name="AR | America TV²" tvg-logo="https://play-lh.googleusercontent.com/4PkCjS2Evy6ERaaYoxshbc7zTaRtsdhIWxSziaDHT3Xl9RwxgncP6Qp1dBNgCMzxHuXR" group-title="ARGENTINA",AR | America TV²
+http://liketv.pro:80/play/-_MfkT3BccvF-mfNF8WPL6Cv1lX5abIBfhWekcdMINA
+#EXTINF:-1 tvg-name="AR | America TV¹" tvg-logo="https://play-lh.googleusercontent.com/4PkCjS2Evy6ERaaYoxshbc7zTaRtsdhIWxSziaDHT3Xl9RwxgncP6Qp1dBNgCMzxHuXR" group-title="ARGENTINA",AR | America TV¹
+http://liketv.pro:80/play/-_MfkT3BccvF-mfNF8WPL3warQ0AaWxLNPo2nw0iBhE
+#EXTINF:-1 tvg-name="AR | AN24" tvg-logo="" group-title="ARGENTINA",AR | AN24
+http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4hakoDjYB565mw9VeGeD4qs
+#EXTINF:-1 tvg-name="AR | Argentina | 12" tvg-logo="https://pbs.twimg.com/profile_images/1988441272827219968/vXlFYjWh_400x400.jpg" group-title="ARGENTINA",AR | Argentina | 12
+http://liketv.pro:80/play/fx0ewL5t3AmUYEWtrF4hXTFiSHOJfaCp0Aucp_Jz_SA
+#EXTINF:-1 tvg-name="AR | Argentinisima Satelital" tvg-logo="https://cdn.m3u.cl/logo/253_Argentinisima_Satelital.png" group-title="ARGENTINA",AR | Argentinisima Satelital
+http://liketv.pro:80/play/fx0ewL5t3AmUYEWtrF4hXb5rNV8J4soOKgVVlNfQoTk
+#EXTINF:-1 tvg-name="AR | Beats Radio" tvg-logo="" group-title="ARGENTINA",AR | Beats Radio
+http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4uh_HOroBSZQCNualTuLmvc
+#EXTINF:-1 tvg-name="AR | Bravo TV" tvg-logo="https://yt3.googleusercontent.com/P6kwwUuRWs_sSSVVDkwUyk4DO8ee1UTmIsdVnZeSItYMYjuUCaHCFxflgKPxamsT7m3Vuq9lriw=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",AR | Bravo TV
+http://liketv.pro:80/play/fx0ewL5t3AmUYEWtrF4hXRAZOe0IJtFIL8zZebUz4j0
+#EXTINF:-1 tvg-name="AR | C5N²" tvg-logo="https://yt3.googleusercontent.com/41G-GpD0EBSWwbNFLR0Bf15WAfi4SVpJVDgb-LgR3r80MVwhuKuiEZ2QBQhm-raUw9XNbRQY=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",AR | C5N²
+http://liketv.pro:80/play/-_MfkT3BccvF-mfNF8WPL3gN5C2WecFvbAW-e1X_zfc
+#EXTINF:-1 tvg-name="AR | C5N³" tvg-logo="https://yt3.googleusercontent.com/41G-GpD0EBSWwbNFLR0Bf15WAfi4SVpJVDgb-LgR3r80MVwhuKuiEZ2QBQhm-raUw9XNbRQY=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",AR | C5N³
+http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4sUIMClfc8TEkIAnObOu8zw
+#EXTINF:-1 tvg-name="AR | C5N¹" tvg-logo="https://yt3.googleusercontent.com/41G-GpD0EBSWwbNFLR0Bf15WAfi4SVpJVDgb-LgR3r80MVwhuKuiEZ2QBQhm-raUw9XNbRQY=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",AR | C5N¹
+http://liketv.pro:80/play/-_MfkT3BccvF-mfNF8WPL_7w2ThV0_AhP49560dAjpw
+#EXTINF:-1 tvg-name="AR | Cable Imagen Armstrong" tvg-logo="" group-title="ARGENTINA",AR | Cable Imagen Armstrong
+http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4orV8bD0gHKWJv23b5-ycJI
+#EXTINF:-1 tvg-name="AR | Cable Imagen Armstrong - AR" tvg-logo="" group-title="ARGENTINA",AR | Cable Imagen Armstrong - AR
+http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4nq5lsV0xt2j-pFzNQGNPxE
+#EXTINF:-1 tvg-name="AR | Canal 13 San Luis" tvg-logo="" group-title="ARGENTINA",AR | Canal 13 San Luis
+http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4kkWe9SQAMNGubG8Zc-27u0
+#EXTINF:-1 tvg-name="AR | Canal 26" tvg-logo="https://files.mastodon.social/accounts/avatars/110/651/774/557/743/547/original/4f8cc0f60d53fc81.jpg" group-title="ARGENTINA",AR | Canal 26
+http://liketv.pro:80/play/fx0ewL5t3AmUYEWtrF4hXZ_dxFWyIimIhs__Be903Yc
+#EXTINF:-1 tvg-name="AR | CANAL 26 AR OP3" tvg-logo="" group-title="ARGENTINA",AR | CANAL 26 AR OP3
+http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4gd3kfX006x-lW9_UNCUJZc
+#EXTINF:-1 tvg-name="AR | Canal 4 - Esquel" tvg-logo="" group-title="ARGENTINA",AR | Canal 4 - Esquel
+http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4qNYt_biVHh8jW_3othNvYA
+#EXTINF:-1 tvg-name="AR | Canal 7 Santiago del Estero" tvg-logo="" group-title="ARGENTINA",AR | Canal 7 Santiago del Estero
+http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4sx-r9nZFyaj0MgsFHBUOrw
+#EXTINF:-1 tvg-name="AR | Canal 79 Santa Clara del Mar" tvg-logo="" group-title="ARGENTINA",AR | Canal 79 Santa Clara del Mar
+http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4jsgjpj6GEfHJ6b4PLnpyr4
+#EXTINF:-1 tvg-name="AR | Canal de la Ciudad" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mhWI95Ymyqyg1FauU8rwtUC8lZIb3vkAhFwhA71hfwRlw=s160-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",AR | Canal de la Ciudad
+http://liketv.pro:80/play/fx0ewL5t3AmUYEWtrF4hXbZvP6gCL2PvZq97dHB2nK8
+#EXTINF:-1 tvg-name="AR | CINE.AR" tvg-logo="https://play-lh.googleusercontent.com/I2vjdY8vSMK02_1d1Uz0Z-GIFKmAzm1Np1hQGRQysJUJRHDM_xmTIjxBnsYB-qBdQ4c" group-title="ARGENTINA",AR | CINE.AR
+http://liketv.pro:80/play/fx0ewL5t3AmUYEWtrF4hXQDz9KfrL2ZHJtje-HZjeJA
+#EXTINF:-1 tvg-name="AR | Ciudad Magazine" tvg-logo="https://yt3.googleusercontent.com/-WBma5si-tXgZGnLIGI5WqXSzrEJWyotm3UGXHNeTYo_Ge-kIGRmvjt0119Aiq3TMt0d4uHH=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",AR | Ciudad Magazine
+http://liketv.pro:80/play/T0uvuO8eTowRu6vT-heAft_sIduy1cvPZuyaBsX_fcs
+#EXTINF:-1 tvg-name="AR | CNN Español" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDlQoRomu5DuNSXHAyvTIC8eQyVPJk7cgQ2A&s" group-title="ARGENTINA",AR | CNN Español
+http://liketv.pro:80/play/T0uvuO8eTowRu6vT-heAfr-b3sEGY-itP8f6GPDDKZ8
+#EXTINF:-1 tvg-name="AR | CNN Internacional" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsJqy1bnWblN5euwv19wyNeY08WesyuwzE3w&s" group-title="ARGENTINA",AR | CNN Internacional
+http://liketv.pro:80/play/T0uvuO8eTowRu6vT-heAfsMTLZbK6UpGrPlYFtQc9Rk
+#EXTINF:-1 tvg-name="AR | CRONICA TV AR OPC1" tvg-logo="" group-title="ARGENTINA",AR | CRONICA TV AR OPC1
+http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4jCxRh_MjiiHGG-Swacd9KE
+#EXTINF:-1 tvg-name="AR | CRONICA TV AR OPC2" tvg-logo="" group-title="ARGENTINA",AR | CRONICA TV AR OPC2
+http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4uCxkvDVGRwUUhQnAFMR2ak
+#EXTINF:-1 tvg-name="AR | CRONICA TV AR OPC3" tvg-logo="" group-title="ARGENTINA",AR | CRONICA TV AR OPC3
+http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4hJwIMw19bI_KlfIK3ZKucE
+#EXTINF:-1 tvg-name="AR | Cronica TV²" tvg-logo="https://yt3.googleusercontent.com/EGyrGJo_3mJxohmZxkP0Ksma9r1J1fU1ORZkGkwJkGJKRyeu6aHTD_Zi-4AodbD0hLRnTzoCWA=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",AR | Cronica TV²
+http://liketv.pro:80/play/T0uvuO8eTowRu6vT-heAfo1SI3ogfxLXqz86XHWLN4A
+#EXTINF:-1 tvg-name="AR | Cronica TV¹" tvg-logo="https://yt3.googleusercontent.com/EGyrGJo_3mJxohmZxkP0Ksma9r1J1fU1ORZkGkwJkGJKRyeu6aHTD_Zi-4AodbD0hLRnTzoCWA=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",AR | Cronica TV¹
+http://liketv.pro:80/play/T0uvuO8eTowRu6vT-heAfjT3boHvbCGwdoHoJisJ5p4
+#EXTINF:-1 tvg-name="AR | El Nueve ARG" tvg-logo="" group-title="ARGENTINA",AR | El Nueve ARG
+http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4rRHnxCiREYxT4nq4X2vdq4
+#EXTINF:-1 tvg-name="AR | El Nueve²" tvg-logo="https://yt3.googleusercontent.com/NvbzRmJuyeZp7HJC8Gly8pqzVSY36wdvhWmb0KQ36idjR-PJfoQpA13GgkWFvZ-Nd8_6xlwVFA=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",AR | El Nueve²
+http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4nMSuyp6osQ_kAKd3gdMo1Q
+#EXTINF:-1 tvg-name="AR | El Nueve¹" tvg-logo="https://yt3.googleusercontent.com/NvbzRmJuyeZp7HJC8Gly8pqzVSY36wdvhWmb0KQ36idjR-PJfoQpA13GgkWFvZ-Nd8_6xlwVFA=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",AR | El Nueve¹
+http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4lSxSMsgQwdOBk8aNsQ1VpI
+#EXTINF:-1 tvg-name="AR | EL TRECE ARG" tvg-logo="" group-title="ARGENTINA",AR | EL TRECE ARG
+http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4ocUKcrl3dig1Mscvktaf08
+#EXTINF:-1 tvg-name="AR | EL TRECE ARG - OP3" tvg-logo="" group-title="ARGENTINA",AR | EL TRECE ARG - OP3
+http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4rVZ7eAO8A7b-CLbtZg4TpQ
+#EXTINF:-1 tvg-name="AR | El Trece Internacional" tvg-logo="https://cdn.mitvstatic.com/channels/cl_el-trece-internacional_m.png" group-title="ARGENTINA",AR | El Trece Internacional
+http://liketv.pro:80/play/T0uvuO8eTowRu6vT-heAfnhzXcdXQDbyHY0KtDoPWok
+#EXTINF:-1 tvg-name="AR | El Trece²" tvg-logo="https://yt3.googleusercontent.com/HvjsN04ks_9U0E-7Um0tlS9u3BE4JX2Dd4x0z2eTboikZk0Ofk7CLtp5yIRSq--EMfu95AAOmQ=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",AR | El Trece²
+http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4ps6MQGHQRmajdj0Z3jd2zo
+#EXTINF:-1 tvg-name="AR | El Trece¹" tvg-logo="https://yt3.googleusercontent.com/HvjsN04ks_9U0E-7Um0tlS9u3BE4JX2Dd4x0z2eTboikZk0Ofk7CLtp5yIRSq--EMfu95AAOmQ=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",AR | El Trece¹
+http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4jLkki4rY7ueZePB5s-ELbs
+#EXTINF:-1 tvg-name="AR | Encuentro" tvg-logo="https://cdn.mitvstatic.com/channels/ar_encuentro_m.png" group-title="ARGENTINA",AR | Encuentro
+http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4un3eVnuIAm5qUeq6Zg1Imw
+#EXTINF:-1 tvg-name="AR | ENCUENTRO" tvg-logo="" group-title="ARGENTINA",AR | ENCUENTRO
+http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4oWlCUAr7_gOmMaDr3hQKa0
+#EXTINF:-1 tvg-name="AR | France 24 Latinoamerica" tvg-logo="https://gbaike-image.cdn.bcebos.com/e1fe9925bc315c6034a81c51cde7dc1349540923d94d/e1fe9925bc315c6034a81c51cde7dc1349540923d94d_url?x-bce-process=image/format,f_auto/resize,m_lfit,w_400,limit_1" group-title="ARGENTINA",AR | France 24 Latinoamerica
+http://liketv.pro:80/play/T0uvuO8eTowRu6vT-heAftdk2C-gK0oIAUgd4se8Yrg
+#EXTINF:-1 tvg-name="AR | Garage TV" tvg-logo="https://media.muckrack.com/groups/icons/elgarage.png" group-title="ARGENTINA",AR | Garage TV
+http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4rlYYi60VTcB_SCLbS-C5xw
+#EXTINF:-1 tvg-name="AR | La Nación+²" tvg-logo="https://cdn.mitvstatic.com/channels/ar_la-nacion_m.png" group-title="ARGENTINA",AR | La Nación+²
+http://liketv.pro:80/play/OQZFFidoqycYVA6rz_UOERuYx4wKnORn2I0mtKcRc_4
+#EXTINF:-1 tvg-name="AR | La Nación+¹" tvg-logo="https://cdn.mitvstatic.com/channels/ar_la-nacion_m.png" group-title="ARGENTINA",AR | La Nación+¹
+http://liketv.pro:80/play/OQZFFidoqycYVA6rz_UOERGAZooMzTGKzpD6M4op8hA
+#EXTINF:-1 tvg-name="AR | Metro" tvg-logo="https://cdn.mitvstatic.com/channels/ar_metro_m.png" group-title="ARGENTINA",AR | Metro
+http://liketv.pro:80/play/T0uvuO8eTowRu6vT-heAfjf7ra-O8BbySh6ZfNUsUnE
+#EXTINF:-1 tvg-name="AR | Milennio TV" tvg-logo="" group-title="ARGENTINA",AR | Milennio TV
+http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4mZ48ytSFVDRZmbuFqfoQSw
+#EXTINF:-1 tvg-name="AR | Net TV" tvg-logo="https://media.canalnet.tv/2018/11/logo-notificaciones-150x150.png" group-title="ARGENTINA",AR | Net TV
+http://liketv.pro:80/play/T0uvuO8eTowRu6vT-heAfrGF7fgsYLZdCzEfADjXMWI
+#EXTINF:-1 tvg-name="AR | PowerHD" tvg-logo="" group-title="ARGENTINA",AR | PowerHD
+http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4pore7IqhZrVRY7kc29Dsfo
+#EXTINF:-1 tvg-name="AR | Quiero Musica" tvg-logo="https://yt3.googleusercontent.com/CvemCtPyPtS-azxYv1iKmrmRUSE-vf4zilXVLjAUNIansCZw680yEk-SIp6k-xv8n7lBVmRjwQ=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",AR | Quiero Musica
+http://liketv.pro:80/play/T0uvuO8eTowRu6vT-heAfnDLjgBAksbY_emEYUxOKp0
+#EXTINF:-1 tvg-name="AR | RT en Español" tvg-logo="" group-title="ARGENTINA",AR | RT en Español
+http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4no-ZgCws6Y9FVTaely7jFA
+#EXTINF:-1 tvg-name="AR | San Luis Mas" tvg-logo="" group-title="ARGENTINA",AR | San Luis Mas
+http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4r4MD7DhMma0TINuTPwMivg
+#EXTINF:-1 tvg-name="AR | Somos" tvg-logo="https://yt3.googleusercontent.com/nL02efJGb6yShrwfVDQ5g2t4ogWZaUWyjJkGOnDp9UcNmGg6VJG11PyhAuwmyd9YqxI87z8Z-w=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",AR | Somos
+http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4i2Km1sPHNac2ujSFRut5E4
+#EXTINF:-1 tvg-name="AR | TELEFE INTERNACIONAL" tvg-logo="" group-title="ARGENTINA",AR | TELEFE INTERNACIONAL
+http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4gJ_rfhEjbQFhNw0ywqyYK4
+#EXTINF:-1 tvg-name="AR | Telefe Internacional -test-" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVl3KEgN7QJyXhN8aTcKfqzrFfZhBQMlYLMA&s" group-title="ARGENTINA",AR | Telefe Internacional -test-
+http://liketv.pro:80/play/OQZFFidoqycYVA6rz_UOEa2PWtlTw_tJtDAzMuFLM9E
+#EXTINF:-1 tvg-name="AR | Telefe²" tvg-logo="https://yt3.googleusercontent.com/Bad3GqpyvghQQ9OvPHbiuU2CKCZrUwJCkCs5as1ypmYEWgQGtb5Fn_QKxvgv_XqDUfTFa2g8=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",AR | Telefe²
+http://liketv.pro:80/play/hxw9E3Vb0dQr9sdim11MAkPR7C0SqrgN2CrpsI7mKoM
+#EXTINF:-1 tvg-name="AR | Telefe³" tvg-logo="https://yt3.googleusercontent.com/Bad3GqpyvghQQ9OvPHbiuU2CKCZrUwJCkCs5as1ypmYEWgQGtb5Fn_QKxvgv_XqDUfTFa2g8=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",AR | Telefe³
+http://liketv.pro:80/play/hxw9E3Vb0dQr9sdim11MAjM3XRRcSA7HVD4cR51Lx-o
+#EXTINF:-1 tvg-name="AR | Telefe¹" tvg-logo="https://yt3.googleusercontent.com/Bad3GqpyvghQQ9OvPHbiuU2CKCZrUwJCkCs5as1ypmYEWgQGtb5Fn_QKxvgv_XqDUfTFa2g8=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",AR | Telefe¹
+http://liketv.pro:80/play/OQZFFidoqycYVA6rz_UOEe215HxDIXyKNJ5ExjTPuVc
+#EXTINF:-1 tvg-name="AR | TN Todo Noticias²" tvg-logo="https://play-lh.googleusercontent.com/pL331qhVv3KATHzIaVnkrQhyNRrV6YWLIzf0SctwFR8sUMY8aCYobe70OTdbQPyVkuc" group-title="ARGENTINA",AR | TN Todo Noticias²
+http://liketv.pro:80/play/hxw9E3Vb0dQr9sdim11MAj3J1jWGfqLf7OX9lOka5KI
+#EXTINF:-1 tvg-name="AR | TN Todo Noticias¹" tvg-logo="https://play-lh.googleusercontent.com/pL331qhVv3KATHzIaVnkrQhyNRrV6YWLIzf0SctwFR8sUMY8aCYobe70OTdbQPyVkuc" group-title="ARGENTINA",AR | TN Todo Noticias¹
+http://liketv.pro:80/play/hxw9E3Vb0dQr9sdim11MAuXMkjrHBmucg8TBm3U9rlo
+#EXTINF:-1 tvg-name="AR | TV Publica" tvg-logo="https://cdn.mitvstatic.com/channels/ar_canal-7-hd_m.png" group-title="ARGENTINA",AR | TV Publica
+http://liketv.pro:80/play/hxw9E3Vb0dQr9sdim11MAgVYDsBUlrw-BtMdzAQYxAQ
+#EXTINF:-1 tvg-name="AR | Unife TV OP1" tvg-logo="" group-title="ARGENTINA",AR | Unife TV OP1
+http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4uuD0sdAh1nZCCkIkc9Ud2Y
+#EXTINF:-1 tvg-name="AR | Unife TV OP2" tvg-logo="" group-title="ARGENTINA",AR | Unife TV OP2
+http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4rIfo5FRvNIx5Q1CAKmH7SY
+#EXTINF:-1 tvg-name="AR | Volver" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXRB9pBB4KLmXTMByfu2OjI-AAsyO1MWIhXw&s" group-title="ARGENTINA",AR | Volver
+http://liketv.pro:80/play/hxw9E3Vb0dQr9sdim11MAmVNRAKNzmtqretfQ5ZlzFU
+#EXTINF:-1 tvg-name="AR | ZN Noticias" tvg-logo="" group-title="ARGENTINA",AR | ZN Noticias
+http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4iv7xK5EXkqmfaroBArb_nM
+#EXTINF:-1 tvg-name="TELEFE" tvg-logo="http://liketv.pro:80/images/ctNzq37fDzTYYagBqLxbsmBhp0zxdFy3qTD5e6Lg_CYO60FgriA-govp9689hFz6Z5HQFKc6D7WIXbl68v5EYaIEZ2mNycMqX3Uk38HDCLg.jpg" group-title="ARGENTINA",TELEFE
+http://liketv.pro:80/play/fx0ewL5t3AmUYEWtrF4hXTm1_-WI5csBfJ-czOg-kSQ
+#EXTINF:-1 tvg-name="TELEFE³" tvg-logo="https://www.sportsvalue.com.br/wp-content/uploads/2026/02/fifa-26-.jpg" group-title="ARGENTINA",TELEFE³
+http://liketv.pro:80/play/-_MfkT3BccvF-mfNF8WPLwZiz2sDQrxDk8af54feOyU
+#EXTINF:-1 tvg-name="TELEFE¹" tvg-logo="https://www.sportsvalue.com.br/wp-content/uploads/2026/02/fifa-26-.jpg" group-title="ARGENTINA",TELEFE¹
+http://liketv.pro:80/play/-_MfkT3BccvF-mfNF8WPLxVs4NGM33xWzdQGfoZJ2gs
+#EXTINF:-1 tvg-name="TELEFE²" tvg-logo="https://www.sportsvalue.com.br/wp-content/uploads/2026/02/fifa-26-.jpg" group-title="ARGENTINA",TELEFE²
+http://liketv.pro:80/play/-_MfkT3BccvF-mfNF8WPL6Os6SpnRapwjySQ3pLBVs8
+#EXTINF:-1 tvg-name="Telefe | AR" tvg-logo="http://liketv.pro:80/images/ctNzq37fDzTYYagBqLxbsmBhp0zxdFy3qTD5e6Lg_CYO60FgriA-govp9689hFz6Z5HQFKc6D7WIXbl68v5EYaIEZ2mNycMqX3Uk38HDCLg.jpg" group-title="ARGENTINA",Telefe | AR
+http://liketv.pro:80/play/-_MfkT3BccvF-mfNF8WPL--lUe3El1RcLVxoPyD-anw
+#EXTINF:-1 tvg-name="TELEFE OP2" tvg-logo="http://172.245.237.159:80/images/NkPcckeLWU5oxnhIOLsoFCJ6cmTH_4zLS7ZSkf-5rj67cTW8hYlXMPwRNkam7DYQ7ea8x3DrIA69VHqE44zCEg.jpg" group-title="ARGENTINA",TELEFE OP2
+http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4i8vwzDTeyUpk6VirzI1jLM
+#EXTINF:-1 tvg-name="TELEFE OP1" tvg-logo="http://ultratvsv.site:80/images/NkPcckeLWU5oxnhIOLsoFCJ6cmTH_4zLS7ZSkf-5rj67cTW8hYlXMPwRNkam7DYQ7ea8x3DrIA69VHqE44zCEg.jpg" group-title="ARGENTINA",TELEFE OP1
+http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4nx8m-GR1LHc2gi3AAZ1Z-Y
+# ==========================================
+# CATEGORÍA: DEPORTES ARGENTINA
+# ==========================================
+#EXTM3U
+#EXTINF:-1 tvg-name="2 espn ar" tvg-logo="" group-title="⚽ARG DEPORTES",2 espn ar
+http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4ueB6OjmRW0Mna-XmAjCYFQ
+#EXTINF:-1 tvg-name="AR | AFA|LPF Play¹²" tvg-logo="https://i.postimg.cc/9Mmq8cTG/maxresdefault.jpg" group-title="⚽ARG DEPORTES",AR | AFA|LPF Play¹²
+http://liketv.pro:80/play/-_MfkT3BccvF-mfNF8WPLw1fX5-z99iZpRdrb2YBxNs
+#EXTINF:-1 tvg-name="AR | AFA|LPF Play¹³" tvg-logo="https://i.postimg.cc/9Mmq8cTG/maxresdefault.jpg" group-title="⚽ARG DEPORTES",AR | AFA|LPF Play¹³
+http://liketv.pro:80/play/-_MfkT3BccvF-mfNF8WPLwIP0-15LzpZ7F7aRIxAXqY
+#EXTINF:-1 tvg-name="AR | AFA|LPF Play¹¹" tvg-logo="https://i.postimg.cc/XvcCkrZH/85f875cb-d24d-4d69-9159-67fb9cfbed80.jpg" group-title="⚽ARG DEPORTES",AR | AFA|LPF Play¹¹
+http://liketv.pro:80/play/-_MfkT3BccvF-mfNF8WPL5GfIPI39ngxE8WIRZ_jDE8
+#EXTINF:-1 tvg-name="AR | AFA|LPF Play¹⁰" tvg-logo="https://i.postimg.cc/XvcCkrZH/85f875cb-d24d-4d69-9159-67fb9cfbed80.jpg" group-title="⚽ARG DEPORTES",AR | AFA|LPF Play¹⁰
+http://liketv.pro:80/play/-_MfkT3BccvF-mfNF8WPL1p9zo9JPj9Kg_Tdb16Qxsw
+#EXTINF:-1 tvg-name="AR | AFA|LPF Play¹⁴" tvg-logo="https://i.postimg.cc/85prKTWL/f23ee198-1e94-4ed8-8231-030d1fb0c97c.jpg" group-title="⚽ARG DEPORTES",AR | AFA|LPF Play¹⁴
+http://liketv.pro:80/play/-_MfkT3BccvF-mfNF8WPL1Rr2_x0CSJn_JsoBkkRp2s
+#EXTINF:-1 tvg-name="AR | AFA|LPF Play⁰²" tvg-logo="https://i.postimg.cc/yNXZyDJf/97694f45-28a2-4de0-878d-6535459722c1.jpg" group-title="⚽ARG DEPORTES",AR | AFA|LPF Play⁰²
+http://liketv.pro:80/play/-_MfkT3BccvF-mfNF8WPL65uqGf9fn5GwEpSfqy23ws
+#EXTINF:-1 tvg-name="AR | AFA|LPF Play⁰³" tvg-logo="https://i.postimg.cc/yNXZyDJf/97694f45-28a2-4de0-878d-6535459722c1.jpg" group-title="⚽ARG DEPORTES",AR | AFA|LPF Play⁰³
+http://liketv.pro:80/play/-_MfkT3BccvF-mfNF8WPL62MW8CeEeGNR5wumHZBA3k
+#EXTINF:-1 tvg-name="AR | AFA|LPF Play⁰¹" tvg-logo="https://i.postimg.cc/yNXZyDJf/97694f45-28a2-4de0-878d-6535459722c1.jpg" group-title="⚽ARG DEPORTES",AR | AFA|LPF Play⁰¹
+http://liketv.pro:80/play/-_MfkT3BccvF-mfNF8WPL2-O_22g_6YP3J4OIXGTiYM
+#EXTINF:-1 tvg-name="AR | AFA|LPF Play⁰⁴" tvg-logo="https://i.postimg.cc/yNXZyDJf/97694f45-28a2-4de0-878d-6535459722c1.jpg" group-title="⚽ARG DEPORTES",AR | AFA|LPF Play⁰⁴
+http://liketv.pro:80/play/-_MfkT3BccvF-mfNF8WPL-C2Re9eo4xFSbOcutTG1mw
+#EXTINF:-1 tvg-name="AR | AFA|LPF Play⁰⁵" tvg-logo="https://i.postimg.cc/yNXZyDJf/97694f45-28a2-4de0-878d-6535459722c1.jpg" group-title="⚽ARG DEPORTES",AR | AFA|LPF Play⁰⁵
+http://liketv.pro:80/play/-_MfkT3BccvF-mfNF8WPL1abNfl3CxZQiT_jdYNwv4k
+#EXTINF:-1 tvg-name="AR | AFA|LPF Play⁰⁶" tvg-logo="https://i.postimg.cc/yNXZyDJf/97694f45-28a2-4de0-878d-6535459722c1.jpg" group-title="⚽ARG DEPORTES",AR | AFA|LPF Play⁰⁶
+http://liketv.pro:80/play/-_MfkT3BccvF-mfNF8WPL45nKIKuV2Qr1sbXSHMjqs4
+#EXTINF:-1 tvg-name="AR | AFA|LPF Play⁰⁷" tvg-logo="https://i.postimg.cc/yNXZyDJf/97694f45-28a2-4de0-878d-6535459722c1.jpg" group-title="⚽ARG DEPORTES",AR | AFA|LPF Play⁰⁷
+http://liketv.pro:80/play/-_MfkT3BccvF-mfNF8WPLysjfYFaRd6T40V8XakEVKw
+#EXTINF:-1 tvg-name="AR | AFA|LPF Play⁰⁸" tvg-logo="https://i.postimg.cc/XvcCkrZH/85f875cb-d24d-4d69-9159-67fb9cfbed80.jpg" group-title="⚽ARG DEPORTES",AR | AFA|LPF Play⁰⁸
+http://liketv.pro:80/play/-_MfkT3BccvF-mfNF8WPLycrxujl3VswRFvlgRVStgg
+#EXTINF:-1 tvg-name="AR | AFA|LPF Play⁰⁹" tvg-logo="https://i.postimg.cc/XvcCkrZH/85f875cb-d24d-4d69-9159-67fb9cfbed80.jpg" group-title="⚽ARG DEPORTES",AR | AFA|LPF Play⁰⁹
+http://liketv.pro:80/play/-_MfkT3BccvF-mfNF8WPL_dt5xTfpHePUiJGYmwPLJM
+#EXTINF:-1 tvg-name="AR | America Sports" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lecXB3yop6mI09ieucofjAhM0vS1ORuZga1KB_nLhqeA=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ARG DEPORTES",AR | America Sports
+http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4tnZ87At-u_1VrShDf5r5MQ
+#EXTINF:-1 tvg-name="AR | BeIN Sports XTRA ñ" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_newAeNdIQKXPR9m4CFkm-QsEouUiGqm61QcIDVArCpjb0=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ARG DEPORTES",AR | BeIN Sports XTRA ñ
+http://liketv.pro:80/play/hxw9E3Vb0dQr9sdim11MAqAj8uFHaqiHZD9H4QZyj-M
+#EXTINF:-1 tvg-name="AR | DAZN F1" tvg-logo="https://i.scdn.co/image/ab67656300005f1f329f86f89c11279f4e6e67c4" group-title="⚽ARG DEPORTES",AR | DAZN F1
+http://liketv.pro:80/play/hxw9E3Vb0dQr9sdim11MAt2U8TA3DX5RsxM4KUbvfsE
+#EXTINF:-1 tvg-name="AR | DeporTV" tvg-logo="https://yt3.googleusercontent.com/T_d2j2xZMjAxPCehiFR6hAv7jE3swcUzfgV8wCXzv1IL7rCEDv3cgQtIxjdmLVyP6ZrSgIu0nw=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ARG DEPORTES",AR | DeporTV
+http://liketv.pro:80/play/hxw9E3Vb0dQr9sdim11MApIdpdA-xGZgtKlRjG3fbyc
+#EXTINF:-1 tvg-name="AR | ESPN 1²" tvg-logo="https://e.espncdn.com/2003/photos2017/0331/ESPN-logo_220.jpg" group-title="⚽ARG DEPORTES",AR | ESPN 1²
+http://liketv.pro:80/play/hxw9E3Vb0dQr9sdim11MAiBe9sGVd8JaLvsbMPmoQZc
+#EXTINF:-1 tvg-name="AR | ESPN 1¹" tvg-logo="https://e.espncdn.com/2003/photos2017/0331/ESPN-logo_220.jpg" group-title="⚽ARG DEPORTES",AR | ESPN 1¹
+http://liketv.pro:80/play/hxw9E3Vb0dQr9sdim11MAqpts1JN-U33ahBuLQ4h95E
+#EXTINF:-1 tvg-name="AR | ESPN 2²" tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn-2_m.png" group-title="⚽ARG DEPORTES",AR | ESPN 2²
+http://liketv.pro:80/play/hxw9E3Vb0dQr9sdim11MAh7xU08DstiI5s9kNnIMNYc
+#EXTINF:-1 tvg-name="AR | ESPN 2¹" tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn-2_m.png" group-title="⚽ARG DEPORTES",AR | ESPN 2¹
+http://liketv.pro:80/play/hxw9E3Vb0dQr9sdim11MAo5g3LS8rAu38FLSLU1qRMk
+#EXTINF:-1 tvg-name="AR | ESPN 3" tvg-logo="https://cdn.mitvstatic.com/channels/5c990929-9b1a-4690-9292-f6378cade546_m.jpg" group-title="⚽ARG DEPORTES",AR | ESPN 3
+http://liketv.pro:80/play/hxw9E3Vb0dQr9sdim11MAl0QZwptmKXJaFd-e0TpDPw
+#EXTINF:-1 tvg-name="AR | ESPN 4" tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/02/espn4.jpg" group-title="⚽ARG DEPORTES",AR | ESPN 4
+http://liketv.pro:80/play/hxw9E3Vb0dQr9sdim11MAph7PSKS8uXgGCrvIaO1YUE
+#EXTINF:-1 tvg-name="AR | ESPN 5" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/logo-espn51.png" group-title="⚽ARG DEPORTES",AR | ESPN 5
+http://liketv.pro:80/play/hxw9E3Vb0dQr9sdim11MAsd996qpnvXv1dybkXRlRyw
+#EXTINF:-1 tvg-name="AR | ESPN 6" tvg-logo="https://ruralink.com.co/wp-content/uploads/2025/03/ESPN-6.png" group-title="⚽ARG DEPORTES",AR | ESPN 6
+http://liketv.pro:80/play/hxw9E3Vb0dQr9sdim11MApxMNCRszPnJOQnPAOn-1xQ
+#EXTINF:-1 tvg-name="AR | ESPN 7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCwdXM7jRRNrzEEWBUm7Z4HZW-rWc_jOu77A&s" group-title="⚽ARG DEPORTES",AR | ESPN 7
+http://liketv.pro:80/play/hxw9E3Vb0dQr9sdim11MAvB42hrb2cTgWZOHD67ViAU
+#EXTINF:-1 tvg-name="AR | ESPN Premium²" tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/05/05/8ad719cccb-espn-premium-en-vivo.jpg" group-title="⚽ARG DEPORTES",AR | ESPN Premium²
+http://liketv.pro:80/play/hxw9E3Vb0dQr9sdim11MApt58gzhZyiu-7ajNtdivVM
+#EXTINF:-1 tvg-name="AR | ESPN Premium¹" tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/05/05/8ad719cccb-espn-premium-en-vivo.jpg" group-title="⚽ARG DEPORTES",AR | ESPN Premium¹
+http://liketv.pro:80/play/hxw9E3Vb0dQr9sdim11MAo23E1ipH0aHo5EfDm0rNcI
+#EXTINF:-1 tvg-name="AR | Fox Sports 2" tvg-logo="https://i.postimg.cc/vBMY1DSj/foxsports2.jpg" group-title="⚽ARG DEPORTES",AR | Fox Sports 2
+http://liketv.pro:80/play/hxw9E3Vb0dQr9sdim11MAtkz3LQHnIzSA6CUgJ14rGE
+#EXTINF:-1 tvg-name="AR | FOX SPORTS 3" tvg-logo="" group-title="⚽ARG DEPORTES",AR | FOX SPORTS 3
+http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4kKj91bHu7efNypwz_qBkbM
+#EXTINF:-1 tvg-name="AR | TyC Sport Play²" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/f5/e3/7cf5e3ab-4148-9e98-b5f5-e813a361ae24/AppIcon-0-0-1x_U007epad-0-85-220.png/492x0w.png" group-title="⚽ARG DEPORTES",AR | TyC Sport Play²
+http://liketv.pro:80/play/Ovj01zhCSnmbX_dv6KERCo8B_cw3rmtK7akeG76Ye1w
+#EXTINF:-1 tvg-name="AR | TyC Sport Play³" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/f5/e3/7cf5e3ab-4148-9e98-b5f5-e813a361ae24/AppIcon-0-0-1x_U007epad-0-85-220.png/492x0w.png" group-title="⚽ARG DEPORTES",AR | TyC Sport Play³
+http://liketv.pro:80/play/Ovj01zhCSnmbX_dv6KERCr454kjCXCdaaODA8VGfSZE
+#EXTINF:-1 tvg-name="AR | TyC Sport Play¹" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/f5/e3/7cf5e3ab-4148-9e98-b5f5-e813a361ae24/AppIcon-0-0-1x_U007epad-0-85-220.png/492x0w.png" group-title="⚽ARG DEPORTES",AR | TyC Sport Play¹
+http://liketv.pro:80/play/Ovj01zhCSnmbX_dv6KERChdM3cz63RL7AEmA7RPvKEM
+#EXTINF:-1 tvg-name="AR | TyC Sports²" tvg-logo="https://depor.com/resizer/n66A5RgMP8JKhR7mio34egX0LZs=/1200x1200/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/LQ4YJX2UWNBJ3JAKCIGTIHNTSM.png" group-title="⚽ARG DEPORTES",AR | TyC Sports²
+http://liketv.pro:80/play/Ovj01zhCSnmbX_dv6KERCvSUwxPtHh-ZylclOMM9dGw
+#EXTINF:-1 tvg-name="AR | TyC Sports¹" tvg-logo="https://depor.com/resizer/n66A5RgMP8JKhR7mio34egX0LZs=/1200x1200/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/LQ4YJX2UWNBJ3JAKCIGTIHNTSM.png" group-title="⚽ARG DEPORTES",AR | TyC Sports¹
+http://liketv.pro:80/play/hxw9E3Vb0dQr9sdim11MAuRNAaOX4-6JM2KwJZVYN_I
+#EXTINF:-1 tvg-name="El Nueve ARG OP1" tvg-logo="" group-title="⚽ARG DEPORTES",El Nueve ARG OP1
+http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4iZ-s9W8N132BD3VwGK2HCE
+#EXTINF:-1 tvg-name="ESPN 1 AR" tvg-logo="https://e.espncdn.com/2003/photos2017/0331/ESPN-logo_220.jpg" group-title="⚽ARG DEPORTES",ESPN 1 AR
+http://liketv.pro:80/play/T0uvuO8eTowRu6vT-heAfsNiyyr8MslNbs83JLA02fg
+#EXTINF:-1 tvg-name="ESPN 3 HD - TM" tvg-logo="" group-title="⚽ARG DEPORTES",ESPN 3 HD - TM
+http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4ipPO8VqMWTTQ7QmECD-37E
+#EXTINF:-1 tvg-name="ESPN MX" tvg-logo="https://imgs.search.brave.com/SDJ0gRWufmkH1WZkmZZh-vSyGsSjqWVO4thmEv8Md88/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/ZGl4LmNvbS9sb2dv/LzIwNDEyNDgucG5n" group-title="⚽ARG DEPORTES",ESPN MX
+http://liketv.pro:80/play/-_MfkT3BccvF-mfNF8WPL5B75VOtpFJiUDw2GTuxNZ8
+#EXTINF:-1 tvg-name="TyC Sports² | AR" tvg-logo="http://liketv.pro:80/images/ctNzq37fDzTYYagBqLxbsmBhp0zxdFy3qTD5e6Lg_CYO60FgriA-govp9689hFz6Z5HQFKc6D7WIXbl68v5EYaIEZ2mNycMqX3Uk38HDCLg.jpg" group-title="⚽ARG DEPORTES",TyC Sports² | AR
+http://liketv.pro:80/play/-_MfkT3BccvF-mfNF8WPL5_lDsp3EY2Pf-ZJlQN4IrM
 
-# ==========================================
-# CATEGORÍA: AIRE / NOTICIAS
-# ==========================================
-#EXTINF:-1 tvg-id="" tvg-name="Telefe HD" group-title="Aire y Noticias",Telefe HD
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/Noticias/a0dv/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="El Trece HD" group-title="Aire y Noticias",El Trece HD
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/Noticias/a0dt/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="El Nueve HD" group-title="Aire y Noticias",El Nueve HD
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/Noticias/a0ce/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="TN HD" group-title="Aire y Noticias",TN HD
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/Noticias/a0cf/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="America TV HD" group-title="Aire y Noticias",America TV HD
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/Noticias/a0cc/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="26TV" group-title="Aire y Noticias",26TV
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/Noticias/a0g6/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="A24" group-title="Aire y Noticias",A24
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/Noticias/a0g3/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="C5N" group-title="Aire y Noticias",C5N
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/Noticias/a0g4/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="CNN en Espanol" group-title="Aire y Noticias",CNN en Espanol
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/Noticias/a0cb/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="Cronica" group-title="Aire y Noticias",Cronica
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/Noticias/a0g5/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="La Nacion TV" group-title="Aire y Noticias",La Nacion TV
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/Noticias/a0ea/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="Metro" group-title="Aire y Noticias",Metro
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/Noticias/a0ex/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="TV Publica HD" group-title="Aire y Noticias",TV Publica HD
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/Noticias/a0cd/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="Canal 5 Rosario" group-title="Aire y Noticias",Canal 5 Rosario
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/Rosario/20503/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="Canal 3 Rosario" group-title="Aire y Noticias",Canal 3 Rosario
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/Rosario/20502/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="La Tele (uy)" group-title="Aire y Noticias",La Tele (uy)
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/TBS1/a0fu/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="Canal 4 (uy)" group-title="Aire y Noticias",Canal 4 (uy)
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/TBS1/a0fv/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="Saeta Canal 10 (uy)" group-title="Aire y Noticias",Saeta Canal 10 (uy)
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/TBS1/a0fw/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="Canal 13" group-title="Aire y Noticias",Canal 13
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/Telefe/canal13/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="Telefe" group-title="Aire y Noticias",Telefe
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/Telefe/telefe/index.m3u8?device_id=4796ac1e4160
 
-
-
-# ==========================================
-# CATEGORÍA: DEPORTES
-# ==========================================
-#EXTINF:-1 tvg-id="" tvg-name="DSports 1 HD (ar)" group-title="Deportes",DSports 1 HD (ar)
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/Deportes/a0h6/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="DSports 2 HD (ar)" group-title="Deportes",DSports 2 HD (ar)
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/Deportes/a0h4/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="TyC Sports HD (ar)" group-title="Deportes",TyC Sports HD (ar)
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/Deportes/a0ft/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports HD (ar)" group-title="Deportes",TNT Sports HD (ar)
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/Deportes/a0g0/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="ESPN Premium HD (ar)" group-title="Deportes",ESPN Premium HD (ar)
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/Deportes/a0dr/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 HD (ar)" group-title="Deportes",ESPN 1 HD (ar)
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/Deportes/a0ch/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD (ar)" group-title="Deportes",ESPN 2 HD (ar)
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/Deportes/a0cg/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD (ar)" group-title="Deportes",ESPN 3 HD (ar)
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/Deportes/a0ci/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 HD (ar)" group-title="Deportes",ESPN 4 HD (ar)
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/Deportes/a0dp/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 HD (ar)" group-title="Deportes",Fox Sports 1 HD (ar)
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/Deportes/a0dq/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 HD (ar)" group-title="Deportes",Fox Sports 2 HD (ar)
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/Deportes/a0cj/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3 HD (ar)" group-title="Deportes",Fox Sports 3 HD (ar)
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/Deportes/a0fa/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="Golf Channel (ar)" group-title="Deportes",Golf Channel (ar)
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/Deportes/a0h7/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="AM Sports (ar)" group-title="Deportes",AM Sports (ar)
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/Deportes/a0g7/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="DeporTV (ar)" group-title="Deportes",DeporTV (ar)
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/Deportes/a0cz/index.m3u8?device_id=4796ac1e4160
-
-# ==========================================
-# CATEGORÍA: CINE Y SERIES
-# ==========================================
-#EXTINF:-1 tvg-id="" tvg-name="HBO 1" group-title="Cine y Series",HBO 1
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/CINE_Y_SERIES/a0d6/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2" group-title="Cine y Series",HBO 2
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/CINE_Y_SERIES/a0d8/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family" group-title="Cine y Series",HBO Family
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/CINE_Y_SERIES/a0d9/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="HBO Mundi" group-title="Cine y Series",HBO Mundi
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/CINE_Y_SERIES/a0er/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="HBO POP" group-title="Cine y Series",HBO POP
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/CINE_Y_SERIES/a0eq/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="HBO Plus" group-title="Cine y Series",HBO Plus
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/CINE_Y_SERIES/a0d7/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" group-title="Cine y Series",HBO Signature
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/CINE_Y_SERIES/a0et/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="HBO Xtreme" group-title="Cine y Series",HBO Xtreme
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/CINE_Y_SERIES/a0es/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="A&E HD" group-title="Cine y Series",A&E HD
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/CINE_Y_SERIES/a0cp/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="AMC" group-title="Cine y Series",AMC
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/CINE_Y_SERIES/a0g8/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="AMC Series HD" group-title="Cine y Series",AMC Series HD
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/CINE_Y_SERIES/a0ff/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="AXN HD" group-title="Cine y Series",AXN HD
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/CINE_Y_SERIES/a0cm/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="Adult swim HD" group-title="Cine y Series",Adult swim HD
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/CINE_Y_SERIES/a0dy/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="Cine.AR" group-title="Cine y Series",Cine.AR
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/CINE_Y_SERIES/a0g9/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="Cinecanal HD" group-title="Cine y Series",Cinecanal HD
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/CINE_Y_SERIES/a0du/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax" group-title="Cine y Series",Cinemax
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/CINE_Y_SERIES/a0by/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD" group-title="Cine y Series",Comedy Central HD
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/CINE_Y_SERIES/a0fe/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="Europa Europa" group-title="Cine y Series",Europa Europa
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/CINE_Y_SERIES/a0dd/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="FX HD" group-title="Cine y Series",FX HD
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/CINE_Y_SERIES/a0fc/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="Sony HD" group-title="Cine y Series",Sony HD
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/CINE_Y_SERIES/a0ck/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="Sony Movies HD" group-title="Cine y Series",Sony Movies HD
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/CINE_Y_SERIES/a0cr/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="Space HD" group-title="Cine y Series",Space HD
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/CINE_Y_SERIES/a0fd/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="Star Channel HD" group-title="Cine y Series",Star Channel HD
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/CINE_Y_SERIES/a0ds/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="Studio Universal" group-title="Cine y Series",Studio Universal
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/CINE_Y_SERIES/a0fy/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="TCM" group-title="Cine y Series",TCM
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/CINE_Y_SERIES/a0fx/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="TLNovelas" group-title="Cine y Series",TLNovelas
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/CINE_Y_SERIES/a0di/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="TNT HD" group-title="Cine y Series",TNT HD
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/CINE_Y_SERIES/a0dw/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="TNT Novelas HD" group-title="Cine y Series",TNT Novelas HD
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/CINE_Y_SERIES/a0dz/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="TNT Series HD" group-title="Cine y Series",TNT Series HD
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/CINE_Y_SERIES/a0dx/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="USA Network" group-title="Cine y Series",USA Network
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/CINE_Y_SERIES/a0fz/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="Universal HD" group-title="Cine y Series",Universal HD
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/CINE_Y_SERIES/a0cq/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="Volver" group-title="Cine y Series",Volver
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/CINE_Y_SERIES/a0fs/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="Warner Channel HD" group-title="Cine y Series",Warner Channel HD
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/CINE_Y_SERIES/a0cl/index.m3u8?device_id=4796ac1e4160
-
-# ==========================================
-# CATEGORÍA: VARIOS / OTROS
-# ==========================================
-#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO 24/7" group-title="Otros",GRAN HERMANO 24/7
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/Reality/454926/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO CAM1" group-title="Otros",GRAN HERMANO CAM1
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/Reality/454927/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO CAM2" group-title="Otros",GRAN HERMANO CAM2
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/Reality/454928/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO CAM3" group-title="Otros",GRAN HERMANO CAM3
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/Reality/454929/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" group-title="Otros",Disney Junior
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/TBS1/a0c4/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" group-title="Otros",Nickelodeon
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/TBS1/a0c5/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="E!" group-title="Otros",E!
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/TBS1/a0c7/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="History Channel" group-title="Otros",History Channel
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/TBS1/a0c8/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="Allegro TV" group-title="Otros",Allegro TV
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/TBS1/a0ca/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo HD" group-title="Otros",Nat Geo HD
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/TBS1/a0cn/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="Canal de la Ciudad" group-title="Otros",Canal de la Ciudad
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/TBS1/a0cw/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="RT en Espanol" group-title="Otros",RT en Espanol
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/TBS1/a0cx/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="Lifetime" group-title="Otros",Lifetime
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/TBS1/a0d5/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" group-title="Otros",Discovery Kids
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/TBS1/a0db/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" group-title="Otros",Nick Jr
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/TBS1/a0dc/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="El Gourmet" group-title="Otros",El Gourmet
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/TBS1/a0de/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="El Canal de las Estrellas" group-title="Otros",El Canal de las Estrellas
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/TBS1/a0dh/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="TVE" group-title="Otros",TVE
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/TBS1/a0dk/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD" group-title="Otros",Cartoon Network HD
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/TBS1/a0dn/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H HD" group-title="Otros",Discovery H&H HD
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/TBS1/a0e0/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" group-title="Otros",Discovery Channel HD
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/TBS1/a0e1/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="Encuentro" group-title="Otros",Encuentro
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/TBS1/a0e4/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" group-title="Otros",Discovery Turbo
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/TBS1/a0ee/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="Rural" group-title="Otros",Rural
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/TBS1/a0ew/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="Ciudad Magazine" group-title="Otros",Ciudad Magazine
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/TBS1/a0ey/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="History 2" group-title="Otros",History 2
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/TBS1/a0ez/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="HGTV" group-title="Otros",HGTV
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/TBS1/a0f0/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" group-title="Otros",Discovery Science
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/TBS1/a0f1/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="Quiero Musica" group-title="Otros",Quiero Musica
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/TBS1/a0f4/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="RAI Italia" group-title="Otros",RAI Italia
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/TBS1/a0f6/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="Galicia TV" group-title="Otros",Galicia TV
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/TBS1/a0f7/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="Disney Channel HD" group-title="Otros",Disney Channel HD
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/TBS1/a0f8/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater HD" group-title="Otros",Discovery Theater HD
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/TBS1/a0fg/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="Film & Arts HD" group-title="Otros",Film & Arts HD
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/TBS1/a0fh/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="Discovery World HD" group-title="Otros",Discovery World HD
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/TBS1/a0fi/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="IN" group-title="Otros",IN
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/TBS1/a0g1/index.m3u8?device_id=4796ac1e4160
-#EXTINF:-1 tvg-id="" tvg-name="Pakapaka" group-title="Otros",Pakapaka
-http://oscam281w.ooguy.com:5000/ottnavigator/1234/TB
