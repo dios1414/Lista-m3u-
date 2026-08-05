@@ -1,242 +1,300 @@
 
 #EXTM3U
 # ==========================================
-# CATEGORÍA: CANALES DE AIRE
+# CATEGORÍA: CANALES ⚽DEPORTES ARGENTINA
 # ==========================================
-#EXTM3U
-#EXTINF:-1 tvg-name="AR | 5TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtRyeZrxmiwI5q8nw8zzAZ51OzFt_GbvPYPK2ZWHQ1Hdl75vNU-rl26tQ&s=10" group-title="ARGENTINA",AR | 5TV
-http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4uOHFoURd6ZHj_fHr-N5moc
-#EXTINF:-1 tvg-name="AR | A24²" tvg-logo="https://yt3.googleusercontent.com/77_qrFDUHw1VsCLcxQARuavMIcDxWLC82ng2BLPVC_ZT7cwRI0u1oueNPeqxbBKXpJ6GRkGo=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",AR | A24²
-http://liketv.pro:80/play/-_MfkT3BccvF-mfNF8WPLwUXefTU3gnaP5QXcU8UuUY
-#EXTINF:-1 tvg-name="AR | A24³" tvg-logo="https://yt3.googleusercontent.com/77_qrFDUHw1VsCLcxQARuavMIcDxWLC82ng2BLPVC_ZT7cwRI0u1oueNPeqxbBKXpJ6GRkGo=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",AR | A24³
-http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4lZWDW50uI9QXSHgzzX44xY
-#EXTINF:-1 tvg-name="AR | A24¹" tvg-logo="https://yt3.googleusercontent.com/77_qrFDUHw1VsCLcxQARuavMIcDxWLC82ng2BLPVC_ZT7cwRI0u1oueNPeqxbBKXpJ6GRkGo=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",AR | A24¹
-http://liketv.pro:80/play/-_MfkT3BccvF-mfNF8WPLz-yerj3Cqy57oVoM1lGuEg
-#EXTINF:-1 tvg-name="AR | America TV²" tvg-logo="https://play-lh.googleusercontent.com/4PkCjS2Evy6ERaaYoxshbc7zTaRtsdhIWxSziaDHT3Xl9RwxgncP6Qp1dBNgCMzxHuXR" group-title="ARGENTINA",AR | America TV²
-http://liketv.pro:80/play/-_MfkT3BccvF-mfNF8WPL6Cv1lX5abIBfhWekcdMINA
-#EXTINF:-1 tvg-name="AR | America TV¹" tvg-logo="https://play-lh.googleusercontent.com/4PkCjS2Evy6ERaaYoxshbc7zTaRtsdhIWxSziaDHT3Xl9RwxgncP6Qp1dBNgCMzxHuXR" group-title="ARGENTINA",AR | America TV¹
-http://liketv.pro:80/play/-_MfkT3BccvF-mfNF8WPL3warQ0AaWxLNPo2nw0iBhE
-#EXTINF:-1 tvg-name="AR | AN24" tvg-logo="" group-title="ARGENTINA",AR | AN24
-http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4hakoDjYB565mw9VeGeD4qs
-#EXTINF:-1 tvg-name="AR | Argentina | 12" tvg-logo="https://pbs.twimg.com/profile_images/1988441272827219968/vXlFYjWh_400x400.jpg" group-title="ARGENTINA",AR | Argentina | 12
-http://liketv.pro:80/play/fx0ewL5t3AmUYEWtrF4hXTFiSHOJfaCp0Aucp_Jz_SA
-#EXTINF:-1 tvg-name="AR | Argentinisima Satelital" tvg-logo="https://cdn.m3u.cl/logo/253_Argentinisima_Satelital.png" group-title="ARGENTINA",AR | Argentinisima Satelital
-http://liketv.pro:80/play/fx0ewL5t3AmUYEWtrF4hXb5rNV8J4soOKgVVlNfQoTk
-#EXTINF:-1 tvg-name="AR | Beats Radio" tvg-logo="" group-title="ARGENTINA",AR | Beats Radio
-http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4uh_HOroBSZQCNualTuLmvc
-#EXTINF:-1 tvg-name="AR | Bravo TV" tvg-logo="https://yt3.googleusercontent.com/P6kwwUuRWs_sSSVVDkwUyk4DO8ee1UTmIsdVnZeSItYMYjuUCaHCFxflgKPxamsT7m3Vuq9lriw=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",AR | Bravo TV
-http://liketv.pro:80/play/fx0ewL5t3AmUYEWtrF4hXRAZOe0IJtFIL8zZebUz4j0
-#EXTINF:-1 tvg-name="AR | C5N²" tvg-logo="https://yt3.googleusercontent.com/41G-GpD0EBSWwbNFLR0Bf15WAfi4SVpJVDgb-LgR3r80MVwhuKuiEZ2QBQhm-raUw9XNbRQY=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",AR | C5N²
-http://liketv.pro:80/play/-_MfkT3BccvF-mfNF8WPL3gN5C2WecFvbAW-e1X_zfc
-#EXTINF:-1 tvg-name="AR | C5N³" tvg-logo="https://yt3.googleusercontent.com/41G-GpD0EBSWwbNFLR0Bf15WAfi4SVpJVDgb-LgR3r80MVwhuKuiEZ2QBQhm-raUw9XNbRQY=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",AR | C5N³
-http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4sUIMClfc8TEkIAnObOu8zw
-#EXTINF:-1 tvg-name="AR | C5N¹" tvg-logo="https://yt3.googleusercontent.com/41G-GpD0EBSWwbNFLR0Bf15WAfi4SVpJVDgb-LgR3r80MVwhuKuiEZ2QBQhm-raUw9XNbRQY=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",AR | C5N¹
-http://liketv.pro:80/play/-_MfkT3BccvF-mfNF8WPL_7w2ThV0_AhP49560dAjpw
-#EXTINF:-1 tvg-name="AR | Cable Imagen Armstrong" tvg-logo="" group-title="ARGENTINA",AR | Cable Imagen Armstrong
-http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4orV8bD0gHKWJv23b5-ycJI
-#EXTINF:-1 tvg-name="AR | Cable Imagen Armstrong - AR" tvg-logo="" group-title="ARGENTINA",AR | Cable Imagen Armstrong - AR
-http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4nq5lsV0xt2j-pFzNQGNPxE
-#EXTINF:-1 tvg-name="AR | Canal 13 San Luis" tvg-logo="" group-title="ARGENTINA",AR | Canal 13 San Luis
-http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4kkWe9SQAMNGubG8Zc-27u0
-#EXTINF:-1 tvg-name="AR | Canal 26" tvg-logo="https://files.mastodon.social/accounts/avatars/110/651/774/557/743/547/original/4f8cc0f60d53fc81.jpg" group-title="ARGENTINA",AR | Canal 26
-http://liketv.pro:80/play/fx0ewL5t3AmUYEWtrF4hXZ_dxFWyIimIhs__Be903Yc
-#EXTINF:-1 tvg-name="AR | CANAL 26 AR OP3" tvg-logo="" group-title="ARGENTINA",AR | CANAL 26 AR OP3
-http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4gd3kfX006x-lW9_UNCUJZc
-#EXTINF:-1 tvg-name="AR | Canal 4 - Esquel" tvg-logo="" group-title="ARGENTINA",AR | Canal 4 - Esquel
-http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4qNYt_biVHh8jW_3othNvYA
-#EXTINF:-1 tvg-name="AR | Canal 7 Santiago del Estero" tvg-logo="" group-title="ARGENTINA",AR | Canal 7 Santiago del Estero
-http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4sx-r9nZFyaj0MgsFHBUOrw
-#EXTINF:-1 tvg-name="AR | Canal 79 Santa Clara del Mar" tvg-logo="" group-title="ARGENTINA",AR | Canal 79 Santa Clara del Mar
-http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4jsgjpj6GEfHJ6b4PLnpyr4
-#EXTINF:-1 tvg-name="AR | Canal de la Ciudad" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mhWI95Ymyqyg1FauU8rwtUC8lZIb3vkAhFwhA71hfwRlw=s160-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",AR | Canal de la Ciudad
-http://liketv.pro:80/play/fx0ewL5t3AmUYEWtrF4hXbZvP6gCL2PvZq97dHB2nK8
-#EXTINF:-1 tvg-name="AR | CINE.AR" tvg-logo="https://play-lh.googleusercontent.com/I2vjdY8vSMK02_1d1Uz0Z-GIFKmAzm1Np1hQGRQysJUJRHDM_xmTIjxBnsYB-qBdQ4c" group-title="ARGENTINA",AR | CINE.AR
-http://liketv.pro:80/play/fx0ewL5t3AmUYEWtrF4hXQDz9KfrL2ZHJtje-HZjeJA
-#EXTINF:-1 tvg-name="AR | Ciudad Magazine" tvg-logo="https://yt3.googleusercontent.com/-WBma5si-tXgZGnLIGI5WqXSzrEJWyotm3UGXHNeTYo_Ge-kIGRmvjt0119Aiq3TMt0d4uHH=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",AR | Ciudad Magazine
-http://liketv.pro:80/play/T0uvuO8eTowRu6vT-heAft_sIduy1cvPZuyaBsX_fcs
-#EXTINF:-1 tvg-name="AR | CNN Español" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDlQoRomu5DuNSXHAyvTIC8eQyVPJk7cgQ2A&s" group-title="ARGENTINA",AR | CNN Español
-http://liketv.pro:80/play/T0uvuO8eTowRu6vT-heAfr-b3sEGY-itP8f6GPDDKZ8
-#EXTINF:-1 tvg-name="AR | CNN Internacional" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsJqy1bnWblN5euwv19wyNeY08WesyuwzE3w&s" group-title="ARGENTINA",AR | CNN Internacional
-http://liketv.pro:80/play/T0uvuO8eTowRu6vT-heAfsMTLZbK6UpGrPlYFtQc9Rk
-#EXTINF:-1 tvg-name="AR | CRONICA TV AR OPC1" tvg-logo="" group-title="ARGENTINA",AR | CRONICA TV AR OPC1
-http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4jCxRh_MjiiHGG-Swacd9KE
-#EXTINF:-1 tvg-name="AR | CRONICA TV AR OPC2" tvg-logo="" group-title="ARGENTINA",AR | CRONICA TV AR OPC2
-http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4uCxkvDVGRwUUhQnAFMR2ak
-#EXTINF:-1 tvg-name="AR | CRONICA TV AR OPC3" tvg-logo="" group-title="ARGENTINA",AR | CRONICA TV AR OPC3
-http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4hJwIMw19bI_KlfIK3ZKucE
-#EXTINF:-1 tvg-name="AR | Cronica TV²" tvg-logo="https://yt3.googleusercontent.com/EGyrGJo_3mJxohmZxkP0Ksma9r1J1fU1ORZkGkwJkGJKRyeu6aHTD_Zi-4AodbD0hLRnTzoCWA=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",AR | Cronica TV²
-http://liketv.pro:80/play/T0uvuO8eTowRu6vT-heAfo1SI3ogfxLXqz86XHWLN4A
-#EXTINF:-1 tvg-name="AR | Cronica TV¹" tvg-logo="https://yt3.googleusercontent.com/EGyrGJo_3mJxohmZxkP0Ksma9r1J1fU1ORZkGkwJkGJKRyeu6aHTD_Zi-4AodbD0hLRnTzoCWA=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",AR | Cronica TV¹
-http://liketv.pro:80/play/T0uvuO8eTowRu6vT-heAfjT3boHvbCGwdoHoJisJ5p4
-#EXTINF:-1 tvg-name="AR | El Nueve ARG" tvg-logo="" group-title="ARGENTINA",AR | El Nueve ARG
-http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4rRHnxCiREYxT4nq4X2vdq4
-#EXTINF:-1 tvg-name="AR | El Nueve²" tvg-logo="https://yt3.googleusercontent.com/NvbzRmJuyeZp7HJC8Gly8pqzVSY36wdvhWmb0KQ36idjR-PJfoQpA13GgkWFvZ-Nd8_6xlwVFA=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",AR | El Nueve²
-http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4nMSuyp6osQ_kAKd3gdMo1Q
-#EXTINF:-1 tvg-name="AR | El Nueve¹" tvg-logo="https://yt3.googleusercontent.com/NvbzRmJuyeZp7HJC8Gly8pqzVSY36wdvhWmb0KQ36idjR-PJfoQpA13GgkWFvZ-Nd8_6xlwVFA=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",AR | El Nueve¹
-http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4lSxSMsgQwdOBk8aNsQ1VpI
-#EXTINF:-1 tvg-name="AR | EL TRECE ARG" tvg-logo="" group-title="ARGENTINA",AR | EL TRECE ARG
-http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4ocUKcrl3dig1Mscvktaf08
-#EXTINF:-1 tvg-name="AR | EL TRECE ARG - OP3" tvg-logo="" group-title="ARGENTINA",AR | EL TRECE ARG - OP3
-http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4rVZ7eAO8A7b-CLbtZg4TpQ
-#EXTINF:-1 tvg-name="AR | El Trece Internacional" tvg-logo="https://cdn.mitvstatic.com/channels/cl_el-trece-internacional_m.png" group-title="ARGENTINA",AR | El Trece Internacional
-http://liketv.pro:80/play/T0uvuO8eTowRu6vT-heAfnhzXcdXQDbyHY0KtDoPWok
-#EXTINF:-1 tvg-name="AR | El Trece²" tvg-logo="https://yt3.googleusercontent.com/HvjsN04ks_9U0E-7Um0tlS9u3BE4JX2Dd4x0z2eTboikZk0Ofk7CLtp5yIRSq--EMfu95AAOmQ=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",AR | El Trece²
-http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4ps6MQGHQRmajdj0Z3jd2zo
-#EXTINF:-1 tvg-name="AR | El Trece¹" tvg-logo="https://yt3.googleusercontent.com/HvjsN04ks_9U0E-7Um0tlS9u3BE4JX2Dd4x0z2eTboikZk0Ofk7CLtp5yIRSq--EMfu95AAOmQ=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",AR | El Trece¹
-http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4jLkki4rY7ueZePB5s-ELbs
-#EXTINF:-1 tvg-name="AR | Encuentro" tvg-logo="https://cdn.mitvstatic.com/channels/ar_encuentro_m.png" group-title="ARGENTINA",AR | Encuentro
-http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4un3eVnuIAm5qUeq6Zg1Imw
-#EXTINF:-1 tvg-name="AR | ENCUENTRO" tvg-logo="" group-title="ARGENTINA",AR | ENCUENTRO
-http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4oWlCUAr7_gOmMaDr3hQKa0
-#EXTINF:-1 tvg-name="AR | France 24 Latinoamerica" tvg-logo="https://gbaike-image.cdn.bcebos.com/e1fe9925bc315c6034a81c51cde7dc1349540923d94d/e1fe9925bc315c6034a81c51cde7dc1349540923d94d_url?x-bce-process=image/format,f_auto/resize,m_lfit,w_400,limit_1" group-title="ARGENTINA",AR | France 24 Latinoamerica
-http://liketv.pro:80/play/T0uvuO8eTowRu6vT-heAftdk2C-gK0oIAUgd4se8Yrg
-#EXTINF:-1 tvg-name="AR | Garage TV" tvg-logo="https://media.muckrack.com/groups/icons/elgarage.png" group-title="ARGENTINA",AR | Garage TV
-http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4rlYYi60VTcB_SCLbS-C5xw
-#EXTINF:-1 tvg-name="AR | La Nación+²" tvg-logo="https://cdn.mitvstatic.com/channels/ar_la-nacion_m.png" group-title="ARGENTINA",AR | La Nación+²
-http://liketv.pro:80/play/OQZFFidoqycYVA6rz_UOERuYx4wKnORn2I0mtKcRc_4
-#EXTINF:-1 tvg-name="AR | La Nación+¹" tvg-logo="https://cdn.mitvstatic.com/channels/ar_la-nacion_m.png" group-title="ARGENTINA",AR | La Nación+¹
-http://liketv.pro:80/play/OQZFFidoqycYVA6rz_UOERGAZooMzTGKzpD6M4op8hA
-#EXTINF:-1 tvg-name="AR | Metro" tvg-logo="https://cdn.mitvstatic.com/channels/ar_metro_m.png" group-title="ARGENTINA",AR | Metro
-http://liketv.pro:80/play/T0uvuO8eTowRu6vT-heAfjf7ra-O8BbySh6ZfNUsUnE
-#EXTINF:-1 tvg-name="AR | Milennio TV" tvg-logo="" group-title="ARGENTINA",AR | Milennio TV
-http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4mZ48ytSFVDRZmbuFqfoQSw
-#EXTINF:-1 tvg-name="AR | Net TV" tvg-logo="https://media.canalnet.tv/2018/11/logo-notificaciones-150x150.png" group-title="ARGENTINA",AR | Net TV
-http://liketv.pro:80/play/T0uvuO8eTowRu6vT-heAfrGF7fgsYLZdCzEfADjXMWI
-#EXTINF:-1 tvg-name="AR | PowerHD" tvg-logo="" group-title="ARGENTINA",AR | PowerHD
-http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4pore7IqhZrVRY7kc29Dsfo
-#EXTINF:-1 tvg-name="AR | Quiero Musica" tvg-logo="https://yt3.googleusercontent.com/CvemCtPyPtS-azxYv1iKmrmRUSE-vf4zilXVLjAUNIansCZw680yEk-SIp6k-xv8n7lBVmRjwQ=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",AR | Quiero Musica
-http://liketv.pro:80/play/T0uvuO8eTowRu6vT-heAfnDLjgBAksbY_emEYUxOKp0
-#EXTINF:-1 tvg-name="AR | RT en Español" tvg-logo="" group-title="ARGENTINA",AR | RT en Español
-http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4no-ZgCws6Y9FVTaely7jFA
-#EXTINF:-1 tvg-name="AR | San Luis Mas" tvg-logo="" group-title="ARGENTINA",AR | San Luis Mas
-http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4r4MD7DhMma0TINuTPwMivg
-#EXTINF:-1 tvg-name="AR | Somos" tvg-logo="https://yt3.googleusercontent.com/nL02efJGb6yShrwfVDQ5g2t4ogWZaUWyjJkGOnDp9UcNmGg6VJG11PyhAuwmyd9YqxI87z8Z-w=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",AR | Somos
-http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4i2Km1sPHNac2ujSFRut5E4
-#EXTINF:-1 tvg-name="AR | TELEFE INTERNACIONAL" tvg-logo="" group-title="ARGENTINA",AR | TELEFE INTERNACIONAL
-http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4gJ_rfhEjbQFhNw0ywqyYK4
-#EXTINF:-1 tvg-name="AR | Telefe Internacional -test-" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVl3KEgN7QJyXhN8aTcKfqzrFfZhBQMlYLMA&s" group-title="ARGENTINA",AR | Telefe Internacional -test-
-http://liketv.pro:80/play/OQZFFidoqycYVA6rz_UOEa2PWtlTw_tJtDAzMuFLM9E
-#EXTINF:-1 tvg-name="AR | Telefe²" tvg-logo="https://yt3.googleusercontent.com/Bad3GqpyvghQQ9OvPHbiuU2CKCZrUwJCkCs5as1ypmYEWgQGtb5Fn_QKxvgv_XqDUfTFa2g8=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",AR | Telefe²
-http://liketv.pro:80/play/hxw9E3Vb0dQr9sdim11MAkPR7C0SqrgN2CrpsI7mKoM
-#EXTINF:-1 tvg-name="AR | Telefe³" tvg-logo="https://yt3.googleusercontent.com/Bad3GqpyvghQQ9OvPHbiuU2CKCZrUwJCkCs5as1ypmYEWgQGtb5Fn_QKxvgv_XqDUfTFa2g8=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",AR | Telefe³
-http://liketv.pro:80/play/hxw9E3Vb0dQr9sdim11MAjM3XRRcSA7HVD4cR51Lx-o
-#EXTINF:-1 tvg-name="AR | Telefe¹" tvg-logo="https://yt3.googleusercontent.com/Bad3GqpyvghQQ9OvPHbiuU2CKCZrUwJCkCs5as1ypmYEWgQGtb5Fn_QKxvgv_XqDUfTFa2g8=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",AR | Telefe¹
-http://liketv.pro:80/play/OQZFFidoqycYVA6rz_UOEe215HxDIXyKNJ5ExjTPuVc
-#EXTINF:-1 tvg-name="AR | TN Todo Noticias²" tvg-logo="https://play-lh.googleusercontent.com/pL331qhVv3KATHzIaVnkrQhyNRrV6YWLIzf0SctwFR8sUMY8aCYobe70OTdbQPyVkuc" group-title="ARGENTINA",AR | TN Todo Noticias²
-http://liketv.pro:80/play/hxw9E3Vb0dQr9sdim11MAj3J1jWGfqLf7OX9lOka5KI
-#EXTINF:-1 tvg-name="AR | TN Todo Noticias¹" tvg-logo="https://play-lh.googleusercontent.com/pL331qhVv3KATHzIaVnkrQhyNRrV6YWLIzf0SctwFR8sUMY8aCYobe70OTdbQPyVkuc" group-title="ARGENTINA",AR | TN Todo Noticias¹
-http://liketv.pro:80/play/hxw9E3Vb0dQr9sdim11MAuXMkjrHBmucg8TBm3U9rlo
-#EXTINF:-1 tvg-name="AR | TV Publica" tvg-logo="https://cdn.mitvstatic.com/channels/ar_canal-7-hd_m.png" group-title="ARGENTINA",AR | TV Publica
-http://liketv.pro:80/play/hxw9E3Vb0dQr9sdim11MAgVYDsBUlrw-BtMdzAQYxAQ
-#EXTINF:-1 tvg-name="AR | Unife TV OP1" tvg-logo="" group-title="ARGENTINA",AR | Unife TV OP1
-http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4uuD0sdAh1nZCCkIkc9Ud2Y
-#EXTINF:-1 tvg-name="AR | Unife TV OP2" tvg-logo="" group-title="ARGENTINA",AR | Unife TV OP2
-http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4rIfo5FRvNIx5Q1CAKmH7SY
-#EXTINF:-1 tvg-name="AR | Volver" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXRB9pBB4KLmXTMByfu2OjI-AAsyO1MWIhXw&s" group-title="ARGENTINA",AR | Volver
-http://liketv.pro:80/play/hxw9E3Vb0dQr9sdim11MAmVNRAKNzmtqretfQ5ZlzFU
-#EXTINF:-1 tvg-name="AR | ZN Noticias" tvg-logo="" group-title="ARGENTINA",AR | ZN Noticias
-http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4iv7xK5EXkqmfaroBArb_nM
-#EXTINF:-1 tvg-name="TELEFE" tvg-logo="http://liketv.pro:80/images/ctNzq37fDzTYYagBqLxbsmBhp0zxdFy3qTD5e6Lg_CYO60FgriA-govp9689hFz6Z5HQFKc6D7WIXbl68v5EYaIEZ2mNycMqX3Uk38HDCLg.jpg" group-title="ARGENTINA",TELEFE
-http://liketv.pro:80/play/fx0ewL5t3AmUYEWtrF4hXTm1_-WI5csBfJ-czOg-kSQ
-#EXTINF:-1 tvg-name="TELEFE³" tvg-logo="https://www.sportsvalue.com.br/wp-content/uploads/2026/02/fifa-26-.jpg" group-title="ARGENTINA",TELEFE³
-http://liketv.pro:80/play/-_MfkT3BccvF-mfNF8WPLwZiz2sDQrxDk8af54feOyU
-#EXTINF:-1 tvg-name="TELEFE¹" tvg-logo="https://www.sportsvalue.com.br/wp-content/uploads/2026/02/fifa-26-.jpg" group-title="ARGENTINA",TELEFE¹
-http://liketv.pro:80/play/-_MfkT3BccvF-mfNF8WPLxVs4NGM33xWzdQGfoZJ2gs
-#EXTINF:-1 tvg-name="TELEFE²" tvg-logo="https://www.sportsvalue.com.br/wp-content/uploads/2026/02/fifa-26-.jpg" group-title="ARGENTINA",TELEFE²
-http://liketv.pro:80/play/-_MfkT3BccvF-mfNF8WPL6Os6SpnRapwjySQ3pLBVs8
-#EXTINF:-1 tvg-name="Telefe | AR" tvg-logo="http://liketv.pro:80/images/ctNzq37fDzTYYagBqLxbsmBhp0zxdFy3qTD5e6Lg_CYO60FgriA-govp9689hFz6Z5HQFKc6D7WIXbl68v5EYaIEZ2mNycMqX3Uk38HDCLg.jpg" group-title="ARGENTINA",Telefe | AR
-http://liketv.pro:80/play/-_MfkT3BccvF-mfNF8WPL--lUe3El1RcLVxoPyD-anw
-#EXTINF:-1 tvg-name="TELEFE OP2" tvg-logo="http://172.245.237.159:80/images/NkPcckeLWU5oxnhIOLsoFCJ6cmTH_4zLS7ZSkf-5rj67cTW8hYlXMPwRNkam7DYQ7ea8x3DrIA69VHqE44zCEg.jpg" group-title="ARGENTINA",TELEFE OP2
-http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4i8vwzDTeyUpk6VirzI1jLM
-#EXTINF:-1 tvg-name="TELEFE OP1" tvg-logo="http://ultratvsv.site:80/images/NkPcckeLWU5oxnhIOLsoFCJ6cmTH_4zLS7ZSkf-5rj67cTW8hYlXMPwRNkam7DYQ7ea8x3DrIA69VHqE44zCEg.jpg" group-title="ARGENTINA",TELEFE OP1
-http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4nx8m-GR1LHc2gi3AAZ1Z-Y
+#EXTINF:-1 tvg-id="" tvg-name="AR | E$PN (¹) HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qzobqn1660760939.png" group-title="⚽DEPORTES ARGENTINA⚽",AR | E$PN (¹) HD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/81262.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | E$PN 2 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzPF7o555O8KtseEn-GAIlp4pYbtLgMUcbGQ&usqp=CAU" group-title="⚽DEPORTES ARGENTINA⚽",AR | E$PN 2 SD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/81259.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR  | E$PN 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzPF7o555O8KtseEn-⚽DEPORTES ARGENTINAgroup-title="⚽DEPORTES ARGENTINA⚽",AR  | E$PN 2 HD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/81258.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | Ę$PN ₱REMlUM HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxdKc-7s0I8z4DhMoksXpAOPUoKuF8Mf5gAkfiasixEg&s=10" group-title="⚽DEPORTES ARGENTINA⚽",AR | Ę$PN ₱REMlUM HD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/81254.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR || E$PN PR€MIUM FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxdKc-7s0I8z4DhMoksXpAOPUoKuF8Mf5gAkfiasixEg&s=10" group-title="⚽DEPORTES ARGENTINA⚽",AR || E$PN PR€MIUM FHD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/149087.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | F⚽X SPORTS 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNxi4gCApcU3HLs00cxRcFY6DFADcYDkgjiQ&usqp=CAU" group-title="⚽DEPORTES ARGENTINA⚽",AR | F⚽X SPORTS 1 HD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/50506.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNxi4gCApcU3HLs00cxRcFY6DFADcYDkgjiQ&usqp=CAU" group-title="⚽DEPORTES ARGENTINA⚽",AR | FOX SPORTS 2 HD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/50507.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 3 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNxi4gCApcU3HLs00cxRcFY6DFADcYDkgjiQ&usqp=CAU" group-title="⚽DEPORTES ARGENTINA⚽",AR | FOX SPORTS 3 SD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/50509.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 3 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNxi4gCApcU3HLs00cxRcFY6DFADcYDkgjiQ&usqp=CAU" group-title="⚽DEPORTES ARGENTINA⚽",AR | FOX SPORTS 3 HD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/50508.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | TⓝΤ SPORTS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNzRaEF7sInMKci-9xC-vXIBVl7h2h9v35ww&usqp=CAU" group-title="⚽DEPORTES ARGENTINA⚽",AR | TⓝΤ SPORTS HD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/81251.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR  | TYC SPORTS SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu094m8UMzCN8OqX-0NNd4X8Zw7ovhNs1N5w&usqp=CAU" group-title="⚽DEPORTES ARGENTINA⚽",AR  | TYC SPORTS SD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/81253.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR ||**T.ŃT*SP0RTS FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk4VHRBaKyJf8clnh-giUtI2n0DJqiFtr-gmkffqeP4A&s=10" group-title="⚽DEPORTES ARGENTINA⚽",AR ||**T.ŃT*SP0RTS FHD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/81284.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | T*Y*C SPORTS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu094m8UMzCN8OqX-0NNd4X8Zw7ovhNs1N5w&usqp=CAU" group-title="⚽DEPORTES ARGENTINA⚽",AR | T*Y*C SPORTS HD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/81252.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | T°Y°C $P0RTS lNTERN∆Cl0N∆L" tvg-logo="http://mundo2.pro:80/images/7c0c70ecc79f67e97c90e97babe4de5a.png" group-title="⚽DEPORTES ARGENTINA⚽",AR | T°Y°C $P0RTS lNTERN∆Cl0N∆L
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/81538.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | DEPORT TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrG5tgUlK-9tZFIvlaYrszEOhe9HTZmHa36g&usqp=CAU" group-title="⚽DEPORTES ARGENTINA⚽",AR | DEPORT TV HD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/81539.ts
+#EXTINF:-1 tvg-id="" tvg-name="D| T&© Sports" tvg-logo="http://mundo2.pro:80/images/2aaf0c473413e80cde32fcf546039218.png" group-title="⚽DEPORTES ARGENTINA⚽",D| T&© Sports
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/361001.ts
+#EXTINF:-1 tvg-id="" tvg-name="EVENTO 6 D$PORTS  " tvg-logo="https://i.ibb.co/HqQRnp7/EVENTOSPPV.jpg" group-title="⚽ EVENTOS PREMIUM ⚽",EVENTO 6 D$PORTS  
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/444070.ts
+#EXTINF:-1 tvg-id="613DTSPlus.ar" tvg-name="AR | D$PORTS 2 0PC ²" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDlwfoUmwVl4nupZGi1nP4xliVd7sW00raoA&usqp=CAU" group-title="⚽ ZONA | D$PORTS PREMIUM ⚽",AR | D$PORTS 2 0PC ²
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/50726.ts
+#EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="AR | D$PORTS + HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDlwfoUmwVl4nupZGi1nP4xliVd7sW00raoA&usqp=CAU" group-title="⚽ ZONA | D$PORTS PREMIUM ⚽",AR | D$PORTS + HD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/54471.ts
+#EXTINF:-1 tvg-id="613DTSPlus.ar" tvg-name="AR | D$P0RTS + 0PC ²" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDlwfoUmwVl4nupZGi1nP4xliVd7sW00raoA&usqp=CAU" group-title="⚽ ZONA | D$PORTS PREMIUM ⚽",AR | D$P0RTS + 0PC ²
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/54472.ts
+#EXTINF:-1 tvg-id="" tvg-name="⏩ UFC 01 ⏪" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuIDTS9agc6-JzeF9DDRCC4OJUKXaizVnESNEwTwzQnWNITDgiuz5ZdA_P&s=10" group-title="⏩ UFC Fight Night ⏪",⏩ UFC 01 ⏪
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/428790.ts
 # ==========================================
-# CATEGORÍA: DEPORTES ARGENTINA
+# CATEGORÍA: ⏩ Gran Hermano Argentina
 # ==========================================
-#EXTM3U
-#EXTINF:-1 tvg-name="2 espn ar" tvg-logo="" group-title="⚽ARG DEPORTES",2 espn ar
-http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4ueB6OjmRW0Mna-XmAjCYFQ
-#EXTINF:-1 tvg-name="AR | AFA|LPF Play¹²" tvg-logo="https://i.postimg.cc/9Mmq8cTG/maxresdefault.jpg" group-title="⚽ARG DEPORTES",AR | AFA|LPF Play¹²
-http://liketv.pro:80/play/-_MfkT3BccvF-mfNF8WPLw1fX5-z99iZpRdrb2YBxNs
-#EXTINF:-1 tvg-name="AR | AFA|LPF Play¹³" tvg-logo="https://i.postimg.cc/9Mmq8cTG/maxresdefault.jpg" group-title="⚽ARG DEPORTES",AR | AFA|LPF Play¹³
-http://liketv.pro:80/play/-_MfkT3BccvF-mfNF8WPLwIP0-15LzpZ7F7aRIxAXqY
-#EXTINF:-1 tvg-name="AR | AFA|LPF Play¹¹" tvg-logo="https://i.postimg.cc/XvcCkrZH/85f875cb-d24d-4d69-9159-67fb9cfbed80.jpg" group-title="⚽ARG DEPORTES",AR | AFA|LPF Play¹¹
-http://liketv.pro:80/play/-_MfkT3BccvF-mfNF8WPL5GfIPI39ngxE8WIRZ_jDE8
-#EXTINF:-1 tvg-name="AR | AFA|LPF Play¹⁰" tvg-logo="https://i.postimg.cc/XvcCkrZH/85f875cb-d24d-4d69-9159-67fb9cfbed80.jpg" group-title="⚽ARG DEPORTES",AR | AFA|LPF Play¹⁰
-http://liketv.pro:80/play/-_MfkT3BccvF-mfNF8WPL1p9zo9JPj9Kg_Tdb16Qxsw
-#EXTINF:-1 tvg-name="AR | AFA|LPF Play¹⁴" tvg-logo="https://i.postimg.cc/85prKTWL/f23ee198-1e94-4ed8-8231-030d1fb0c97c.jpg" group-title="⚽ARG DEPORTES",AR | AFA|LPF Play¹⁴
-http://liketv.pro:80/play/-_MfkT3BccvF-mfNF8WPL1Rr2_x0CSJn_JsoBkkRp2s
-#EXTINF:-1 tvg-name="AR | AFA|LPF Play⁰²" tvg-logo="https://i.postimg.cc/yNXZyDJf/97694f45-28a2-4de0-878d-6535459722c1.jpg" group-title="⚽ARG DEPORTES",AR | AFA|LPF Play⁰²
-http://liketv.pro:80/play/-_MfkT3BccvF-mfNF8WPL65uqGf9fn5GwEpSfqy23ws
-#EXTINF:-1 tvg-name="AR | AFA|LPF Play⁰³" tvg-logo="https://i.postimg.cc/yNXZyDJf/97694f45-28a2-4de0-878d-6535459722c1.jpg" group-title="⚽ARG DEPORTES",AR | AFA|LPF Play⁰³
-http://liketv.pro:80/play/-_MfkT3BccvF-mfNF8WPL62MW8CeEeGNR5wumHZBA3k
-#EXTINF:-1 tvg-name="AR | AFA|LPF Play⁰¹" tvg-logo="https://i.postimg.cc/yNXZyDJf/97694f45-28a2-4de0-878d-6535459722c1.jpg" group-title="⚽ARG DEPORTES",AR | AFA|LPF Play⁰¹
-http://liketv.pro:80/play/-_MfkT3BccvF-mfNF8WPL2-O_22g_6YP3J4OIXGTiYM
-#EXTINF:-1 tvg-name="AR | AFA|LPF Play⁰⁴" tvg-logo="https://i.postimg.cc/yNXZyDJf/97694f45-28a2-4de0-878d-6535459722c1.jpg" group-title="⚽ARG DEPORTES",AR | AFA|LPF Play⁰⁴
-http://liketv.pro:80/play/-_MfkT3BccvF-mfNF8WPL-C2Re9eo4xFSbOcutTG1mw
-#EXTINF:-1 tvg-name="AR | AFA|LPF Play⁰⁵" tvg-logo="https://i.postimg.cc/yNXZyDJf/97694f45-28a2-4de0-878d-6535459722c1.jpg" group-title="⚽ARG DEPORTES",AR | AFA|LPF Play⁰⁵
-http://liketv.pro:80/play/-_MfkT3BccvF-mfNF8WPL1abNfl3CxZQiT_jdYNwv4k
-#EXTINF:-1 tvg-name="AR | AFA|LPF Play⁰⁶" tvg-logo="https://i.postimg.cc/yNXZyDJf/97694f45-28a2-4de0-878d-6535459722c1.jpg" group-title="⚽ARG DEPORTES",AR | AFA|LPF Play⁰⁶
-http://liketv.pro:80/play/-_MfkT3BccvF-mfNF8WPL45nKIKuV2Qr1sbXSHMjqs4
-#EXTINF:-1 tvg-name="AR | AFA|LPF Play⁰⁷" tvg-logo="https://i.postimg.cc/yNXZyDJf/97694f45-28a2-4de0-878d-6535459722c1.jpg" group-title="⚽ARG DEPORTES",AR | AFA|LPF Play⁰⁷
-http://liketv.pro:80/play/-_MfkT3BccvF-mfNF8WPLysjfYFaRd6T40V8XakEVKw
-#EXTINF:-1 tvg-name="AR | AFA|LPF Play⁰⁸" tvg-logo="https://i.postimg.cc/XvcCkrZH/85f875cb-d24d-4d69-9159-67fb9cfbed80.jpg" group-title="⚽ARG DEPORTES",AR | AFA|LPF Play⁰⁸
-http://liketv.pro:80/play/-_MfkT3BccvF-mfNF8WPLycrxujl3VswRFvlgRVStgg
-#EXTINF:-1 tvg-name="AR | AFA|LPF Play⁰⁹" tvg-logo="https://i.postimg.cc/XvcCkrZH/85f875cb-d24d-4d69-9159-67fb9cfbed80.jpg" group-title="⚽ARG DEPORTES",AR | AFA|LPF Play⁰⁹
-http://liketv.pro:80/play/-_MfkT3BccvF-mfNF8WPL_dt5xTfpHePUiJGYmwPLJM
-#EXTINF:-1 tvg-name="AR | America Sports" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lecXB3yop6mI09ieucofjAhM0vS1ORuZga1KB_nLhqeA=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ARG DEPORTES",AR | America Sports
-http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4tnZ87At-u_1VrShDf5r5MQ
-#EXTINF:-1 tvg-name="AR | BeIN Sports XTRA ñ" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_newAeNdIQKXPR9m4CFkm-QsEouUiGqm61QcIDVArCpjb0=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ARG DEPORTES",AR | BeIN Sports XTRA ñ
-http://liketv.pro:80/play/hxw9E3Vb0dQr9sdim11MAqAj8uFHaqiHZD9H4QZyj-M
-#EXTINF:-1 tvg-name="AR | DAZN F1" tvg-logo="https://i.scdn.co/image/ab67656300005f1f329f86f89c11279f4e6e67c4" group-title="⚽ARG DEPORTES",AR | DAZN F1
-http://liketv.pro:80/play/hxw9E3Vb0dQr9sdim11MAt2U8TA3DX5RsxM4KUbvfsE
-#EXTINF:-1 tvg-name="AR | DeporTV" tvg-logo="https://yt3.googleusercontent.com/T_d2j2xZMjAxPCehiFR6hAv7jE3swcUzfgV8wCXzv1IL7rCEDv3cgQtIxjdmLVyP6ZrSgIu0nw=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ARG DEPORTES",AR | DeporTV
-http://liketv.pro:80/play/hxw9E3Vb0dQr9sdim11MApIdpdA-xGZgtKlRjG3fbyc
-#EXTINF:-1 tvg-name="AR | ESPN 1²" tvg-logo="https://e.espncdn.com/2003/photos2017/0331/ESPN-logo_220.jpg" group-title="⚽ARG DEPORTES",AR | ESPN 1²
-http://liketv.pro:80/play/hxw9E3Vb0dQr9sdim11MAiBe9sGVd8JaLvsbMPmoQZc
-#EXTINF:-1 tvg-name="AR | ESPN 1¹" tvg-logo="https://e.espncdn.com/2003/photos2017/0331/ESPN-logo_220.jpg" group-title="⚽ARG DEPORTES",AR | ESPN 1¹
-http://liketv.pro:80/play/hxw9E3Vb0dQr9sdim11MAqpts1JN-U33ahBuLQ4h95E
-#EXTINF:-1 tvg-name="AR | ESPN 2²" tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn-2_m.png" group-title="⚽ARG DEPORTES",AR | ESPN 2²
-http://liketv.pro:80/play/hxw9E3Vb0dQr9sdim11MAh7xU08DstiI5s9kNnIMNYc
-#EXTINF:-1 tvg-name="AR | ESPN 2¹" tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn-2_m.png" group-title="⚽ARG DEPORTES",AR | ESPN 2¹
-http://liketv.pro:80/play/hxw9E3Vb0dQr9sdim11MAo5g3LS8rAu38FLSLU1qRMk
-#EXTINF:-1 tvg-name="AR | ESPN 3" tvg-logo="https://cdn.mitvstatic.com/channels/5c990929-9b1a-4690-9292-f6378cade546_m.jpg" group-title="⚽ARG DEPORTES",AR | ESPN 3
-http://liketv.pro:80/play/hxw9E3Vb0dQr9sdim11MAl0QZwptmKXJaFd-e0TpDPw
-#EXTINF:-1 tvg-name="AR | ESPN 4" tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/02/espn4.jpg" group-title="⚽ARG DEPORTES",AR | ESPN 4
-http://liketv.pro:80/play/hxw9E3Vb0dQr9sdim11MAph7PSKS8uXgGCrvIaO1YUE
-#EXTINF:-1 tvg-name="AR | ESPN 5" tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/logo-espn51.png" group-title="⚽ARG DEPORTES",AR | ESPN 5
-http://liketv.pro:80/play/hxw9E3Vb0dQr9sdim11MAsd996qpnvXv1dybkXRlRyw
-#EXTINF:-1 tvg-name="AR | ESPN 6" tvg-logo="https://ruralink.com.co/wp-content/uploads/2025/03/ESPN-6.png" group-title="⚽ARG DEPORTES",AR | ESPN 6
-http://liketv.pro:80/play/hxw9E3Vb0dQr9sdim11MApxMNCRszPnJOQnPAOn-1xQ
-#EXTINF:-1 tvg-name="AR | ESPN 7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCwdXM7jRRNrzEEWBUm7Z4HZW-rWc_jOu77A&s" group-title="⚽ARG DEPORTES",AR | ESPN 7
-http://liketv.pro:80/play/hxw9E3Vb0dQr9sdim11MAvB42hrb2cTgWZOHD67ViAU
-#EXTINF:-1 tvg-name="AR | ESPN Premium²" tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/05/05/8ad719cccb-espn-premium-en-vivo.jpg" group-title="⚽ARG DEPORTES",AR | ESPN Premium²
-http://liketv.pro:80/play/hxw9E3Vb0dQr9sdim11MApt58gzhZyiu-7ajNtdivVM
-#EXTINF:-1 tvg-name="AR | ESPN Premium¹" tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/05/05/8ad719cccb-espn-premium-en-vivo.jpg" group-title="⚽ARG DEPORTES",AR | ESPN Premium¹
-http://liketv.pro:80/play/hxw9E3Vb0dQr9sdim11MAo23E1ipH0aHo5EfDm0rNcI
-#EXTINF:-1 tvg-name="AR | Fox Sports 2" tvg-logo="https://i.postimg.cc/vBMY1DSj/foxsports2.jpg" group-title="⚽ARG DEPORTES",AR | Fox Sports 2
-http://liketv.pro:80/play/hxw9E3Vb0dQr9sdim11MAtkz3LQHnIzSA6CUgJ14rGE
-#EXTINF:-1 tvg-name="AR | FOX SPORTS 3" tvg-logo="" group-title="⚽ARG DEPORTES",AR | FOX SPORTS 3
-http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4kKj91bHu7efNypwz_qBkbM
-#EXTINF:-1 tvg-name="AR | TyC Sport Play²" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/f5/e3/7cf5e3ab-4148-9e98-b5f5-e813a361ae24/AppIcon-0-0-1x_U007epad-0-85-220.png/492x0w.png" group-title="⚽ARG DEPORTES",AR | TyC Sport Play²
-http://liketv.pro:80/play/Ovj01zhCSnmbX_dv6KERCo8B_cw3rmtK7akeG76Ye1w
-#EXTINF:-1 tvg-name="AR | TyC Sport Play³" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/f5/e3/7cf5e3ab-4148-9e98-b5f5-e813a361ae24/AppIcon-0-0-1x_U007epad-0-85-220.png/492x0w.png" group-title="⚽ARG DEPORTES",AR | TyC Sport Play³
-http://liketv.pro:80/play/Ovj01zhCSnmbX_dv6KERCr454kjCXCdaaODA8VGfSZE
-#EXTINF:-1 tvg-name="AR | TyC Sport Play¹" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/f5/e3/7cf5e3ab-4148-9e98-b5f5-e813a361ae24/AppIcon-0-0-1x_U007epad-0-85-220.png/492x0w.png" group-title="⚽ARG DEPORTES",AR | TyC Sport Play¹
-http://liketv.pro:80/play/Ovj01zhCSnmbX_dv6KERChdM3cz63RL7AEmA7RPvKEM
-#EXTINF:-1 tvg-name="AR | TyC Sports²" tvg-logo="https://depor.com/resizer/n66A5RgMP8JKhR7mio34egX0LZs=/1200x1200/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/LQ4YJX2UWNBJ3JAKCIGTIHNTSM.png" group-title="⚽ARG DEPORTES",AR | TyC Sports²
-http://liketv.pro:80/play/Ovj01zhCSnmbX_dv6KERCvSUwxPtHh-ZylclOMM9dGw
-#EXTINF:-1 tvg-name="AR | TyC Sports¹" tvg-logo="https://depor.com/resizer/n66A5RgMP8JKhR7mio34egX0LZs=/1200x1200/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/LQ4YJX2UWNBJ3JAKCIGTIHNTSM.png" group-title="⚽ARG DEPORTES",AR | TyC Sports¹
-http://liketv.pro:80/play/hxw9E3Vb0dQr9sdim11MAuRNAaOX4-6JM2KwJZVYN_I
-#EXTINF:-1 tvg-name="El Nueve ARG OP1" tvg-logo="" group-title="⚽ARG DEPORTES",El Nueve ARG OP1
-http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4iZ-s9W8N132BD3VwGK2HCE
-#EXTINF:-1 tvg-name="ESPN 1 AR" tvg-logo="https://e.espncdn.com/2003/photos2017/0331/ESPN-logo_220.jpg" group-title="⚽ARG DEPORTES",ESPN 1 AR
-http://liketv.pro:80/play/T0uvuO8eTowRu6vT-heAfsNiyyr8MslNbs83JLA02fg
-#EXTINF:-1 tvg-name="ESPN 3 HD - TM" tvg-logo="" group-title="⚽ARG DEPORTES",ESPN 3 HD - TM
-http://liketv.pro:80/play/lrrvW-jOnN6ydJGiWywA4ipPO8VqMWTTQ7QmECD-37E
-#EXTINF:-1 tvg-name="ESPN MX" tvg-logo="https://imgs.search.brave.com/SDJ0gRWufmkH1WZkmZZh-vSyGsSjqWVO4thmEv8Md88/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/ZGl4LmNvbS9sb2dv/LzIwNDEyNDgucG5n" group-title="⚽ARG DEPORTES",ESPN MX
-http://liketv.pro:80/play/-_MfkT3BccvF-mfNF8WPL5B75VOtpFJiUDw2GTuxNZ8
-#EXTINF:-1 tvg-name="TyC Sports² | AR" tvg-logo="http://liketv.pro:80/images/ctNzq37fDzTYYagBqLxbsmBhp0zxdFy3qTD5e6Lg_CYO60FgriA-govp9689hFz6Z5HQFKc6D7WIXbl68v5EYaIEZ2mNycMqX3Uk38HDCLg.jpg" group-title="⚽ARG DEPORTES",TyC Sports² | AR
-http://liketv.pro:80/play/-_MfkT3BccvF-mfNF8WPL5_lDsp3EY2Pf-ZJlQN4IrM
-
-
+#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO 24/7" tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg" group-title="⏩ Gran Hermano Argentina ⏪",GRAN HERMANO 24/7
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/454926.ts
+#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO CAM 1" tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg" group-title="⏩ Gran Hermano Argentina ⏪",GRAN HERMANO CAM 1
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/454927.ts
+#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO CAM 2 [0ndeman]" tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg" group-title="⏩ Gran Hermano Argentina ⏪",GRAN HERMANO CAM 2 [0ndeman]
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/454928.ts
+#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO CAM 3 [0ndemand]" tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg" group-title="⏩ Gran Hermano Argentina ⏪",GRAN HERMANO CAM 3 [0ndemand]
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/454929.ts
+#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO MULTICAMARA 0ndemand" tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg" group-title="⏩ Gran Hermano Argentina ⏪",GRAN HERMANO MULTICAMARA 0ndemand
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/454930.ts
+#EXTINF:-1 tvg-id="" tvg-name="✓⚡*GR∆N HE®M∆N0 ∆RGĘNTlN∆ ☀️⭐" tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg" group-title="⏩ Gran Hermano Argentina ⏪",✓⚡*GR∆N HE®M∆N0 ∆RGĘNTlN∆ ☀️⭐
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/453157.ts
+# ==========================================
+# CATEGORÍA: ❎ ARGENTlNA ❎
+# ==========================================
+#EXTINF:-1 tvg-id="" tvg-name="AR | AMERIC∆  ꜱᴅ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0fgLDmFN8t0LWvb7rkI6ZCCiRJWEQheswpg&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | AMERIC∆  ꜱᴅ
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/81275.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | AMERICA TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0fgLDmFN8t0LWvb7rkI6ZCCiRJWEQheswpg&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | AMERICA TV HD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/81276.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | AMERICA FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0fgLDmFN8t0LWvb7rkI6ZCCiRJWEQheswpg&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | AMERICA FHD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/81283.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | EL NUEVE SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmX8tjoTHylcaDD3_48yzo6Nzx50MjRojLPA&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | EL NUEVE SD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/81272.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | EL NUEVE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmX8tjoTHylcaDD3_48yzo6Nzx50MjRojLPA&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | EL NUEVE HD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/81271.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | EL NUEVE FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmX8tjoTHylcaDD3_48yzo6Nzx50MjRojLPA&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | EL NUEVE FHD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/81270.ts
+#EXTINF:-1 tvg-id="123dtv.ar" tvg-name="AR | TELEFE HD ¹" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlUMa6b30HJG6XO79tuoAQ959n0gEh6oSg-A&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | TELEFE HD ¹
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/81285.ts
+#EXTINF:-1 tvg-id="123dtv.ar" tvg-name="AR | TELEFE HD ²" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlUMa6b30HJG6XO79tuoAQ959n0gEh6oSg-A&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | TELEFE HD ²
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/50510.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | TELEFE FHD " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlUMa6b30HJG6XO79tuoAQ959n0gEh6oSg-A&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | TELEFE FHD 
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/50521.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | CRONICA HD ¹" tvg-logo="https://ratingpolitica.com/wp-content/uploads/2021/05/image0-1-9.jpeg" group-title="❎ ARGENTlNA ❎",AR | CRONICA HD ¹
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/81268.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-| ARGENTINISIMA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSme3KO2n4jP4MV4eW2pFgxXKCr4wirNrpQg&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR-| ARGENTINISIMA HD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/81318.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-| ARGENTINISIMA SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSme3KO2n4jP4MV4eW2pFgxXKCr4wirNrpQg&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR-| ARGENTINISIMA SD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/81319.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | C5N FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhvEHUTKugnqQz7G_9UHyVDuyf_wGYWdQblw&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | C5N FHD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/81273.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | Telemax sd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpm9gebQm0ncjH8Oe9S3sX69ShIc7W4Ky7cA&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | Telemax sd
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/81288.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-| EL GARAGE TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRL_0iZ7hJH2d4qbdZ73r_qkKqe8ws4rNkLg&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR-| EL GARAGE TV HD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/81322.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | NOTICIAS TN SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkeFcQtno1fsHYYXHfJDWiBL1fOKmYBjMPVw&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | NOTICIAS TN SD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/81325.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | C∆N∆L 13 HD ¹" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUxd6vjCPiTZWnhGdbdAMoqNTZGbzvCHO1A&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | C∆N∆L 13 HD ¹
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/81300.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | CANAL 13 FHD* " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUxd6vjCPiTZWnhGdbdAMoqNTZGbzvCHO1A&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | CANAL 13 FHD* 
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/81266.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | CANAL 13 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUxd6vjCPiTZWnhGdbdAMoqNTZGbzvCHO1A&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | CANAL 13 HD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/81269.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | TV PUBLICA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6qM7GfDTvfBO-q63HLUW-QsbNWXiZEwqhkw&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | TV PUBLICA HD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/81265.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR l VOLVER HD " tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ky2Var5cUn9XL8XMG36xGv7TgIlunPgl01BD66X7H--M8=s900-c-k-c0x00ffffff-no-rj" group-title="❎ ARGENTlNA ❎",AR l VOLVER HD 
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/140128.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR l VOLVER HD opc  ²" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ky2Var5cUn9XL8XMG36xGv7TgIlunPgl01BD66X7H--M8=s900-c-k-c0x00ffffff-no-rj" group-title="❎ ARGENTlNA ❎",AR l VOLVER HD opc  ²
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/421649.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-| LN+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH8f5raMcEwss9lSlka2g6ppZPj2EnFlJwIw&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR-| LN+
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/81323.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Canal lNFANTIL " tvg-logo="https://i.ytimg.com/vi/_5lIJyObc0w/maxresdefault.jpg?" group-title="❎ ARGENTlNA ❎",ARG: Canal lNFANTIL 
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/144337.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | Telemax HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpm9gebQm0ncjH8Oe9S3sX69ShIc7W4Ky7cA&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | Telemax HD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/81287.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | NOTICIAS TN HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkeFcQtno1fsHYYXHfJDWiBL1fOKmYBjMPVw&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | NOTICIAS TN HD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/81324.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR I| PAKAPAKA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Pakapaka_logotipo_%282010-2016%29.png" group-title="❎ ARGENTlNA ❎",AR I| PAKAPAKA HD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/352333.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | TV PUBLICA FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6qM7GfDTvfBO-q63HLUW-QsbNWXiZEwqhkw&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | TV PUBLICA FHD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/81264.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | A24  ꜱᴅ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_T246MMRs8f0eT4jtwWWOlXUOuUNIGPYT5AJEzprrvA&s=10" group-title="❎ ARGENTlNA ❎",AR | A24  ꜱᴅ
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/81290.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | A24  ʜᴅ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_T246MMRs8f0eT4jtwWWOlXUOuUNIGPYT5AJEzprrvA&s=10" group-title="❎ ARGENTlNA ❎",AR | A24  ʜᴅ
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/81289.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | C5N HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhvEHUTKugnqQz7G_9UHyVDuyf_wGYWdQblw&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | C5N HD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/81274.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-| CINE AR SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPXa_7GTAh9OpM1yylM2IdMsQOh3jeJ8e0XA&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR-| CINE AR SD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/81321.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-| CINE AR HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPXa_7GTAh9OpM1yylM2IdMsQOh3jeJ8e0XA&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR-| CINE AR HD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/81320.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR-| CANAL 26 NOTICIAS SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShxTPhW_bp7ia83Wwb8ZtN0sE-dqon-Uuj6w&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR-| CANAL 26 NOTICIAS SD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/81317.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | CANAL 26 NOTICIAS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShxTPhW_bp7ia83Wwb8ZtN0sE-dqon-Uuj6w&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | CANAL 26 NOTICIAS HD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/81310.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | CIUDAD MAGAZINE HD " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0-o6s4OgcMxwPQtbZu9jpnF4uG99P11vehg&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | CIUDAD MAGAZINE HD 
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/86689.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TV Universidad Nacional de La Plata" tvg-logo="https://i.ytimg.com/vi/WmNX1kaRyHk/hqdefault.jpg" group-title="❎ ARGENTlNA ❎",ARG: TV Universidad Nacional de La Plata
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/144336.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR |*F∆SHl0N TV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logotipo_FDF.jpg/250px-Logotipo_FDF.jpg" group-title="❎ ARGENTlNA ❎",AR |*F∆SHl0N TV 
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/305969.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | NET TV HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/1200px-Net_TV_logo.png" group-title="❎ ARGENTlNA ❎",AR | NET TV HD 
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/305968.ts
+# ==========================================
+# CATEGORÍA: SERIES 
+# ==========================================
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/1246.ts
+#EXTINF:-1 tvg-id="213dtv.cl" tvg-name="CINE |  TNT SERIES  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS412_DLemKjbNR286Bqh-5--md7yWlo7F9sw&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE |  TNT SERIES  SD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/1250.ts
+#EXTINF:-1 tvg-id="1524dtv.co" tvg-name="CINE | HBO  FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/HBO_Cine%2C_fanmade_del_logo_de_Cinemax.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | HBO  FHD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/54.ts
+#EXTINF:-1 tvg-id="1524dtv.co" tvg-name="CINE | HBO  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/HBO_Cine%2C_fanmade_del_logo_de_Cinemax.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | HBO  HD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/55.ts
+#EXTINF:-1 tvg-id="1524dtv.co" tvg-name="CINE  | HBO  SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/HBO_Cine%2C_fanmade_del_logo_de_Cinemax.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE  | HBO  SD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/1240.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE | HBO 2 HD" tvg-logo="https://i.postimg.cc/CMCQYWXJ/HBO-2-HD.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | HBO 2 HD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/435985.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE | HBO 2 FHD" tvg-logo="https://i.postimg.cc/Qxykrm80/HBO-2-SD.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | HBO 2 FHD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/435988.ts
+#EXTINF:-1 tvg-id="1534dtv.cl" tvg-name="CINE  | HBO FAMILY FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA4WC_DVLdy7I-kMJhcpStbdiBOe00hos0AA&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE  | HBO FAMILY FHD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/51.ts
+#EXTINF:-1 tvg-id="1534dtv.cl" tvg-name="CINE | HBO FAMILY  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA4WC_DVLdy7I-kMJhcpStbdiBOe00hos0AA&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | HBO FAMILY  HD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/52.ts
+#EXTINF:-1 tvg-id="1534dtv.cl" tvg-name="CINE | HBO FAMILY  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA4WC_DVLdy7I-kMJhcpStbdiBOe00hos0AA&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | HBO FAMILY  SD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/53.ts
+#EXTINF:-1 tvg-id="526" tvg-name="CINE  | HBO PLUS  HD" tvg-logo="http://mundo2.pro:80/images/fd496867ac6e9074677342d8e013f563.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE  | HBO PLUS  HD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/49.ts
+#EXTINF:-1 tvg-id="526" tvg-name="CINE  | HBO PLUS  FHD" tvg-logo="http://mundo2.pro:80/images/fd496867ac6e9074677342d8e013f563.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE  | HBO PLUS  FHD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/50.ts
+#EXTINF:-1 tvg-id="528" tvg-name="CINE  | HBO XTREME HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGbj613doA_lyYhNByuF0DRhIk9yKSfzkLA&s.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE  | HBO XTREME HD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/47.ts
+#EXTINF:-1 tvg-id="526" tvg-name="CINE | HBO XTREME FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGbj613doA_lyYhNByuF0DRhIk9yKSfzkLA&s.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | HBO XTREME FHD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/48.ts
+#EXTINF:-1 tvg-id="528" tvg-name="CINE | HBO SIGNATURE  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd8X6vH9jsyuXvtYEs56bNO1NlDkim-SJkQg&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | HBO SIGNATURE  SD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/46.ts
+#EXTINF:-1 tvg-id="541" tvg-name="CINE  | HBO POP  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUrjaVQ_67o7XMUHTLunr3MrCREj8_Mfn_-g&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE  | HBO POP  FHD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/1242.ts
+#EXTINF:-1 tvg-id="541" tvg-name="CINE  | HBO .POP  HD " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUrjaVQ_67o7XMUHTLunr3MrCREj8_Mfn_-g&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE  | HBO .POP  HD 
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/1243.ts
+#EXTINF:-1 tvg-id="1" tvg-name="CINE | HBO MUNDl FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbAXp130AYAc4pXI_m-PqxrYip5VQCNRfUVA&s.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | HBO MUNDl FHD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/53937.ts
+#EXTINF:-1 tvg-id="1" tvg-name="CINE | HBO MUNDI HD " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbAXp130AYAc4pXI_m-PqxrYip5VQCNRfUVA&s.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | HBO MUNDI HD 
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/53939.ts
+#EXTINF:-1 tvg-id="1" tvg-name="CINE l P∆R∆M0UNT + HD" tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/CINE-PREMIUM.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE l P∆R∆M0UNT + HD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/53938.ts
+#EXTINF:-1 tvg-id="518dtv.ar" tvg-name="CINE | SPACE CHANEL  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaPteTsp2zPkNGIK2aC8M1_bKG7FUZBaFHrg&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | SPACE CHANEL  FHD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/1280.ts
+#EXTINF:-1 tvg-id="518dtv.ar" tvg-name="CINE | SPACE CHANEL  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaPteTsp2zPkNGIK2aC8M1_bKG7FUZBaFHrg&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | SPACE CHANEL  HD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/1281.ts
+#EXTINF:-1 tvg-id="518dtv.ar" tvg-name="CINE | SPACE CHANEL  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaPteTsp2zPkNGIK2aC8M1_bKG7FUZBaFHrg&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | SPACE CHANEL  SD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/1282.ts
+#EXTINF:-1 tvg-id="217dtv.cl" tvg-name="CINE | FX  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJq1YUknstlcWYR_a39Pbh-VKNQP_noF_rDg&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | FX  HD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/1275.ts
+#EXTINF:-1 tvg-id="217dtv.cl" tvg-name="CINE | FX  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJq1YUknstlcWYR_a39Pbh-VKNQP_noF_rDg&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | FX  SD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/1276.ts
+#EXTINF:-1 tvg-id="504" tvg-name="CINE | TCM  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | TCM  HD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/1266.ts
+#EXTINF:-1 tvg-id="504" tvg-name="CINE |  TCM  SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE |  TCM  SD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/1267.ts
+#EXTINF:-1 tvg-id="514dtv.cl" tvg-name="CINE | CINE LATINO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYLWKA2w7UzyAaT3-EA29E7bvcPQ9SsvHoMQ&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | CINE LATINO
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/100681.ts
+#EXTINF:-1 tvg-id="1503dtv.cl" tvg-name="CINE GOLDEN PLUS FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEUkFenrLxGFpEKOzzTEl2crLHBNePJehWFQ&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE GOLDEN PLUS FHD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/53940.ts
+#EXTINF:-1 tvg-id="1503dtv.cl" tvg-name="CINE | GOLDEN PLUS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEUkFenrLxGFpEKOzzTEl2crLHBNePJehWFQ&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | GOLDEN PLUS HD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/53941.ts
+#EXTINF:-1 tvg-id="1503dtv.cl" tvg-name="CINE | GOLDEN PLUS SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEUkFenrLxGFpEKOzzTEl2crLHBNePJehWFQ&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | GOLDEN PLUS SD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/53942.ts
+#EXTINF:-1 tvg-id="goldenpremier.mx" tvg-name="CINE | GOLDEN PREMIER  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9O4LcnjKCXpeYqAKqoMBL8AlgEW4KvxMe9w&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | GOLDEN PREMIER  HD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/1293.ts
+#EXTINF:-1 tvg-id="goldenpremier.mx" tvg-name="CINE | GOLDEN PREMIER  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9O4LcnjKCXpeYqAKqoMBL8AlgEW4KvxMe9w&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | GOLDEN PREMIER  SD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/1294.ts
+#EXTINF:-1 tvg-id="1206dtv.cl" tvg-name="CINE | WARNER  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHNIfv7VLUeS2w8eoF4b-k5psDxmpHYqkxew&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | WARNER  FHD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/1258.ts
+#EXTINF:-1 tvg-id="1206dtv.cl" tvg-name="CINE | WARNER  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHNIfv7VLUeS2w8eoF4b-k5psDxmpHYqkxew&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | WARNER  HD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/1259.ts
+#EXTINF:-1 tvg-id="209dtv.co" tvg-name="CINE | WARNER  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHNIfv7VLUeS2w8eoF4b-k5psDxmpHYqkxew&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | WARNER  SD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/1260.ts
+#EXTINF:-1 tvg-id="208dtv.cl" tvg-name="CINE | SONY M0VIES FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmUM5s02mVJaBsX8VO8xATB9ivrYta859D9g&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | SONY M0VIES FHD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/1261.ts
+#EXTINF:-1 tvg-id="208dtv.cl" tvg-name="CINE | SONY  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmUM5s02mVJaBsX8VO8xATB9ivrYta859D9g&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | SONY  HD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/1263.ts
+#EXTINF:-1 tvg-id="208dtv.cl" tvg-name="CINE | SONY  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmUM5s02mVJaBsX8VO8xATB9ivrYta859D9g&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | SONY  SD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/1264.ts
+#EXTINF:-1 tvg-id="503dtv.cl" tvg-name="CINE | GOLDEN  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxytfwU0t7hq8tWkwnq1tr0_J-NnCk_nV1Ow&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | GOLDEN  HD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/1287.ts
+#EXTINF:-1 tvg-id="golden.mx" tvg-name="CINE | GOLDEN  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxytfwU0t7hq8tWkwnq1tr0_J-NnCk_nV1Ow&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | GOLDEN  SD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/1288.ts
+#EXTINF:-1 tvg-id="517dtv.cl" tvg-name="CINE | GOLDEN EDG  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw_MXCN8YTJUs_t4zTDTivh73cIHqA2A3Drw&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | GOLDEN EDG  HD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/1290.ts
+#EXTINF:-1 tvg-id="517dtv.cl" tvg-name="CINE | GOLDEN EDG  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw_MXCN8YTJUs_t4zTDTivh73cIHqA2A3Drw&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | GOLDEN EDG  SD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/1291.ts
+#EXTINF:-1 tvg-id="1572dtv.cl" tvg-name="P | UNIVERSAL CINEMA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQcA5OtBj1V_sz2ofup_bgNkbwLElRQVtfRg&s" group-title="❇️ CINE PREMIUM Exclusivo ❇️",P | UNIVERSAL CINEMA HD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/111421.ts
+#EXTINF:-1 tvg-id="" tvg-name="P | UNIVERSAL CRIMEN HD" tvg-logo="https://i.ytimg.com/vi/6AckSd4Qswk/maxresdefault.jpg" group-title="❇️ CINE PREMIUM Exclusivo ❇️",P | UNIVERSAL CRIMEN HD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/111422.ts
+#EXTINF:-1 tvg-id="1573dtv.cl" tvg-name="P | UNIVERSAL COMEDY HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAOm-iccq4R5QW8LPEJ1nqSJygGM0s8f0N8w&s" group-title="❇️ CINE PREMIUM Exclusivo ❇️",P | UNIVERSAL COMEDY HD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/111417.ts
+#EXTINF:-1 tvg-id="576" tvg-name="P | UNIVERSAL PREMIER HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",P | UNIVERSAL PREMIER HD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/111419.ts
+#EXTINF:-1 tvg-id="" tvg-name="P | UNIVERSAL REALITY HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfp1yzahmtFF9JfJg9-WzKnM7T9H918o_3dg&s" group-title="❇️ CINE PREMIUM Exclusivo ❇️",P | UNIVERSAL REALITY HD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/111420.ts
+#EXTINF:-1 tvg-id="universalchannel.mx" tvg-name="CINE | UNIVERSAL CHANEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1024px-Universal_Channel_Logo_2013.svg.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | UNIVERSAL CHANEL HD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/1269.ts
+#EXTINF:-1 tvg-id="universalchannel.mx" tvg-name="CINE | UNIVERSAL CHANEL  SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1024px-Universal_Channel_Logo_2013.svg.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | UNIVERSAL CHANEL  SD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/1270.ts
+#EXTINF:-1 tvg-id="universalchannel.mx" tvg-name="CINE | UNIVERSAL STUDIO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Universal_Studios_Hollywood_%28recorte%29.jpg/1200px-Universal_Studios_Hollywood_%28recorte%29.jpg" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | UNIVERSAL STUDIO HD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/1268.ts
+#EXTINF:-1 tvg-id="210dtv.cl" tvg-name="CINE | AMC  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRPXbkxZVQKnNqZ0tcPBhMhdHUgLcP3Kw0fw&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | AMC  SD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/1285.ts
+#EXTINF:-1 tvg-id="210dtv.cl" tvg-name="CINE | AMC HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRPXbkxZVQKnNqZ0tcPBhMhdHUgLcP3Kw0fw&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | AMC HD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/1284.ts
+# ==========================================
+# CATEGORÍA:  ✅ INFANTILES
+# ==========================================
+#EXTINF:-1 tvg-id="nickelodeon.co" tvg-name="NIÑOS | NICKTOONS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nicktoons_2023_Outlined_Logo.png/250px-Nicktoons_2023_Outlined_Logo.png" group-title=" ✅ INFANTILES PREMIUM  ✅",NIÑOS | NICKTOONS HD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/132709.ts
+#EXTINF:-1 tvg-id="nickjr.co" tvg-name="NIÑOS | NICKTOONS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nicktoons_2023_Outlined_Logo.png/250px-Nicktoons_2023_Outlined_Logo.png" group-title=" ✅ INFANTILES PREMIUM  ✅",NIÑOS | NICKTOONS SD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/132710.ts
+#EXTINF:-1 tvg-id="discoverykids.mx" tvg-name="NIÑOS | DISCOVERY KIDS  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title=" ✅ INFANTILES PREMIUM  ✅",NIÑOS | DISCOVERY KIDS  HD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/132701.ts
+#EXTINF:-1 tvg-id="discoverykids.mx" tvg-name="NIÑOS | DISCOVERY KIDS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title=" ✅ INFANTILES PREMIUM  ✅",NIÑOS | DISCOVERY KIDS SD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/132702.ts
+#EXTINF:-1 tvg-id="disneychannel.mx" tvg-name="NIÑOS | DISNEY CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/2022_Disney_Channel_logo.svg/1200px-2022_Disney_Channel_logo.svg.png" group-title=" ✅ INFANTILES PREMIUM  ✅",NIÑOS | DISNEY CHANNEL HD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/132699.ts
+#EXTINF:-1 tvg-id="disneychannel.mx" tvg-name="NIÑOS | DISNEY CHANNEL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/2022_Disney_Channel_logo.svg/1200px-2022_Disney_Channel_logo.svg.png" group-title=" ✅ INFANTILES PREMIUM  ✅",NIÑOS | DISNEY CHANNEL SD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/132700.ts
+#EXTINF:-1 tvg-id="disneyjunior.mx" tvg-name="NIÑOS | DISNEY JR HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmQkRbhEdkj9VU6aIWf3LRooGDSl0GDNootA&s" group-title=" ✅ INFANTILES PREMIUM  ✅",NIÑOS | DISNEY JR HD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/132697.ts
+#EXTINF:-1 tvg-id="disneyjunior.mx" tvg-name="NIÑOS | DISNEY JR SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmQkRbhEdkj9VU6aIWf3LRooGDSl0GDNootA&s" group-title=" ✅ INFANTILES PREMIUM  ✅",NIÑOS | DISNEY JR SD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/132698.ts
+#EXTINF:-1 tvg-id="babytv.mx" tvg-name="NIÑOS | BABY TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/BabyTV_logo.png" group-title=" ✅ INFANTILES PREMIUM  ✅",NIÑOS | BABY TV HD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/132689.ts
+#EXTINF:-1 tvg-id="babytv.mx" tvg-name="NIÑOS | BABY TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/BabyTV_logo.png" group-title=" ✅ INFANTILES PREMIUM  ✅",NIÑOS | BABY TV SD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/132690.ts
+#EXTINF:-1 tvg-id="nickelodeon.mx" tvg-name="NIÑOS | NICKELODEON HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NICK.png" group-title=" ✅ INFANTILES PREMIUM  ✅",NIÑOS | NICKELODEON HD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/132711.ts
+#EXTINF:-1 tvg-id="nickelodeon.mx" tvg-name="NIÑOS | PLiM PLiM" tvg-logo="htps://www.movistarplus.es/recorte/m-NEO/canal/NICK.png" group-title=" ✅ INFANTILES PREMIUM  ✅",NIÑOS | PLiM PLiM
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/132712.ts
+#EXTINF:-1 tvg-id="nickjr.mx" tvg-name="NIÑOS | NICK JR SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/1200px-Nick_Jr._logo_2023_%28outline%29.svg.png" group-title=" ✅ INFANTILES PREMIUM  ✅",NIÑOS | NICK JR SD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/132696.ts
+#EXTINF:-1 tvg-id="cartoonnetwork.mx" tvg-name="NIÑOS | CARTOON NETWORK HD" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2021/04/generica_elem_cn.jpg" group-title=" ✅ INFANTILES PREMIUM  ✅",NIÑOS | CARTOON NETWORK HD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/132707.ts
+#EXTINF:-1 tvg-id="cartoonnetwork.mx" tvg-name="NIÑOS | CARTOONITO SD" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/infobae/KFF6ACZZR5HO3EYYLC35GLRLOE.jpeg" group-title=" ✅ INFANTILES PREMIUM  ✅",NIÑOS | CARTOONITO SD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/132708.ts
+#EXTINF:-1 tvg-id="nickelodeon.mx" tvg-name="NIÑOS | NICK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title=" ✅ INFANTILES PREMIUM  ✅",NIÑOS | NICK HD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/132691.ts
+#EXTINF:-1 tvg-id="nickelodeon.mx" tvg-name="NIÑOS | NICK SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title=" ✅ INFANTILES PREMIUM  ✅",NIÑOS | NICK SD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/132692.ts
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | DRE∆MW0RK INFANTIL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUnFgpebV8-M3ojDDJM2FhekYjDXfIsJ9THAbOrYahNfm8og_nWrj0Ysf_uUMBrfgzZjA&usqp=CAU.png" group-title=" ✅ INFANTILES PREMIUM  ✅",NIÑOS | DRE∆MW0RK INFANTIL
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/143797.ts
+#EXTINF:-1 tvg-id="nick2.mx" tvg-name="NIÑOS | BITME +10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Nick_2.png" group-title=" ✅ INFANTILES PREMIUM  ✅",NIÑOS | BITME +10
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/132694.ts
+#EXTINF:-1 tvg-id="tooncast.mx" tvg-name="NIÑOS | TOONCAST SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Toncst.png" group-title=" ✅ INFANTILES PREMIUM  ✅",NIÑOS | TOONCAST SD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/132704.ts
+#EXTINF:-1 tvg-id="nick2.mx" tvg-name="NIÑOS | NICK 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Nick_2.png" group-title=" ✅ INFANTILES PREMIUM  ✅",NIÑOS | NICK 2 HD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/132693.ts
+#EXTINF:-1 tvg-id="nickjr.mx" tvg-name="NIÑOS | NICK JR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/1200px-Nick_Jr._logo_2023_%28outline%29.svg.png" group-title=" ✅ INFANTILES PREMIUM  ✅",NIÑOS | NICK JR HD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/132695.ts
+#EXTINF:-1 tvg-id="tooncast.mx" tvg-name="NIÑOS | TOONCAST HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Toncst.png" group-title=" ✅ INFANTILES PREMIUM  ✅",NIÑOS | TOONCAST HD
+http://mundo2.vip:80/live/9C00D3CF51BB/D3CF51BB9C00/132703.ts
