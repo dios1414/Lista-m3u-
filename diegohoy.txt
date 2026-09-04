@@ -1,265 +1,221 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="AR | E$PN (¹) HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qzobqn1660760939.png" group-title="⚽DEPORTES ARGENTINA⚽",AR | E$PN (¹) HD
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/81262.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | E$PN 2 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzPF7o555O8KtseEn-GAIlp4pYbtLgMUcbGQ&usqp=CAU" group-title="⚽DEPORTES ARGENTINA⚽",AR | E$PN 2 SD
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/81259.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR  | E$PN 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzPF7o555O8KtseEn-GAIlp4pYbtLgMUcbGQ&usqp=CAU" group-title="⚽DEPORTES ARGENTINA⚽",AR  | E$PN 2 HD
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/81258.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | Ę$PN ₱REMlUM HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxdKc-7s0I8z4DhMoksXpAOPUoKuF8Mf5gAkfiasixEg&s=10" group-title="⚽DEPORTES ARGENTINA⚽",AR | Ę$PN ₱REMlUM HD
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/81254.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR || E$PN PR€MIUM FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxdKc-7s0I8z4DhMoksXpAOPUoKuF8Mf5gAkfiasixEg&s=10" group-title="⚽DEPORTES ARGENTINA⚽",AR || E$PN PR€MIUM FHD
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/149087.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | F⚽X SPORTS 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNxi4gCApcU3HLs00cxRcFY6DFADcYDkgjiQ&usqp=CAU" group-title="⚽DEPORTES ARGENTINA⚽",AR | F⚽X SPORTS 1 HD
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/50506.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNxi4gCApcU3HLs00cxRcFY6DFADcYDkgjiQ&usqp=CAU" group-title="⚽DEPORTES ARGENTINA⚽",AR | FOX SPORTS 2 HD
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/50507.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 3 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNxi4gCApcU3HLs00cxRcFY6DFADcYDkgjiQ&usqp=CAU" group-title="⚽DEPORTES ARGENTINA⚽",AR | FOX SPORTS 3 SD
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/50509.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 3 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNxi4gCApcU3HLs00cxRcFY6DFADcYDkgjiQ&usqp=CAU" group-title="⚽DEPORTES ARGENTINA⚽",AR | FOX SPORTS 3 HD
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/50508.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | TⓝΤ SPORTS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNzRaEF7sInMKci-9xC-vXIBVl7h2h9v35ww&usqp=CAU" group-title="⚽DEPORTES ARGENTINA⚽",AR | TⓝΤ SPORTS HD
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/81251.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR  | TYC SPORTS SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu094m8UMzCN8OqX-0NNd4X8Zw7ovhNs1N5w&usqp=CAU" group-title="⚽DEPORTES ARGENTINA⚽",AR  | TYC SPORTS SD
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/81253.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR ||**T.ŃT*SP0RTS FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk4VHRBaKyJf8clnh-giUtI2n0DJqiFtr-gmkffqeP4A&s=10" group-title="⚽DEPORTES ARGENTINA⚽",AR ||**T.ŃT*SP0RTS FHD
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/81284.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | T*Y*C SPORTS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu094m8UMzCN8OqX-0NNd4X8Zw7ovhNs1N5w&usqp=CAU" group-title="⚽DEPORTES ARGENTINA⚽",AR | T*Y*C SPORTS HD
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/81252.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | T°Y°C $P0RTS lNTERN∆Cl0N∆L" tvg-logo="http://mundo2.pro:80/images/7c0c70ecc79f67e97c90e97babe4de5a.png" group-title="⚽DEPORTES ARGENTINA⚽",AR | T°Y°C $P0RTS lNTERN∆Cl0N∆L
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/81538.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | DEPORT TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrG5tgUlK-9tZFIvlaYrszEOhe9HTZmHa36g&usqp=CAU" group-title="⚽DEPORTES ARGENTINA⚽",AR | DEPORT TV HD
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/81539.m3u
-#EXTINF:-1 tvg-id="" tvg-name="D| T&© Sports" tvg-logo="http://mundo2.pro:80/images/2aaf0c473413e80cde32fcf546039218.png" group-title="⚽DEPORTES ARGENTINA⚽",D| T&© Sports
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/361001.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CO| D$PORTS " tvg-logo="http://myplayente.dynns.com:80/images/81vuVQTMqoCkld3sCzAzQMTuEQ7tt8sRTstlKnGAqtxI4Kn0xUtZDlZNoLj1QV0J5O6BPOvEleKAAHHbIOOfyA.png" group-title="⚽ ZONA | D$PORTS PREMIUM ⚽",CO| D$PORTS
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/558622.m3u
-#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="PE | D$PORTS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDlwfoUmwVl4nupZGi1nP4xliVd7sW00raoA&usqp=CAU" group-title="⚽ ZONA | D$PORTS PREMIUM ⚽",PE | D$PORTS HD
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/50724.m3u
-#EXTINF:-1 tvg-id="" tvg-name="PE| D$PORTS 1SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDlwfoUmwVl4nupZGi1nP4xliVd7sW00raoA&usqp=CAU" group-title="⚽ ZONA | D$PORTS PREMIUM ⚽",PE| D$PORTS 1SD
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/417690.m3u
-#EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="AR | D$PORTS 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDlwfoUmwVl4nupZGi1nP4xliVd7sW00raoA&usqp=CAU" group-title="⚽ ZONA | D$PORTS PREMIUM ⚽",AR | D$PORTS 2 HD
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/50725.m3u
-#EXTINF:-1 tvg-id="613DTSPlus.ar" tvg-name="AR | D$PORTS 2 0PC ²" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDlwfoUmwVl4nupZGi1nP4xliVd7sW00raoA&usqp=CAU" group-title="⚽ ZONA | D$PORTS PREMIUM ⚽",AR | D$PORTS 2 0PC ²
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/50726.m3u
-#EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="AR | D$PORTS + HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDlwfoUmwVl4nupZGi1nP4xliVd7sW00raoA&usqp=CAU" group-title="⚽ ZONA | D$PORTS PREMIUM ⚽",AR | D$PORTS + HD
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/54471.m3u
-#EXTINF:-1 tvg-id="613DTSPlus.ar" tvg-name="AR | D$P0RTS + 0PC ²" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDlwfoUmwVl4nupZGi1nP4xliVd7sW00raoA&usqp=CAU" group-title="⚽ ZONA | D$PORTS PREMIUM ⚽",AR | D$P0RTS + 0PC ²
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/54472.m3u
-#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO 24/7" tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg" group-title="⏩ Gran Hermano Argentina ⏪",GRAN HERMANO 24/7
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/454926.m3u
-#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO CAM 1" tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg" group-title="⏩ Gran Hermano Argentina ⏪",GRAN HERMANO CAM 1
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/454927.m3u
-#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO CAM 2 [0ndeman]" tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg" group-title="⏩ Gran Hermano Argentina ⏪",GRAN HERMANO CAM 2 [0ndeman]
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/454928.m3u
-#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO CAM 3 [0ndemand]" tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg" group-title="⏩ Gran Hermano Argentina ⏪",GRAN HERMANO CAM 3 [0ndemand]
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/454929.m3u
-#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO MULTICAMARA 0ndemand" tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg" group-title="⏩ Gran Hermano Argentina ⏪",GRAN HERMANO MULTICAMARA 0ndemand
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/454930.m3u
-#EXTINF:-1 tvg-id="" tvg-name="*GRAN HE®M∆N0 ∆RGĘNTlN∆ ☀️⭐" tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg" group-title="⏩ Gran Hermano Argentina ⏪",*GRAN HE®M∆N0 ∆RGĘNTlN∆ ☀️⭐
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/453157.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | AMERIC∆  ꜱᴅ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0fgLDmFN8t0LWvb7rkI6ZCCiRJWEQheswpg&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | AMERIC∆  ꜱᴅ
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/81275.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | AMERICA TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0fgLDmFN8t0LWvb7rkI6ZCCiRJWEQheswpg&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | AMERICA TV HD
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/81276.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | AMERICA FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0fgLDmFN8t0LWvb7rkI6ZCCiRJWEQheswpg&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | AMERICA FHD
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/81283.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | EL NUEVE SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmX8tjoTHylcaDD3_48yzo6Nzx50MjRojLPA&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | EL NUEVE SD
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/81272.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | EL NUEVE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmX8tjoTHylcaDD3_48yzo6Nzx50MjRojLPA&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | EL NUEVE HD
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/81271.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | EL NUEVE FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmX8tjoTHylcaDD3_48yzo6Nzx50MjRojLPA&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | EL NUEVE FHD
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/81270.m3u
-#EXTINF:-1 tvg-id="123dtv.ar" tvg-name="AR | TELEFE HD ¹" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlUMa6b30HJG6XO79tuoAQ959n0gEh6oSg-A&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | TELEFE HD ¹
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/81285.m3u
-#EXTINF:-1 tvg-id="123dtv.ar" tvg-name="AR | *TELEFE HD ²" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlUMa6b30HJG6XO79tuoAQ959n0gEh6oSg-A&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | *TELEFE HD ²
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/50510.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | TELEFE FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlUMa6b30HJG6XO79tuoAQ959n0gEh6oSg-A&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | TELEFE FHD
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/50521.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | CRONICA HD ¹" tvg-logo="https://ratingpolitica.com/wp-content/uploads/2021/05/image0-1-9.jpeg" group-title="❎ ARGENTlNA ❎",AR | CRONICA HD ¹
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/81268.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR-| ARGENTINISIMA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSme3KO2n4jP4MV4eW2pFgxXKCr4wirNrpQg&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR-| ARGENTINISIMA HD
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/81318.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR-| ARGENTINISIMA SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSme3KO2n4jP4MV4eW2pFgxXKCr4wirNrpQg&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR-| ARGENTINISIMA SD
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/81319.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | C5N FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhvEHUTKugnqQz7G_9UHyVDuyf_wGYWdQblw&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | C5N FHD
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/81273.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | Telemax sd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpm9gebQm0ncjH8Oe9S3sX69ShIc7W4Ky7cA&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | Telemax sd
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/81288.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR-| EL GARAGE TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRL_0iZ7hJH2d4qbdZ73r_qkKqe8ws4rNkLg&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR-| EL GARAGE TV HD
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/81322.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | NOTICIAS TN SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkeFcQtno1fsHYYXHfJDWiBL1fOKmYBjMPVw&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | NOTICIAS TN SD
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/81325.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | C∆N∆L 13 HD ¹" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUxd6vjCPiTZWnhGdbdAMoqNTZGbzvCHO1A&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | C∆N∆L 13 HD ¹
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/81300.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | CANAL 13 FHD* " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUxd6vjCPiTZWnhGdbdAMoqNTZGbzvCHO1A&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | CANAL 13 FHD*
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/81266.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | CANAL 13 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUxd6vjCPiTZWnhGdbdAMoqNTZGbzvCHO1A&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | CANAL 13 HD
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/81269.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | TV PUBLICA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6qM7GfDTvfBO-q63HLUW-QsbNWXiZEwqhkw&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | TV PUBLICA HD
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/81265.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR l VOLVER HD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ky2Var5cUn9XL8XMG36xGv7TgIlunPgl01BD66X7H--M8=s900-c-k-c0x00ffffff-no-rj" group-title="❎ ARGENTlNA ❎",AR l VOLVER HD
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/140128.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR l VOLVER HD opc  ²" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ky2Var5cUn9XL8XMG36xGv7TgIlunPgl01BD66X7H--M8=s900-c-k-c0x00ffffff-no-rj" group-title="❎ ARGENTlNA ❎",AR l VOLVER HD opc  ²
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/421649.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR-| LN+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH8f5raMcEwss9lSlka2g6ppZPj2EnFlJwIw&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR-| LN+
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/81323.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ARG: Canal lNFANTIL " tvg-logo="https://i.ytimg.com/vi/_5lIJyObc0w/maxresdefault.jpg?" group-title="❎ ARGENTlNA ❎",ARG: Canal lNFANTIL
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/144337.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | Telemax HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpm9gebQm0ncjH8Oe9S3sX69ShIc7W4Ky7cA&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | Telemax HD
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/81287.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | NOTICIAS TN HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkeFcQtno1fsHYYXHfJDWiBL1fOKmYBjMPVw&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | NOTICIAS TN HD
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/81324.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR I| PAKAPAKA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Pakapaka_logotipo_%282010-2016%29.png" group-title="❎ ARGENTlNA ❎",AR I| PAKAPAKA HD
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/352333.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | TV PUBLICA FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6qM7GfDTvfBO-q63HLUW-QsbNWXiZEwqhkw&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | TV PUBLICA FHD
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/81264.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | A24  ꜱᴅ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_T246MMRs8f0eT4jtwWWOlXUOuUNIGPYT5AJEzprrvA&s=10" group-title="❎ ARGENTlNA ❎",AR | A24  ꜱᴅ
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/81290.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | A24  ʜᴅ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_T246MMRs8f0eT4jtwWWOlXUOuUNIGPYT5AJEzprrvA&s=10" group-title="❎ ARGENTlNA ❎",AR | A24  ʜᴅ
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/81289.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | C5N HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhvEHUTKugnqQz7G_9UHyVDuyf_wGYWdQblw&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | C5N HD
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/81274.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR-| CINE AR SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPXa_7GTAh9OpM1yylM2IdMsQOh3jeJ8e0XA&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR-| CINE AR SD
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/81321.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR-| CINE AR HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPXa_7GTAh9OpM1yylM2IdMsQOh3jeJ8e0XA&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR-| CINE AR HD
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/81320.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR-| CANAL 26 NOTICIAS SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShxTPhW_bp7ia83Wwb8ZtN0sE-dqon-Uuj6w&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR-| CANAL 26 NOTICIAS SD
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/81317.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | CANAL 26 NOTICIAS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShxTPhW_bp7ia83Wwb8ZtN0sE-dqon-Uuj6w&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | CANAL 26 NOTICIAS HD
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/81310.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | CIUDAD MAGAZINE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0-o6s4OgcMxwPQtbZu9jpnF4uG99P11vehg&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | CIUDAD MAGAZINE HD
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/86689.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TV Universidad Nacional de La Plata" tvg-logo="https://i.ytimg.com/vi/WmNX1kaRyHk/hqdefault.jpg" group-title="❎ ARGENTlNA ❎",ARG: TV Universidad Nacional de La Plata
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/144336.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR |*F∆SHl0N TV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logotipo_FDF.jpg/250px-Logotipo_FDF.jpg" group-title="❎ ARGENTlNA ❎",AR |*F∆SHl0N TV
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/305969.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | NET TV HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/1200px-Net_TV_logo.png" group-title="❎ ARGENTlNA ❎",AR | NET TV HD
-http://goldtv.lat/live/Ruiz2025/Ruiz2025/305968.m3u
-
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="AR | E$PN (¹) HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qzobqn1660760939.png" group-title="⚽DEPORTES ARGENTINA⚽",AR | E$PN (¹) HD
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/81262.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | E$PN 2 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzPF7o555O8KtseEn-GAIlp4pYbtLgMUcbGQ&usqp=CAU" group-title="⚽DEPORTES ARGENTINA⚽",AR | E$PN 2 SD
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/81259.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR  | E$PN 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzPF7o555O8KtseEn-GAIlp4pYbtLgMUcbGQ&usqp=CAU" group-title="⚽DEPORTES ARGENTINA⚽",AR  | E$PN 2 HD
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/81258.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | *E$PN ₱REMlUM HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxdKc-7s0I8z4DhMoksXpAOPUoKuF8Mf5gAkfiasixEg&s=10" group-title="⚽DEPORTES ARGENTINA⚽",AR | *E$PN ₱REMlUM HD
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/81254.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR || E$PN PR€MIUM FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxdKc-7s0I8z4DhMoksXpAOPUoKuF8Mf5gAkfiasixEg&s=10" group-title="⚽DEPORTES ARGENTINA⚽",AR || E$PN PR€MIUM FHD
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/149087.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | F⚽X SPORTS 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNxi4gCApcU3HLs00cxRcFY6DFADcYDkgjiQ&usqp=CAU" group-title="⚽DEPORTES ARGENTINA⚽",AR | F⚽X SPORTS 1 HD
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/50506.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNxi4gCApcU3HLs00cxRcFY6DFADcYDkgjiQ&usqp=CAU" group-title="⚽DEPORTES ARGENTINA⚽",AR | FOX SPORTS 2 HD
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/50507.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 3 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNxi4gCApcU3HLs00cxRcFY6DFADcYDkgjiQ&usqp=CAU" group-title="⚽DEPORTES ARGENTINA⚽",AR | FOX SPORTS 3 SD
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/50509.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 3 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNxi4gCApcU3HLs00cxRcFY6DFADcYDkgjiQ&usqp=CAU" group-title="⚽DEPORTES ARGENTINA⚽",AR | FOX SPORTS 3 HD
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/50508.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | TⓝΤ SPORTS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNzRaEF7sInMKci-9xC-vXIBVl7h2h9v35ww&usqp=CAU" group-title="⚽DEPORTES ARGENTINA⚽",AR | TⓝΤ SPORTS HD
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/81251.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR  | TYC SPORTS SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu094m8UMzCN8OqX-0NNd4X8Zw7ovhNs1N5w&usqp=CAU" group-title="⚽DEPORTES ARGENTINA⚽",AR  | TYC SPORTS SD
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/81253.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR ||**T.ŃT*SP0RTS FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk4VHRBaKyJf8clnh-giUtI2n0DJqiFtr-gmkffqeP4A&s=10" group-title="⚽DEPORTES ARGENTINA⚽",AR ||**T.ŃT*SP0RTS FHD
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/81284.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | *T'Y'Ç SP⚽RTS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu094m8UMzCN8OqX-0NNd4X8Zw7ovhNs1N5w&usqp=CAU" group-title="⚽DEPORTES ARGENTINA⚽",AR | *T'Y'Ç SP⚽RTS HD
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/81252.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | T°Y°C $P0RTS lNTERN∆Cl0N∆L" tvg-logo="http://mundo2.pro:80/images/7c0c70ecc79f67e97c90e97babe4de5a.png" group-title="⚽DEPORTES ARGENTINA⚽",AR | T°Y°C $P0RTS lNTERN∆Cl0N∆L
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/81538.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | DEPORT TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrG5tgUlK-9tZFIvlaYrszEOhe9HTZmHa36g&usqp=CAU" group-title="⚽DEPORTES ARGENTINA⚽",AR | DEPORT TV HD
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/81539.m3u
-#EXTINF:-1 tvg-id="" tvg-name="D| T&© Sports" tvg-logo="http://mundo2.pro:80/images/2aaf0c473413e80cde32fcf546039218.png" group-title="⚽DEPORTES ARGENTINA⚽",D| T&© Sports
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/361001.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CO| D$PORTS " tvg-logo="http://myplayente.dynns.com:80/images/81vuVQTMqoCkld3sCzAzQMTuEQ7tt8sRTstlKnGAqtxI4Kn0xUtZDlZNoLj1QV0J5O6BPOvEleKAAHHbIOOfyA.png" group-title="⚽ ZONA | D$PORTS PREMIUM ⚽",CO| D$PORTS
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/558622.m3u
-#EXTINF:-1 tvg-id="" tvg-name="PE | D$PORTS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDlwfoUmwVl4nupZGi1nP4xliVd7sW00raoA&usqp=CAU" group-title="⚽ ZONA | D$PORTS PREMIUM ⚽",PE | D$PORTS HD
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/50724.m3u
-#EXTINF:-1 tvg-id="" tvg-name="PE| D$PORTS 1SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDlwfoUmwVl4nupZGi1nP4xliVd7sW00raoA&usqp=CAU" group-title="⚽ ZONA | D$PORTS PREMIUM ⚽",PE| D$PORTS 1SD
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/417690.m3u
-#EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="AR | D$PORTS 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDlwfoUmwVl4nupZGi1nP4xliVd7sW00raoA&usqp=CAU" group-title="⚽ ZONA | D$PORTS PREMIUM ⚽",AR | D$PORTS 2 HD
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/50725.m3u
-#EXTINF:-1 tvg-id="613DTSPlus.ar" tvg-name="AR | D$PORTS 2 0PC ²" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDlwfoUmwVl4nupZGi1nP4xliVd7sW00raoA&usqp=CAU" group-title="⚽ ZONA | D$PORTS PREMIUM ⚽",AR | D$PORTS 2 0PC ²
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/50726.m3u
-#EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="AR | D$PORTS + HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDlwfoUmwVl4nupZGi1nP4xliVd7sW00raoA&usqp=CAU" group-title="⚽ ZONA | D$PORTS PREMIUM ⚽",AR | D$PORTS + HD
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/54471.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | D$P0RTS + 0PC ²" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDlwfoUmwVl4nupZGi1nP4xliVd7sW00raoA&usqp=CAU" group-title="⚽ ZONA | D$PORTS PREMIUM ⚽",AR | D$P0RTS + 0PC ²
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/54472.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | AMERIC∆  ꜱᴅ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0fgLDmFN8t0LWvb7rkI6ZCCiRJWEQheswpg&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | AMERIC∆  ꜱᴅ
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/81275.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR |  AMERICA HD¹" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0fgLDmFN8t0LWvb7rkI6ZCCiRJWEQheswpg&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR |  AMERICA HD¹
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/81276.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR |  AMERICA FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0fgLDmFN8t0LWvb7rkI6ZCCiRJWEQheswpg&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR |  AMERICA FHD
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/81283.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | EL NUEVE SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmX8tjoTHylcaDD3_48yzo6Nzx50MjRojLPA&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | EL NUEVE SD
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/81272.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | EL NUEVE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmX8tjoTHylcaDD3_48yzo6Nzx50MjRojLPA&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | EL NUEVE HD
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/81271.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | EL NUEVE FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmX8tjoTHylcaDD3_48yzo6Nzx50MjRojLPA&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | EL NUEVE FHD
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/81270.m3u
-#EXTINF:-1 tvg-id="123dtv.ar" tvg-name="AR | TELEFE HD ¹" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlUMa6b30HJG6XO79tuoAQ959n0gEh6oSg-A&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | TELEFE HD ¹
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/81285.m3u
-#EXTINF:-1 tvg-id="123dtv.ar" tvg-name="AR | *TELEFE HD ²" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlUMa6b30HJG6XO79tuoAQ959n0gEh6oSg-A&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | *TELEFE HD ²
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/50510.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | TELEFE FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlUMa6b30HJG6XO79tuoAQ959n0gEh6oSg-A&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | TELEFE FHD
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/50521.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | CRONICA HD ¹" tvg-logo="https://ratingpolitica.com/wp-content/uploads/2021/05/image0-1-9.jpeg" group-title="❎ ARGENTlNA ❎",AR | CRONICA HD ¹
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/81268.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR-| ARGENTINISIMA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSme3KO2n4jP4MV4eW2pFgxXKCr4wirNrpQg&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR-| ARGENTINISIMA HD
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/81318.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR-| ARGENTINISIMA SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSme3KO2n4jP4MV4eW2pFgxXKCr4wirNrpQg&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR-| ARGENTINISIMA SD
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/81319.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | C5N FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhvEHUTKugnqQz7G_9UHyVDuyf_wGYWdQblw&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | C5N FHD
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/81273.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | Telemax sd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpm9gebQm0ncjH8Oe9S3sX69ShIc7W4Ky7cA&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | Telemax sd
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/81288.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR-| EL GARAGE TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRL_0iZ7hJH2d4qbdZ73r_qkKqe8ws4rNkLg&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR-| EL GARAGE TV HD
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/81322.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | NOTICIAS TN SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkeFcQtno1fsHYYXHfJDWiBL1fOKmYBjMPVw&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | NOTICIAS TN SD
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/81325.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | CANAL 13 HD ¹" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUxd6vjCPiTZWnhGdbdAMoqNTZGbzvCHO1A&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | CANAL 13 HD ¹
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/81300.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR |  CANAL 13 FHD*" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUxd6vjCPiTZWnhGdbdAMoqNTZGbzvCHO1A&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR |  CANAL 13 FHD*
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/81266.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | CANAL 13 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUxd6vjCPiTZWnhGdbdAMoqNTZGbzvCHO1A&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | CANAL 13 HD
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/81269.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | TV PUBLICA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6qM7GfDTvfBO-q63HLUW-QsbNWXiZEwqhkw&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | TV PUBLICA HD
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/81265.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR l VOLVER HD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ky2Var5cUn9XL8XMG36xGv7TgIlunPgl01BD66X7H--M8=s900-c-k-c0x00ffffff-no-rj" group-title="❎ ARGENTlNA ❎",AR l VOLVER HD
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/140128.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR l VOLVER HD opc  ²" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ky2Var5cUn9XL8XMG36xGv7TgIlunPgl01BD66X7H--M8=s900-c-k-c0x00ffffff-no-rj" group-title="❎ ARGENTlNA ❎",AR l VOLVER HD opc  ²
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/421649.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR-| LN+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH8f5raMcEwss9lSlka2g6ppZPj2EnFlJwIw&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR-| LN+
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/81323.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ARG: Canal lNFANTIL" tvg-logo="https://i.ytimg.com/vi/_5lIJyObc0w/maxresdefault.jpg?" group-title="❎ ARGENTlNA ❎",ARG: Canal lNFANTIL
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/144337.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | Telemax HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpm9gebQm0ncjH8Oe9S3sX69ShIc7W4Ky7cA&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | Telemax HD
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/81287.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | NOTICIAS TN HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkeFcQtno1fsHYYXHfJDWiBL1fOKmYBjMPVw&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | NOTICIAS TN HD
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/81324.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR I| PAKAPAKA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Pakapaka_logotipo_%282010-2016%29.png" group-title="❎ ARGENTlNA ❎",AR I| PAKAPAKA HD
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/352333.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | TV PUBLICA FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6qM7GfDTvfBO-q63HLUW-QsbNWXiZEwqhkw&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | TV PUBLICA FHD
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/81264.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | A24  ꜱᴅ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_T246MMRs8f0eT4jtwWWOlXUOuUNIGPYT5AJEzprrvA&s=10" group-title="❎ ARGENTlNA ❎",AR | A24  ꜱᴅ
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/81290.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | A24  ʜᴅ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_T246MMRs8f0eT4jtwWWOlXUOuUNIGPYT5AJEzprrvA&s=10" group-title="❎ ARGENTlNA ❎",AR | A24  ʜᴅ
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/81289.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | C5N HD¹" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhvEHUTKugnqQz7G_9UHyVDuyf_wGYWdQblw&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | C5N HD¹
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/81274.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR-| CINE AR SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPXa_7GTAh9OpM1yylM2IdMsQOh3jeJ8e0XA&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR-| CINE AR SD
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/81321.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR-| CINE AR HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPXa_7GTAh9OpM1yylM2IdMsQOh3jeJ8e0XA&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR-| CINE AR HD
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/81320.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR-| CANAL 26 NOTICIAS SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShxTPhW_bp7ia83Wwb8ZtN0sE-dqon-Uuj6w&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR-| CANAL 26 NOTICIAS SD
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/81317.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | CANAL 26 NOTICIAS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShxTPhW_bp7ia83Wwb8ZtN0sE-dqon-Uuj6w&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | CANAL 26 NOTICIAS HD
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/81310.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | CIUDAD MAGAZINE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0-o6s4OgcMxwPQtbZu9jpnF4uG99P11vehg&usqp=CAU" group-title="❎ ARGENTlNA ❎",AR | CIUDAD MAGAZINE HD
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/86689.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TV Universidad Nacional de La Plata" tvg-logo="https://i.ytimg.com/vi/WmNX1kaRyHk/hqdefault.jpg" group-title="❎ ARGENTlNA ❎",ARG: TV Universidad Nacional de La Plata
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/144336.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR |*F∆SHl0N TV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logotipo_FDF.jpg/250px-Logotipo_FDF.jpg" group-title="❎ ARGENTlNA ❎",AR |*F∆SHl0N TV
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/305969.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AR | NET TV HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/1200px-Net_TV_logo.png" group-title="❎ ARGENTlNA ❎",AR | NET TV HD
-http://cinemagold.org:8080/live/CaleroJose11/LcXYWZ5tSG/305968.m3u
-
-
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://i.pinimg.com/474x/d1/32/ab/d132abffb1021e2f5ae191f46a17680d.jpg" group-title="✅ ⚽  DISNEY + ✅",ESPN
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/269792.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://i.pinimg.com/474x/d1/32/ab/d132abffb1021e2f5ae191f46a17680d.jpg" group-title="✅ ⚽  DISNEY + ✅",ESPN 2
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/269793.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="https://i.pinimg.com/474x/d1/32/ab/d132abffb1021e2f5ae191f46a17680d.jpg" group-title="✅ ⚽  DISNEY + ✅",ESPN 3
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/269794.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4" tvg-logo="https://i.pinimg.com/474x/d1/32/ab/d132abffb1021e2f5ae191f46a17680d.jpg" group-title="✅ ⚽  DISNEY + ✅",ESPN 4
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/269795.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 5" tvg-logo="https://i.pinimg.com/474x/d1/32/ab/d132abffb1021e2f5ae191f46a17680d.jpg" group-title="✅ ⚽  DISNEY + ✅",ESPN 5
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/269796.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 6" tvg-logo="https://i.pinimg.com/474x/d1/32/ab/d132abffb1021e2f5ae191f46a17680d.jpg" group-title="✅ ⚽  DISNEY + ✅",ESPN 6
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/269797.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 7" tvg-logo="https://i.pinimg.com/474x/d1/32/ab/d132abffb1021e2f5ae191f46a17680d.jpg" group-title="✅ ⚽  DISNEY + ✅",ESPN 7
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/269798.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUM AR" tvg-logo="https://i.pinimg.com/474x/d1/32/ab/d132abffb1021e2f5ae191f46a17680d.jpg" group-title="✅ ⚽  DISNEY + ✅",ESPN PREMIUM AR
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/404426.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG DEP | FOX SPORTS  1 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwgKZ_9FSrw5b5tk3oYNRd0n5fahvCLEPumw&s" group-title="⚽ DEPORTES PREMIUM SD ",ARG DEP | FOX SPORTS  1 SD
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/102466.ts
+#EXTINF:-1 tvg-id="" tvg-name="Win Sports" tvg-logo="https://yt3.googleusercontent.com/74v3sDKiXB-uC-zDRcDoMzf97PfTKlXj_K8UzpuaqilFtiLJw3Ij_eKzP4dnIM3ilLjOmjaB=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ DEPORTES PREMIUM SD ",Win Sports
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/102461.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/2560px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png" group-title="⚽ DEPORTES PREMIUM SD ",DIRECTV SPORTS 1
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/102460.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | FOX SPORTS  2 ARG" tvg-logo="https://cdn.storage.foromedios.com/monthly_2023_02/large.1344882745_FOXSports2ARG(2023-).png.dc87e7653323f06426dd778a825e3514.png" group-title="⚽ DEPORTES PREMIUM SD ",DEPORTES HD | FOX SPORTS  2 ARG
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/102454.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | FOX SPORTS 3 MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/2560px-Fox_Sports_3_Argentina_2023.svg.png" group-title="⚽ DEPORTES PREMIUM SD ",DEPORTES | FOX SPORTS 3 MX
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/102450.ts
+#EXTINF:-1 tvg-id="" tvg-name="SV | CLARO SPORTS" tvg-logo="https://play-lh.googleusercontent.com/11VeSxx3TiWMnadx9BnffUd9pKQA2rK8ZcrsY7lmX2MPvzrH712TMnFmbCc5aWZZcvs" group-title="⚽ DEPORTES PREMIUM SD ",SV | CLARO SPORTS
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/102444.ts
+#EXTINF:-1 tvg-id="" tvg-name="GT | TIGO SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRID4-kRDTnopErNVjgoHxjhWWeaAURV_pveg&s" group-title="⚽ DEPORTES PREMIUM SD ",GT | TIGO SPORTS
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/102445.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/2560px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png" group-title="⚽ DEPORTES PREMIUM SD ",DIRECTV SPORTS 1
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/102459.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN USA" tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="⚽ ESPN PREMIUM ",ESPN USA
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/437056.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 USA" tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="⚽ ESPN PREMIUM ",ESPN 2 USA
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/437059.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN NEW USA " tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="⚽ ESPN PREMIUM ",ESPN NEW USA
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/437062.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN DEPORTES USA" tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="⚽ ESPN PREMIUM ",ESPN DEPORTES USA
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/437065.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN + MX" tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="⚽ ESPN PREMIUM ",ESPN + MX
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/268518.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="⚽ ESPN PREMIUM ",ESPN HD
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/192172.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN SD MX" tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="⚽ ESPN PREMIUM ",ESPN SD MX
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/192173.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN MX SD" tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="⚽ ESPN PREMIUM ",ESPN MX SD
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/192188.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN MX HD" tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="⚽ ESPN PREMIUM ",ESPN MX HD
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/192187.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 MX SD" tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="⚽ ESPN PREMIUM ",ESPN 2 MX SD
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/192190.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 SD MX" tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="⚽ ESPN PREMIUM ",ESPN 2 SD MX
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/192174.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="⚽ ESPN PREMIUM ",ESPN 2 HD
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/192175.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN MX 2 HD" tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="⚽ ESPN PREMIUM ",ESPN MX 2 HD
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/192189.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 MX SD" tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="⚽ ESPN PREMIUM ",ESPN 3 MX SD
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/192192.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 MX HD" tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="⚽ ESPN PREMIUM ",ESPN 3 MX HD
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/192191.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 SD" tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="⚽ ESPN PREMIUM ",ESPN 3 SD
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/192177.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD" tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="⚽ ESPN PREMIUM ",ESPN 3 HD
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/192176.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 SD MX" tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="⚽ ESPN PREMIUM ",ESPN 4 SD MX
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/192178.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 MX" tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="⚽ ESPN PREMIUM ",ESPN 4 MX
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/268519.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 5 MX SD" tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="⚽ ESPN PREMIUM ",ESPN 5 MX SD
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/294391.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 5 SD" tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="⚽ ESPN PREMIUM ",ESPN 5 SD
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/192180.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 5 HD" tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="⚽ ESPN PREMIUM ",ESPN 5 HD
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/192179.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 6 SD" tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="⚽ ESPN PREMIUM ",ESPN 6 SD
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/192182.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 6 HD" tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="⚽ ESPN PREMIUM ",ESPN 6 HD
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/192181.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 7 HD ( c ) " tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="⚽ ESPN PREMIUM ",ESPN 7 HD ( c )
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/192183.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 7 SD" tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="⚽ ESPN PREMIUM ",ESPN 7 SD
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/192184.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUM " tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="⚽ ESPN PREMIUM ",ESPN PREMIUM
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/192185.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUM" tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="⚽ ESPN PREMIUM ",ESPN PREMIUM
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/192186.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN DEPORTES - USA" tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="⚽ ESPN PREMIUM ",ESPN DEPORTES - USA
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/192193.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN DEPORTE OPC 2" tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="⚽ ESPN PREMIUM ",ESPN DEPORTE OPC 2
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/192195.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSports 2 | AR ❆" tvg-logo="https://i.postimg.cc/NFxMMbfT/Direc-TVSports2018.png" group-title="⚽ DIRECTV",DSports 2 | AR ❆
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/249513.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSports + | AR ❆" tvg-logo="https://i.postimg.cc/NFxMMbfT/Direc-TVSports2018.png" group-title="⚽ DIRECTV",DSports + | AR ❆
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/249514.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSports | CO ❆" tvg-logo="https://i.postimg.cc/NFxMMbfT/Direc-TVSports2018.png" group-title="⚽ DIRECTV",DSports | CO ❆
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/249516.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSports + | CO ❆" tvg-logo="https://i.postimg.cc/NFxMMbfT/Direc-TVSports2018.png" group-title="⚽ DIRECTV",DSports + | CO ❆
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/249517.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSports 1 | CL ❆" tvg-logo="https://i.postimg.cc/NFxMMbfT/Direc-TVSports2018.png" group-title="⚽ DIRECTV",DSports 1 | CL ❆
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/249519.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSports 2 | CL ❆" tvg-logo="https://i.postimg.cc/NFxMMbfT/Direc-TVSports2018.png" group-title="⚽ DIRECTV",DSports 2 | CL ❆
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/249520.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSports + | CL ❆" tvg-logo="https://i.postimg.cc/NFxMMbfT/Direc-TVSports2018.png" group-title="⚽ DIRECTV",DSports + | CL ❆
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/249521.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSports 1 | EC ❆" tvg-logo="https://i.postimg.cc/NFxMMbfT/Direc-TVSports2018.png" group-title="⚽ DIRECTV",DSports 1 | EC ❆
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/249523.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSports 2 | EC ❆" tvg-logo="https://i.postimg.cc/NFxMMbfT/Direc-TVSports2018.png" group-title="⚽ DIRECTV",DSports 2 | EC ❆
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/249524.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSports + | EC ❆" tvg-logo="https://i.postimg.cc/NFxMMbfT/Direc-TVSports2018.png" group-title="⚽ DIRECTV",DSports + | EC ❆
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/249525.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSports  1 | PE ❆" tvg-logo="https://i.postimg.cc/NFxMMbfT/Direc-TVSports2018.png" group-title="⚽ DIRECTV",DSports  1 | PE ❆
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/249527.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSports 1 | PE ❆" tvg-logo="https://i.postimg.cc/NFxMMbfT/Direc-TVSports2018.png" group-title="⚽ DIRECTV",DSports 1 | PE ❆
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/249528.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSports 1 ❆" tvg-logo="https://i.postimg.cc/NFxMMbfT/Direc-TVSports2018.png" group-title="⚽ DIRECTV",DSports 1 ❆
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/249530.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSports 2" tvg-logo="https://i.postimg.cc/NFxMMbfT/Direc-TVSports2018.png" group-title="⚽ DIRECTV",DSports 2
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/249531.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSports + ❆" tvg-logo="https://i.postimg.cc/NFxMMbfT/Direc-TVSports2018.png" group-title="⚽ DIRECTV",DSports + ❆
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/249532.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSports Fight ❆" tvg-logo="https://i.postimg.cc/NFxMMbfT/Direc-TVSports2018.png" group-title="⚽ DIRECTV",DSports Fight ❆
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/249534.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSports 2 | AR ❆" tvg-logo="https://i.postimg.cc/NFxMMbfT/Direc-TVSports2018.png" group-title="⚽ DIRECTV",DSports 2 | AR ❆
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/249535.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSports | AR ❆" tvg-logo="https://i.postimg.cc/NFxMMbfT/Direc-TVSports2018.png" group-title="⚽ DIRECTV",DSports | AR ❆
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/249512.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA #1" tvg-logo="" group-title="✅ CINE 24/7 ⭐",CINEMA #1
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/295509.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA 2" tvg-logo="" group-title="✅ CINE 24/7 ⭐",CINEMA 2
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/295510.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG| NET TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" group-title="▶️ ARGENTINA ",ARG| NET TV HD
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/97682.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG| LA NACION HD" tvg-logo="https://logowik.com/content/uploads/images/la-nacion9955.logowik.com.webp" group-title="▶️ ARGENTINA ",ARG| LA NACION HD
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/97684.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG| VOLVER HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Logo-volver-2016.gif" group-title="▶️ ARGENTINA ",ARG| VOLVER HD
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/97685.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG| AMERICA TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="▶️ ARGENTINA ",ARG| AMERICA TV HD
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/97674.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG| AMERICA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="▶️ ARGENTINA ",ARG| AMERICA FHD
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/97675.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG| EL NUEVE HD" tvg-logo="https://yt3.googleusercontent.com/NvbzRmJuyeZp7HJC8Gly8pqzVSY36wdvhWmb0KQ36idjR-PJfoQpA13GgkWFvZ-Nd8_6xlwVFA=s900-c-k-c0x00ffffff-no-rj" group-title="▶️ ARGENTINA ",ARG| EL NUEVE HD
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/97676.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG| EL NUEVE FHD" tvg-logo="https://yt3.googleusercontent.com/NvbzRmJuyeZp7HJC8Gly8pqzVSY36wdvhWmb0KQ36idjR-PJfoQpA13GgkWFvZ-Nd8_6xlwVFA=s900-c-k-c0x00ffffff-no-rj" group-title="▶️ ARGENTINA ",ARG| EL NUEVE FHD
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/97677.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG| TRECE  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Eltrece_Internacional_2017.png" group-title="▶️ ARGENTINA ",ARG| TRECE  HD
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/97680.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG| 24/7 NOTICIAS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpgSvzWPrd847ipmyW27BLHAmbcukHq5L-O0b6qDJBfMvUDBgBp-6gQaQ&s=10" group-title="▶️ ARGENTINA ",ARG| 24/7 NOTICIAS HD
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/97683.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG| CANAL 10 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Canal_10_de_Jun%C3%ADn_%28Logo_Noviembre_2022%29.png" group-title="▶️ ARGENTINA ",ARG| CANAL 10 HD
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/97686.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG| CINEAR  HD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kAm_9Xv8LMJ6ov8u0t-CXcTGdekH0vVsMWmCrq0JaWokc=s900-c-k-c0x00ffffff-no-rj" group-title="▶️ ARGENTINA ",ARG| CINEAR  HD
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/97687.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG| TN NOTICIAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1200px-TN_todo_noticias_logo.svg.png" group-title="▶️ ARGENTINA ",ARG| TN NOTICIAS HD
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/97689.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG| CRONICA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png/1200px-Cr%C3%B3nica_TV_logotipo_%282016%29.png" group-title="▶️ ARGENTINA ",ARG| CRONICA HD
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/97690.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG| A24 HD" tvg-logo="https://i.ytimg.com/vi/ArKbAx1K-2U/hqdefault.jpg?v=685415d4" group-title="▶️ ARGENTINA ",ARG| A24 HD
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/97691.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG| CN23 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Cn23logo2017.png" group-title="▶️ ARGENTINA ",ARG| CN23 HD
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/97693.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG | ENCUENTRO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/800px-Logo_del_canal_Encuentro.svg.png" group-title="▶️ ARGENTINA ",ARG | ENCUENTRO HD
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/97694.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG| GARAGE  HD" tvg-logo="https://elgarage.com/wp-content/uploads/2021/04/elgaragetv_WEB.png" group-title="▶️ ARGENTINA ",ARG| GARAGE  HD
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/97697.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG| LA PAMPA TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxQUywxc_UHPkA-P5duDbxwQX9QHmsZJkREMnDfjqfMvgMc4VzI4eREIw&s=10" group-title="▶️ ARGENTINA ",ARG| LA PAMPA TV HD
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/97698.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG | UNITEVE  " tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n1fbX7TLjTbh-nPgXMaKf3oNIhFVInZBLXvH9Ff4bPBHM=s900-c-k-c0x00ffffff-no-rj" group-title="▶️ ARGENTINA ",ARG | UNITEVE
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/97704.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG| CANAL 22 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ7APZazFUwmkatKqXteRnFgKpg6ZS_gIQ4B36QjIavA&s=10" group-title="▶️ ARGENTINA ",ARG| CANAL 22 HD
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/97706.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 4" tvg-logo="https://yt3.googleusercontent.com/0iRWn9dDzgOJHgnCyphfgVacDPhB85mMbAHb7cibSJHoBDIc2U7516EQrK0xA3ywFQZAmfh_Yac=s900-c-k-c0x00ffffff-no-rj" group-title="▶️ ARGENTINA ",CANAL 4
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/97713.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG : DEPORTV  HD" tvg-logo="https://d3b5jqy5xuub7g.cloudfront.net/wp-content/uploads/2018/11/FichaDeporTV-2.jpg" group-title="▶️ ARGENTINA ",ARG : DEPORTV  HD
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/97712.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG I TYC SPORTS " tvg-logo="https://play-lh.googleusercontent.com/UnFKU4pV6JgckUG9v1f8v6Ka8DOsvQzbt1aw4KyKaXP7_vNTEC6P-dONJ4a_f7HRLqDK=w416-h235-rw" group-title="▶️ ARGENTINA ",ARG I TYC SPORTS
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/97710.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG I T&C SPORTS SD" tvg-logo="https://play-lh.googleusercontent.com/UnFKU4pV6JgckUG9v1f8v6Ka8DOsvQzbt1aw4KyKaXP7_vNTEC6P-dONJ4a_f7HRLqDK=w416-h235-rw" group-title="▶️ ARGENTINA ",ARG I T&C SPORTS SD
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/97709.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG : Canal 26 HD" tvg-logo="https://yt3.googleusercontent.com/iwy544rQZtfKaTCTqIFUSov8vJk3usPK8bqGzR-JdQwSBEBJiGIacr3v7L3t8w9Xq7Ny6E5z=s900-c-k-c0x00ffffff-no-rj" group-title="▶️ ARGENTINA ",ARG : Canal 26 HD
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/97672.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG | TNT SPORTS  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDGar_GA4TXM9ijFw1JNFOTOYpEJiuAffL3OpFbVBN7eKuLTyW2RxhrBYr&s=10" group-title="▶️ ARGENTINA ",ARG | TNT SPORTS  FHD
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/97708.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG I T&C SPORTS  HD" tvg-logo="https://play-lh.googleusercontent.com/UnFKU4pV6JgckUG9v1f8v6Ka8DOsvQzbt1aw4KyKaXP7_vNTEC6P-dONJ4a_f7HRLqDK=w416-h235-rw" group-title="▶️ ARGENTINA ",ARG I T&C SPORTS  HD
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/97711.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG| C5N HD" tvg-logo="https://yt3.googleusercontent.com/41G-GpD0EBSWwbNFLR0Bf15WAfi4SVpJVDgb-LgR3r80MVwhuKuiEZ2QBQhm-raUw9XNbRQY=s900-c-k-c0x00ffffff-no-rj" group-title="▶️ ARGENTINA ",ARG| C5N HD
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/105110.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG| TELEFE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="▶️ ARGENTINA ",ARG| TELEFE SD
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/97679.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG| TELEFE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="▶️ ARGENTINA ",ARG| TELEFE HD
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/97678.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG| TV PUBLICA  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/640px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" group-title="▶️ ARGENTINA ",ARG| TV PUBLICA  HD
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/97696.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG I T&C SPORTS SD" tvg-logo="http://flx.lat:8080/images/9ea3d3078da5eeb5b596ce02439dd2af.jpg" group-title="▶️ DEPORTES ARGENTINA ",ARG I T&C SPORTS SD
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/120636.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG I T&C SPORTS  HD" tvg-logo="http://flx.lat:8080/images/9ea3d3078da5eeb5b596ce02439dd2af.jpg" group-title="▶️ DEPORTES ARGENTINA ",ARG I T&C SPORTS  HD
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/120635.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG | FOX SPORTS 1 HD" tvg-logo="http://flx.lat:8080/images/e5308aa8bb92574804b3eff696c27caa.png" group-title="▶️ DEPORTES ARGENTINA ",ARG | FOX SPORTS 1 HD
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/120634.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG | FOX SPORTS 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Fox_Sports_2_Logo_2022.png" group-title="▶️ DEPORTES ARGENTINA ",ARG | FOX SPORTS 2 HD
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/120633.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG | FOX SPORTS 3 HD" tvg-logo="http://flx.lat:8080/images/d05ecbde8f2de308085f6693df1f6a79.png" group-title="▶️ DEPORTES ARGENTINA ",ARG | FOX SPORTS 3 HD
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/120632.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG | TyC Sports HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdSI5R05ajZXvxYFbLs6fZwIJXNp5BkTwm2A&s" group-title="▶️ DEPORTES ARGENTINA ",ARG | TyC Sports HD
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/106104.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG | TYC Sports OPC 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdSI5R05ajZXvxYFbLs6fZwIJXNp5BkTwm2A&s" group-title="▶️ DEPORTES ARGENTINA ",ARG | TYC Sports OPC 2
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/140434.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG | TYC Sports SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdSI5R05ajZXvxYFbLs6fZwIJXNp5BkTwm2A&s" group-title="▶️ DEPORTES ARGENTINA ",ARG | TYC Sports SD
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/129438.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG | TNT SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYXSDwn6wCLfVXPwXevWpRm4aYgYBHlz-WlQ&s" group-title="▶️ DEPORTES ARGENTINA ",ARG | TNT SPORTS
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/120641.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG | TNT SPORTS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYXSDwn6wCLfVXPwXevWpRm4aYgYBHlz-WlQ&s" group-title="▶️ DEPORTES ARGENTINA ",ARG | TNT SPORTS HD
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/120637.ts
+#EXTINF:-1 tvg-id="" tvg-name=" ARG | ESPN HD" tvg-logo="http://flx.lat:8080/images/4b91b95e2dde6009b81b5066503793b3.png" group-title="▶️ DEPORTES ARGENTINA ", ARG | ESPN HD
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/120640.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG | ESPN PREMIUM" tvg-logo="http://flx.lat:8080/images/4b91b95e2dde6009b81b5066503793b3.png" group-title="▶️ DEPORTES ARGENTINA ",ARG | ESPN PREMIUM
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/120639.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG | ESPN PREMIUM" tvg-logo="http://flx.lat:8080/images/4b91b95e2dde6009b81b5066503793b3.png" group-title="▶️ DEPORTES ARGENTINA ",ARG | ESPN PREMIUM
+http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/120638.ts
