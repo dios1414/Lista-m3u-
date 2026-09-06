@@ -1,4 +1,224 @@
+
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="AR | LN +" tvg-logo="http://live.detodotvplay.com:80/images/jkDf-QiMjV7brA6RQkqlNE58WimsZef2vec-nzRyuS95ljMAC-SEmcYfuwRcIkpP.png" group-title="ARGENTINA",AR | LN +
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1978218.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | A24" tvg-logo="https://www.lyngsat.com/logo/flag/az/ar.png" group-title="ARGENTINA",AR | A24
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1978217.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="F1 - DRIVER - GASLY [ALPINE] FHD" tvg-logo="https://go4.pw/FORMULA/driver.png" group-title="VIP | FORMULA 1 CAMARAS",F1 - DRIVER - GASLY [ALPINE] FHD
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1633660.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="F1 - DRIVER - DOOHAN [ALPINE] FHD" tvg-logo="https://go4.pw/FORMULA/driver.png" group-title="VIP | FORMULA 1 CAMARAS",F1 - DRIVER - DOOHAN [ALPINE] FHD
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1633658.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="F1 - DRIVER - ALONSO [ASTON MARTIN] FHD" tvg-logo="https://go4.pw/FORMULA/driver.png" group-title="VIP | FORMULA 1 CAMARAS",F1 - DRIVER - ALONSO [ASTON MARTIN] FHD
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1633657.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="F1 - DRIVER - STROLL [ASTON MARTIN] FHD" tvg-logo="https://go4.pw/FORMULA/driver.png" group-title="VIP | FORMULA 1 CAMARAS",F1 - DRIVER - STROLL [ASTON MARTIN] FHD
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1633656.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="F1 - DRIVER - LECLERC [FERRARI] FHD" tvg-logo="https://go4.pw/FORMULA/driver.png" group-title="VIP | FORMULA 1 CAMARAS",F1 - DRIVER - LECLERC [FERRARI] FHD
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1633655.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="F1 - DRIVER - HAMILTON [FERRARI] FHD" tvg-logo="https://go4.pw/FORMULA/driver.png" group-title="VIP | FORMULA 1 CAMARAS",F1 - DRIVER - HAMILTON [FERRARI] FHD
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1633654.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="F1 - DRIVER - BEARMAN [HAAS] FHD" tvg-logo="https://go4.pw/FORMULA/driver.png" group-title="VIP | FORMULA 1 CAMARAS",F1 - DRIVER - BEARMAN [HAAS] FHD
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1633653.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="F1 - DRIVER - OCON [HAAS] FHD" tvg-logo="https://go4.pw/FORMULA/driver.png" group-title="VIP | FORMULA 1 CAMARAS",F1 - DRIVER - OCON [HAAS] FHD
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1633652.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="F1 - DRIVER - PIASTRI [MCLAREN] FHD" tvg-logo="https://go4.pw/FORMULA/driver.png" group-title="VIP | FORMULA 1 CAMARAS",F1 - DRIVER - PIASTRI [MCLAREN] FHD
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1633651.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="F1 - DRIVER - NORRIS [MCLAREN] FHD" tvg-logo="https://go4.pw/FORMULA/driver.png" group-title="VIP | FORMULA 1 CAMARAS",F1 - DRIVER - NORRIS [MCLAREN] FHD
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1633650.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="F1 - DRIVER - RUSSELL [MERCEDES] FHD" tvg-logo="https://go4.pw/FORMULA/driver.png" group-title="VIP | FORMULA 1 CAMARAS",F1 - DRIVER - RUSSELL [MERCEDES] FHD
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1633649.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="F1 - DRIVER - ANTONELLI [MERCEDES] FHD" tvg-logo="https://go4.pw/FORMULA/driver.png" group-title="VIP | FORMULA 1 CAMARAS",F1 - DRIVER - ANTONELLI [MERCEDES] FHD
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1633648.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="F1 - DRIVER - TSUNODA [RB] FHD" tvg-logo="https://go4.pw/FORMULA/driver.png" group-title="VIP | FORMULA 1 CAMARAS",F1 - DRIVER - TSUNODA [RB] FHD
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1633647.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="F1 - DRIVER - HADJAR [RB] FHD" tvg-logo="https://go4.pw/FORMULA/driver.png" group-title="VIP | FORMULA 1 CAMARAS",F1 - DRIVER - HADJAR [RB] FHD
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1633646.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="F1 - DRIVER - VERSTAPPEN [RED BULL] FHD" tvg-logo="https://go4.pw/FORMULA/driver.png" group-title="VIP | FORMULA 1 CAMARAS",F1 - DRIVER - VERSTAPPEN [RED BULL] FHD
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1633645.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="F1 - DRIVER - LAWSON [RED BULL] FHD" tvg-logo="https://go4.pw/FORMULA/driver.png" group-title="VIP | FORMULA 1 CAMARAS",F1 - DRIVER - LAWSON [RED BULL] FHD
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1633644.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="F1 - DRIVER - HULKENBERG [SAUBER] FHD" tvg-logo="https://go4.pw/FORMULA/driver.png" group-title="VIP | FORMULA 1 CAMARAS",F1 - DRIVER - HULKENBERG [SAUBER] FHD
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1633643.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="F1 - DRIVER - BORTOLETO [SAUBER] FHD" tvg-logo="https://go4.pw/FORMULA/driver.png" group-title="VIP | FORMULA 1 CAMARAS",F1 - DRIVER - BORTOLETO [SAUBER] FHD
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1633642.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="F1 - DRIVER - ALBON [WILLIAMS] FHD" tvg-logo="https://go4.pw/FORMULA/driver.png" group-title="VIP | FORMULA 1 CAMARAS",F1 - DRIVER - ALBON [WILLIAMS] FHD
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1633641.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="F1 - DRIVER - SAINZ [WILLIAMS] FHD" tvg-logo="https://go4.pw/FORMULA/driver.png" group-title="VIP | FORMULA 1 CAMARAS",F1 - DRIVER - SAINZ [WILLIAMS] FHD
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1633640.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="F1 | DISNEY+ ESPN" tvg-logo="https://i.ibb.co/gWQWYFV/FORMULA1.jpg" group-title="☑️ FORMULA 1",F1 | DISNEY+ ESPN
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1461388.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPL | FOX MX" tvg-logo="https://archive.org/download/whats-app-image-2023-09-24-at-2.53.23-am_202309/WhatsApp%20Image%202023-09-23%20at%209.32.24%20PM.jpeg" group-title="⚽ LIGA PROFESIONAL SAUDI",SPL | FOX MX
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1462904.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA ARGENTINA: ESPN PREMIUM op2" tvg-logo="https://th.bing.com/th/id/OIP.7ImEF92rhP5Q_-S32VsezAAAAA?rs=1&pid=ImgDetMain" group-title="⚽ LIGAS DE SUDAMERICA",LIGA ARGENTINA: ESPN PREMIUM op2
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1384511.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA COLOMBIA: WIN SPORTS OP1" tvg-logo="https://4.bp.blogspot.com/--o7TGjt5h0I/XNMUFyzD7CI/AAAAAAAADzk/LDHY91bVAU8n5YVl4q1gZQFyaVw9fHoygCK4BGAYYCw/s320/213-2136330_escudo-de-la-seleccion-colombia.jpg" group-title="⚽ LIGAS DE SUDAMERICA",LIGA COLOMBIA: WIN SPORTS OP1
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1384530.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | CINEAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/800px-Cine.Ar_logo.svg.png" group-title="ARGENTINA",ARGENTINA | CINEAR
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1409262.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA CHILENA: TNT SPORTS ESTADIO HD" tvg-logo="https://www.pesmaster.com/pes-2018/graphics/leaguelogos/emb_23.png?w=200" group-title="⚽ LIGAS DE SUDAMERICA",LIGA CHILENA: TNT SPORTS ESTADIO HD
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1384524.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA ARGENTINA: TYC  HD" tvg-logo="https://th.bing.com/th/id/OIP.7ImEF92rhP5Q_-S32VsezAAAAA?rs=1&pid=ImgDetMain" group-title="⚽ LIGAS DE SUDAMERICA",LIGA ARGENTINA: TYC  HD
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1384516.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA PERU: GOL PERU" tvg-logo="https://i1.wp.com/futbolyapuestasonline.com/wp-content/uploads/2019/02/Liga-1-peryu-1.jpg?fit=1200,1200&ssl=1" group-title="⚽ LIGAS DE SUDAMERICA",LIGA PERU: GOL PERU
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1384537.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA CHILENA: TNT SPORTS 2 HD*" tvg-logo="https://www.pesmaster.com/pes-2018/graphics/leaguelogos/emb_23.png?w=200" group-title="⚽ LIGAS DE SUDAMERICA",LIGA CHILENA: TNT SPORTS 2 HD*
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1384521.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA CHILENA: TNT SPORTS (enc) HD*" tvg-logo="https://www.pesmaster.com/pes-2018/graphics/leaguelogos/emb_23.png?w=200" group-title="⚽ LIGAS DE SUDAMERICA",LIGA CHILENA: TNT SPORTS (enc) HD*
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1384520.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPL | FOX HN OP2" tvg-logo="https://archive.org/download/whats-app-image-2023-09-24-at-2.53.23-am_202309/WhatsApp%20Image%202023-09-23%20at%209.32.24%20PM.jpeg" group-title="⚽ LIGA PROFESIONAL SAUDI",SPL | FOX HN OP2
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1388157.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA ECUADOR: GOL TV HD OP2" tvg-logo="https://logowik.com/content/uploads/images/football-of-ecuador-liga-pro5143.logowik.com.webp" group-title="⚽ LIGAS DE SUDAMERICA",LIGA ECUADOR: GOL TV HD OP2
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1384536.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA ARGENTINA: TNT SPORTS HD" tvg-logo="https://th.bing.com/th/id/OIP.7ImEF92rhP5Q_-S32VsezAAAAA?rs=1&pid=ImgDetMain" group-title="⚽ LIGAS DE SUDAMERICA",LIGA ARGENTINA: TNT SPORTS HD
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1384514.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA ARGENTINA: ESPN PREMIUM" tvg-logo="https://th.bing.com/th/id/OIP.7ImEF92rhP5Q_-S32VsezAAAAA?rs=1&pid=ImgDetMain" group-title="⚽ LIGAS DE SUDAMERICA",LIGA ARGENTINA: ESPN PREMIUM
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1384510.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA URUGUAY: VTV HD" tvg-logo="https://yt3.ggpht.com/a/AATXAJyu83f3fkawUu9A1zVuw66l14DkqTYJimMJCA=s900-c-k-c0xffffffff-no-rj-mo" group-title="⚽ LIGAS DE SUDAMERICA",LIGA URUGUAY: VTV HD
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1384541.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA CHILENA: TNT SPORTS 3*" tvg-logo="https://www.pesmaster.com/pes-2018/graphics/leaguelogos/emb_23.png?w=200" group-title="⚽ LIGAS DE SUDAMERICA",LIGA CHILENA: TNT SPORTS 3*
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1384522.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA BRASILEÑA: PREMIERE SPORTS 1" tvg-logo="https://th.bing.com/th/id/R.6318f1efa543d1c631cd576ec01d2188?rik=CgTTJA3n50fPEQ&riu=http://www.todoultimateteam.com/wp-content/uploads/2016/08/Liga-de-Brasil-FIFA17.png&ehk=OjUkcPeHsZ4ijN1yyXwz0MpE0SUyo2K4dbOlYV3exo8=&risl=&pid=ImgRaw&r=0" group-title="⚽ LIGAS DE SUDAMERICA",LIGA BRASILEÑA: PREMIERE SPORTS 1
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1384518.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA ECUADOR: DIRECTV SPORTS 1" tvg-logo="https://logowik.com/content/uploads/images/football-of-ecuador-liga-pro5143.logowik.com.webp" group-title="⚽ LIGAS DE SUDAMERICA",LIGA ECUADOR: DIRECTV SPORTS 1
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1384533.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA COLOMBIA: WIN SPORTS + OP2" tvg-logo="https://4.bp.blogspot.com/--o7TGjt5h0I/XNMUFyzD7CI/AAAAAAAADzk/LDHY91bVAU8n5YVl4q1gZQFyaVw9fHoygCK4BGAYYCw/s320/213-2136330_escudo-de-la-seleccion-colombia.jpg" group-title="⚽ LIGAS DE SUDAMERICA",LIGA COLOMBIA: WIN SPORTS + OP2
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1384528.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="F1 | Sky Sports  FHD" tvg-logo="https://i.ibb.co/gWQWYFV/FORMULA1.jpg" group-title="☑️ FORMULA 1",F1 | Sky Sports  FHD
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1399193.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARG | Canal Claro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="ARGENTINA",ARG | Canal Claro
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1394282.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA ARGENTINA: TNT SPORTS SD" tvg-logo="https://th.bing.com/th/id/OIP.7ImEF92rhP5Q_-S32VsezAAAAA?rs=1&pid=ImgDetMain" group-title="⚽ LIGAS DE SUDAMERICA",LIGA ARGENTINA: TNT SPORTS SD
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1384515.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | TELEFE OP2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA",ARGENTINA | TELEFE OP2
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1394278.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA PERU: LIGA 1" tvg-logo="https://i1.wp.com/futbolyapuestasonline.com/wp-content/uploads/2019/02/Liga-1-peryu-1.jpg?fit=1200,1200&ssl=1" group-title="⚽ LIGAS DE SUDAMERICA",LIGA PERU: LIGA 1
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1384538.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA PERU: LIGA 1 MAX" tvg-logo="https://i1.wp.com/futbolyapuestasonline.com/wp-content/uploads/2019/02/Liga-1-peryu-1.jpg?fit=1200,1200&ssl=1" group-title="⚽ LIGAS DE SUDAMERICA",LIGA PERU: LIGA 1 MAX
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1384539.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA COLOMBIA: WIN SPORTS + OP1" tvg-logo="https://4.bp.blogspot.com/--o7TGjt5h0I/XNMUFyzD7CI/AAAAAAAADzk/LDHY91bVAU8n5YVl4q1gZQFyaVw9fHoygCK4BGAYYCw/s320/213-2136330_escudo-de-la-seleccion-colombia.jpg" group-title="⚽ LIGAS DE SUDAMERICA",LIGA COLOMBIA: WIN SPORTS + OP1
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1384527.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | EL TRECE OP2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_de_eltrece_lanzado_en_2016.png" group-title="ARGENTINA",ARGENTINA | EL TRECE OP2
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1394279.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA CHILENA: TNT SPORTS ESTADIO 2 HD (solo eventos)" tvg-logo="https://www.pesmaster.com/pes-2018/graphics/leaguelogos/emb_23.png?w=200" group-title="⚽ LIGAS DE SUDAMERICA",LIGA CHILENA: TNT SPORTS ESTADIO 2 HD (solo eventos)
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1384523.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA ECUADOR: EL CANAL DEL FÚTBOL" tvg-logo="https://logowik.com/content/uploads/images/football-of-ecuador-liga-pro5143.logowik.com.webp" group-title="⚽ LIGAS DE SUDAMERICA",LIGA ECUADOR: EL CANAL DEL FÚTBOL
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1384534.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA ARGENTINA: TYC SPORTS FHD" tvg-logo="https://th.bing.com/th/id/OIP.7ImEF92rhP5Q_-S32VsezAAAAA?rs=1&pid=ImgDetMain" group-title="⚽ LIGAS DE SUDAMERICA",LIGA ARGENTINA: TYC SPORTS FHD
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1384517.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA ARGENTINA: ESPN PREMIUM" tvg-logo="https://th.bing.com/th/id/OIP.7ImEF92rhP5Q_-S32VsezAAAAA?rs=1&pid=ImgDetMain" group-title="⚽ LIGAS DE SUDAMERICA",LIGA ARGENTINA: ESPN PREMIUM
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1384512.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA CHILENA: TNT SPORTS SD" tvg-logo="https://www.pesmaster.com/pes-2018/graphics/leaguelogos/emb_23.png?w=200" group-title="⚽ LIGAS DE SUDAMERICA",LIGA CHILENA: TNT SPORTS SD
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1384526.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA ECUADOR: GOL TV HD OP1" tvg-logo="https://logowik.com/content/uploads/images/football-of-ecuador-liga-pro5143.logowik.com.webp" group-title="⚽ LIGAS DE SUDAMERICA",LIGA ECUADOR: GOL TV HD OP1
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1384535.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA BRASILEÑA: SPORTV 3 HD" tvg-logo="https://th.bing.com/th/id/R.6318f1efa543d1c631cd576ec01d2188?rik=CgTTJA3n50fPEQ&riu=http://www.todoultimateteam.com/wp-content/uploads/2016/08/Liga-de-Brasil-FIFA17.png&ehk=OjUkcPeHsZ4ijN1yyXwz0MpE0SUyo2K4dbOlYV3exo8=&risl=&pid=ImgRaw&r=0" group-title="⚽ LIGAS DE SUDAMERICA",LIGA BRASILEÑA: SPORTV 3 HD
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1384519.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA COLOMBIA: WIN SPORTS + OP3" tvg-logo="https://4.bp.blogspot.com/--o7TGjt5h0I/XNMUFyzD7CI/AAAAAAAADzk/LDHY91bVAU8n5YVl4q1gZQFyaVw9fHoygCK4BGAYYCw/s320/213-2136330_escudo-de-la-seleccion-colombia.jpg" group-title="⚽ LIGAS DE SUDAMERICA",LIGA COLOMBIA: WIN SPORTS + OP3
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1384529.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA PERU: MOVISTAR PLUS" tvg-logo="https://i1.wp.com/futbolyapuestasonline.com/wp-content/uploads/2019/02/Liga-1-peryu-1.jpg?fit=1200,1200&ssl=1" group-title="⚽ LIGAS DE SUDAMERICA",LIGA PERU: MOVISTAR PLUS
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1384540.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIGA URUGUAY: VTV PLUS" tvg-logo="https://yt3.ggpht.com/a/AATXAJyu83f3fkawUu9A1zVuw66l14DkqTYJimMJCA=s900-c-k-c0xffffffff-no-rj-mo" group-title="⚽ LIGAS DE SUDAMERICA",LIGA URUGUAY: VTV PLUS
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1384542.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPL | FS2" tvg-logo="https://archive.org/download/whats-app-image-2023-09-24-at-2.53.23-am_202309/WhatsApp%20Image%202023-09-23%20at%209.32.24%20PM.jpeg" group-title="⚽ LIGA PROFESIONAL SAUDI",SPL | FS2
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/806915.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPL | AZTECA DEPORTES" tvg-logo="https://archive.org/download/whats-app-image-2023-09-24-at-2.53.23-am_202309/WhatsApp%20Image%202023-09-23%20at%209.32.24%20PM.jpeg" group-title="⚽ LIGA PROFESIONAL SAUDI",SPL | AZTECA DEPORTES
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/820857.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="F1 | FOX SPORTS ARG" tvg-logo="https://i.ibb.co/gWQWYFV/FORMULA1.jpg" group-title="☑️ FORMULA 1",F1 | FOX SPORTS ARG
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/783623.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPL | MOVISTAR VAMOS" tvg-logo="https://archive.org/download/whats-app-image-2023-09-24-at-2.53.23-am_202309/WhatsApp%20Image%202023-09-23%20at%209.32.24%20PM.jpeg" group-title="⚽ LIGA PROFESIONAL SAUDI",SPL | MOVISTAR VAMOS
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/806909.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="F1 | DAZN" tvg-logo="https://i.ibb.co/gWQWYFV/FORMULA1.jpg" group-title="☑️ FORMULA 1",F1 | DAZN
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/783627.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="F1 | ESPN 2" tvg-logo="https://i.ibb.co/gWQWYFV/FORMULA1.jpg" group-title="☑️ FORMULA 1",F1 | ESPN 2
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/783624.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="F1 | ESPN DEPORTES OP2" tvg-logo="https://i.ibb.co/gWQWYFV/FORMULA1.jpg" group-title="☑️ FORMULA 1",F1 | ESPN DEPORTES OP2
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/783622.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPL | SPORT TV 1" tvg-logo="https://archive.org/download/whats-app-image-2023-09-24-at-2.53.23-am_202309/WhatsApp%20Image%202023-09-23%20at%209.32.24%20PM.jpeg" group-title="⚽ LIGA PROFESIONAL SAUDI",SPL | SPORT TV 1
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/810678.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="F1 | F1 TV" tvg-logo="https://i.ibb.co/gWQWYFV/FORMULA1.jpg" group-title="☑️ FORMULA 1",F1 | F1 TV
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/783625.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPL | FOX CR OP3" tvg-logo="https://archive.org/download/whats-app-image-2023-09-24-at-2.53.23-am_202309/WhatsApp%20Image%202023-09-23%20at%209.32.24%20PM.jpeg" group-title="⚽ LIGA PROFESIONAL SAUDI",SPL | FOX CR OP3
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/810679.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPL | FOX DEPORTES" tvg-logo="https://archive.org/download/whats-app-image-2023-09-24-at-2.53.23-am_202309/WhatsApp%20Image%202023-09-23%20at%209.32.24%20PM.jpeg" group-title="⚽ LIGA PROFESIONAL SAUDI",SPL | FOX DEPORTES
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/806914.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US | Sky Sports F1 4k" tvg-logo="https://i.ibb.co/gWQWYFV/FORMULA1.jpg" group-title="☑️ FORMULA 1",US | Sky Sports F1 4k
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/783621.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPL | FOX SOCCER PLUS" tvg-logo="https://archive.org/download/whats-app-image-2023-09-24-at-2.53.23-am_202309/WhatsApp%20Image%202023-09-23%20at%209.32.24%20PM.jpeg" group-title="⚽ LIGA PROFESIONAL SAUDI",SPL | FOX SOCCER PLUS
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/806916.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARG | Diputados TV HD" tvg-logo="http://logos.digitalesnetworks.com/logotipos/ELNUEVEARGENTINA.png" group-title="ARGENTINA",ARG | Diputados TV HD
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/501265.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA l EL TRECE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_de_eltrece_lanzado_en_2016.png" group-title="ARGENTINA",ARGENTINA l EL TRECE
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/334375.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="F1 | ESPN USA" tvg-logo="https://i.ibb.co/gWQWYFV/FORMULA1.jpg" group-title="☑️ FORMULA 1",F1 | ESPN USA
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/342953.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARG |  Television Publica HD" tvg-logo="https://i.imgur.com/0xDiPya.png" group-title="ARGENTINA",ARG |  Television Publica HD
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/334384.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARG | TyC Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png" group-title="ARGENTINA",ARG | TyC Sports HD
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/334271.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA l El Nueve HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="ARGENTINA",ARGENTINA l El Nueve HD
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/334352.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARG |  Canal 26 Noticias HD" tvg-logo="https://i.imgur.com/7R7EcjP.png" group-title="ARGENTINA",ARG |  Canal 26 Noticias HD
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1169.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARG | Canal 26  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telemax.png" group-title="ARGENTINA",ARG | Canal 26  HD
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/334405.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA l Ciudad Magazine" tvg-logo="https://i.imgur.com/UMJSpxw.png" group-title="ARGENTINA",ARGENTINA l Ciudad Magazine
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/334371.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARG l AMERICA TV SD" tvg-logo="https://i.imgur.com/8ZGBx6j.png" group-title="ARGENTINA",ARG l AMERICA TV SD
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1164.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="ARGENTINA",ARGENTINA | ESPN 3
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/334397.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA l América TV HD" tvg-logo="https://i.imgur.com/8ZGBx6j.png" group-title="ARGENTINA",ARGENTINA l América TV HD
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/334362.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT | GLITZ HD℠" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.png" group-title="ARGENTINA",LAT | GLITZ HD℠
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/334377.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="F1 | ESPN DEPORTES" tvg-logo="https://i.ibb.co/gWQWYFV/FORMULA1.jpg" group-title="☑️ FORMULA 1",F1 | ESPN DEPORTES
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/352231.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA l DEPORTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/DXTV2012logo.png/revision/latest/scale-to-width-down/1200?cb=20210101171037&path-prefix=es" group-title="ARGENTINA",ARGENTINA l DEPORTV
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/334373.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA l C5N FHD" tvg-logo="https://i.imgur.com/fVPjvgf.png" group-title="ARGENTINA",ARGENTINA l C5N FHD
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/334340.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | FOX SPORTS PREMIUM" tvg-logo="https://i.imgur.com/ER0ysRD.png" group-title="ARGENTINA",ARGENTINA | FOX SPORTS PREMIUM
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/334402.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA l Cronica" tvg-logo="https://i.imgur.com/rqVBl9M.png" group-title="ARGENTINA",ARGENTINA l Cronica
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/334372.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA l Garaje" tvg-logo="https://i.imgur.com/oKnl2jS.png" group-title="ARGENTINA",ARGENTINA l Garaje
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/334376.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | TELEFE BUENOS AIRES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA",ARGENTINA | TELEFE BUENOS AIRES
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/334404.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARG |  Encuentro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Logo_canal_encuentro_2016.png" group-title="ARGENTINA",ARG |  Encuentro
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/334347.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA l Canal 26" tvg-logo="https://i.imgur.com/7R7EcjP.png" group-title="ARGENTINA",ARGENTINA l Canal 26
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/334370.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA l TN" tvg-logo="https://i.imgur.com/9DfBejx.png" group-title="ARGENTINA",ARGENTINA l TN
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/334383.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="F1 | DAZN" tvg-logo="https://i.ibb.co/gWQWYFV/FORMULA1.jpg" group-title="☑️ FORMULA 1",F1 | DAZN
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/342952.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | ESPN 4" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/c/ce/Large.1905650939_ESPN4.png.66e5580fda43eb907003d41f9d4770f4.png/revision/latest?cb=20220201222409&path-prefix=es" group-title="ARGENTINA",ARGENTINA | ESPN 4
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/334398.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARG | ESPN 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/ESPN2_2006.svg/revision/latest/scale-to-width-down/300?cb=20200105155601&path-prefix=es" group-title="ARGENTINA",ARG | ESPN 2 HD
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/334396.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Prime Olympic 11: 1:05PM SUI vs KOR (Md Round-Robin)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2026_Winter_Olympics_logo.svg/1280px-2026_Winter_Olympics_logo.svg.png" group-title="VIP | FORMULA 1 CAMARAS",Prime Olympic 11: 1:05PM SUI vs KOR (Md Round-Robin)
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1620113.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Prime Olympic 12: 1:05PM CZE vs GBR (Md Round-Robin)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2026_Winter_Olympics_logo.svg/1280px-2026_Winter_Olympics_logo.svg.png" group-title="VIP | FORMULA 1 CAMARAS",Prime Olympic 12: 1:05PM CZE vs GBR (Md Round-Robin)
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1620112.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Prime Olympic 13: 1:30PM Men's Sb Big Air: Qualifying" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2026_Winter_Olympics_logo.svg/1280px-2026_Winter_Olympics_logo.svg.png" group-title="VIP | FORMULA 1 CAMARAS",Prime Olympic 13: 1:30PM Men's Sb Big Air: Qualifying
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1620111.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Prime Olympic 14: 3:10PM FIN vs CAN (W Group A)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2026_Winter_Olympics_logo.svg/1280px-2026_Winter_Olympics_logo.svg.png" group-title="VIP | FORMULA 1 CAMARAS",Prime Olympic 14: 3:10PM FIN vs CAN (W Group A)
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1620110.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Prime Olympic 15:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2026_Winter_Olympics_logo.svg/1280px-2026_Winter_Olympics_logo.svg.png" group-title="VIP | FORMULA 1 CAMARAS",Prime Olympic 15:
+http://liontv.es:8080/live/WaleskaArgueta/Argueta24/1620109.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="La Brea S03 E01" tvg-logo="https://image.tmdb.org/t/p/w185/jo9EVn76DwXRKVAxtExDz6rBwab.jpg" group-title="DIRECT TV GO",La Brea S03 E01
+http://liontv.es:8080/series/WaleskaArgueta/Argueta24/1716207.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Brea S03 E02" tvg-logo="https://image.tmdb.org/t/p/w185/nilHHLwz5kBNdcmYgSYKNlRSq2x.jpg" group-title="DIRECT TV GO",La Brea S03 E02
+http://liontv.es:8080/series/WaleskaArgueta/Argueta24/1716208.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Brea S03 E03" tvg-logo="https://image.tmdb.org/t/p/w185/bCButzt2DiKv765tStkIGmktgN1.jpg" group-title="DIRECT TV GO",La Brea S03 E03
+http://liontv.es:8080/series/WaleskaArgueta/Argueta24/1716209.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Brea S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8sp9cyIMnh3mS6uZ7myVUvQ0SvR.jpg" group-title="DIRECT TV GO",La Brea S03 E04
+http://liontv.es:8080/series/WaleskaArgueta/Argueta24/1617994.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Brea S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8sp9cyIMnh3mS6uZ7myVUvQ0SvR.jpg" group-title="DIRECT TV GO",La Brea S03 E05
+http://liontv.es:8080/series/WaleskaArgueta/Argueta24/1617993.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Brea S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8sp9cyIMnh3mS6uZ7myVUvQ0SvR.jpg" group-title="DIRECT TV GO",La Brea S03 E06
+http://liontv.es:8080/series/WaleskaArgueta/Argueta24/1617992.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://i.pinimg.com/474x/d1/32/ab/d132abffb1021e2f5ae191f46a17680d.jpg" group-title="✅ ⚽  DISNEY + ✅",ESPN
 http://flexlive.lat:8080/live/pjldebora/cXs3kuYyf2Aw/269792.ts
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://i.pinimg.com/474x/d1/32/ab/d132abffb1021e2f5ae191f46a17680d.jpg" group-title="✅ ⚽  DISNEY + ✅",ESPN 2
